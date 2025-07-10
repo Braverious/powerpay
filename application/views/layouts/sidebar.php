@@ -51,6 +51,11 @@
 			<li class="sidebar-header">
 				Pengaturan
 			</li>
+			<li class="sidebar-item">
+				<a class="sidebar-link" href="<?= base_url("pelanggan/logout") ?>">
+					<i class="align-middle" data-feather="log-out"></i> <span class="align-middle">Keluar</span>
+				</a>
+			</li>
 
 
 	</div>

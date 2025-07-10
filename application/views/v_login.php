@@ -96,6 +96,9 @@ if ($this->session->flashdata('validation_err')) {
         <p class="text-center text-sm text-gray-600 mt-4">
           Belum punya akun? <a href="<?= base_url("/pelanggan/daftar") ?>" class="font-medium text-yellow-600 hover:text-yellow-700">Daftar di sini</a>
         </p>
+        <p class="text-center text-sm text-gray-600">
+          Masuk sebagai Admin <a href="<?= base_url("/administrator/masuk") ?>" class="font-medium text-yellow-600 hover:text-yellow-700">Klik di sini</a>
+        </p>
       </div>
 
       <div class="text-center mt-2">

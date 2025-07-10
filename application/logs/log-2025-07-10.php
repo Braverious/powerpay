@@ -12446,3 +12446,1933 @@ INFO - 2025-07-10 15:50:39 --> File loaded: C:\xampp\htdocs\pln\application\view
 INFO - 2025-07-10 15:50:39 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/end.php
 INFO - 2025-07-10 15:50:39 --> Final output sent to browser
 DEBUG - 2025-07-10 15:50:39 --> Total execution time: 0.1247
+INFO - 2025-07-10 15:55:19 --> Config Class Initialized
+INFO - 2025-07-10 15:55:19 --> Hooks Class Initialized
+DEBUG - 2025-07-10 15:55:19 --> UTF-8 Support Enabled
+INFO - 2025-07-10 15:55:19 --> Utf8 Class Initialized
+INFO - 2025-07-10 15:55:19 --> URI Class Initialized
+INFO - 2025-07-10 15:55:19 --> Router Class Initialized
+INFO - 2025-07-10 15:55:19 --> Output Class Initialized
+INFO - 2025-07-10 15:55:19 --> Security Class Initialized
+DEBUG - 2025-07-10 15:55:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-07-10 15:55:19 --> Input Class Initialized
+INFO - 2025-07-10 15:55:19 --> Language Class Initialized
+INFO - 2025-07-10 15:55:19 --> Loader Class Initialized
+INFO - 2025-07-10 15:55:19 --> Helper loaded: url_helper
+INFO - 2025-07-10 15:55:19 --> Helper loaded: file_helper
+INFO - 2025-07-10 15:55:19 --> Helper loaded: csmr_auth_helper
+INFO - 2025-07-10 15:55:19 --> Helper loaded: auto_number_helper
+INFO - 2025-07-10 15:55:19 --> Helper loaded: user_auth_helper
+INFO - 2025-07-10 15:55:19 --> Helper loaded: xdate_helper
+INFO - 2025-07-10 15:55:19 --> Helper loaded: public_helper
+INFO - 2025-07-10 15:55:19 --> Database Driver Class Initialized
+INFO - 2025-07-10 15:55:19 --> Email Class Initialized
+INFO - 2025-07-10 15:55:19 --> Session: Class initialized using 'files' driver.
+INFO - 2025-07-10 15:55:19 --> Helper loaded: form_helper
+INFO - 2025-07-10 15:55:19 --> Form Validation Class Initialized
+INFO - 2025-07-10 15:55:19 --> Model "M_user" initialized
+INFO - 2025-07-10 15:55:19 --> Model "M_customer" initialized
+INFO - 2025-07-10 15:55:19 --> Model "M_tariff" initialized
+INFO - 2025-07-10 15:55:19 --> Model "M_usage" initialized
+INFO - 2025-07-10 15:55:19 --> Model "M_bill" initialized
+INFO - 2025-07-10 15:55:19 --> Model "M_payment" initialized
+INFO - 2025-07-10 15:55:19 --> Model "M_dashboard" initialized
+INFO - 2025-07-10 15:55:19 --> Controller Class Initialized
+DEBUG - 2025-07-10 15:55:19 --> DB cache path error: C:\xampp\htdocs\pln\application\cache/db/
+INFO - 2025-07-10 15:55:19 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/head.php
+INFO - 2025-07-10 15:55:19 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/sidebar.php
+INFO - 2025-07-10 15:55:19 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/header.php
+INFO - 2025-07-10 15:55:19 --> File loaded: C:\xampp\htdocs\pln\application\views\v_dashboard.php
+INFO - 2025-07-10 15:55:19 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/footer.php
+INFO - 2025-07-10 15:55:19 --> File loaded: C:\xampp\htdocs\pln\application\views\script/sc_dash.php
+INFO - 2025-07-10 15:55:19 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/end.php
+INFO - 2025-07-10 15:55:19 --> Final output sent to browser
+DEBUG - 2025-07-10 15:55:19 --> Total execution time: 0.1417
+INFO - 2025-07-10 15:55:25 --> Config Class Initialized
+INFO - 2025-07-10 15:55:25 --> Hooks Class Initialized
+DEBUG - 2025-07-10 15:55:25 --> UTF-8 Support Enabled
+INFO - 2025-07-10 15:55:25 --> Utf8 Class Initialized
+INFO - 2025-07-10 15:55:25 --> URI Class Initialized
+INFO - 2025-07-10 15:55:25 --> Router Class Initialized
+INFO - 2025-07-10 15:55:25 --> Output Class Initialized
+INFO - 2025-07-10 15:55:25 --> Security Class Initialized
+DEBUG - 2025-07-10 15:55:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-07-10 15:55:25 --> Input Class Initialized
+INFO - 2025-07-10 15:55:25 --> Language Class Initialized
+INFO - 2025-07-10 15:55:25 --> Loader Class Initialized
+INFO - 2025-07-10 15:55:25 --> Helper loaded: url_helper
+INFO - 2025-07-10 15:55:25 --> Helper loaded: file_helper
+INFO - 2025-07-10 15:55:25 --> Helper loaded: csmr_auth_helper
+INFO - 2025-07-10 15:55:25 --> Helper loaded: auto_number_helper
+INFO - 2025-07-10 15:55:25 --> Helper loaded: user_auth_helper
+INFO - 2025-07-10 15:55:25 --> Helper loaded: xdate_helper
+INFO - 2025-07-10 15:55:25 --> Helper loaded: public_helper
+INFO - 2025-07-10 15:55:25 --> Database Driver Class Initialized
+INFO - 2025-07-10 15:55:25 --> Email Class Initialized
+INFO - 2025-07-10 15:55:25 --> Session: Class initialized using 'files' driver.
+INFO - 2025-07-10 15:55:25 --> Helper loaded: form_helper
+INFO - 2025-07-10 15:55:25 --> Form Validation Class Initialized
+INFO - 2025-07-10 15:55:25 --> Model "M_user" initialized
+INFO - 2025-07-10 15:55:25 --> Model "M_customer" initialized
+INFO - 2025-07-10 15:55:25 --> Model "M_tariff" initialized
+INFO - 2025-07-10 15:55:25 --> Model "M_usage" initialized
+INFO - 2025-07-10 15:55:25 --> Model "M_bill" initialized
+INFO - 2025-07-10 15:55:25 --> Model "M_payment" initialized
+INFO - 2025-07-10 15:55:25 --> Model "M_dashboard" initialized
+INFO - 2025-07-10 15:55:25 --> Controller Class Initialized
+DEBUG - 2025-07-10 15:55:25 --> DB cache path error: C:\xampp\htdocs\pln\application\cache/db/
+INFO - 2025-07-10 15:55:25 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/head.php
+INFO - 2025-07-10 15:55:25 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/sidebar.php
+INFO - 2025-07-10 15:55:25 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/header.php
+INFO - 2025-07-10 15:55:25 --> File loaded: C:\xampp\htdocs\pln\application\views\v_dashboard.php
+INFO - 2025-07-10 15:55:25 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/footer.php
+INFO - 2025-07-10 15:55:25 --> File loaded: C:\xampp\htdocs\pln\application\views\script/sc_dash.php
+INFO - 2025-07-10 15:55:25 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/end.php
+INFO - 2025-07-10 15:55:25 --> Final output sent to browser
+DEBUG - 2025-07-10 15:55:25 --> Total execution time: 0.1008
+INFO - 2025-07-10 15:55:42 --> Config Class Initialized
+INFO - 2025-07-10 15:55:42 --> Hooks Class Initialized
+DEBUG - 2025-07-10 15:55:42 --> UTF-8 Support Enabled
+INFO - 2025-07-10 15:55:42 --> Utf8 Class Initialized
+INFO - 2025-07-10 15:55:42 --> URI Class Initialized
+INFO - 2025-07-10 15:55:42 --> Router Class Initialized
+INFO - 2025-07-10 15:55:42 --> Output Class Initialized
+INFO - 2025-07-10 15:55:42 --> Security Class Initialized
+DEBUG - 2025-07-10 15:55:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-07-10 15:55:42 --> Input Class Initialized
+INFO - 2025-07-10 15:55:42 --> Language Class Initialized
+INFO - 2025-07-10 15:55:42 --> Loader Class Initialized
+INFO - 2025-07-10 15:55:42 --> Helper loaded: url_helper
+INFO - 2025-07-10 15:55:42 --> Helper loaded: file_helper
+INFO - 2025-07-10 15:55:42 --> Helper loaded: csmr_auth_helper
+INFO - 2025-07-10 15:55:42 --> Helper loaded: auto_number_helper
+INFO - 2025-07-10 15:55:42 --> Helper loaded: user_auth_helper
+INFO - 2025-07-10 15:55:42 --> Helper loaded: xdate_helper
+INFO - 2025-07-10 15:55:42 --> Helper loaded: public_helper
+INFO - 2025-07-10 15:55:42 --> Database Driver Class Initialized
+INFO - 2025-07-10 15:55:42 --> Email Class Initialized
+INFO - 2025-07-10 15:55:42 --> Session: Class initialized using 'files' driver.
+INFO - 2025-07-10 15:55:42 --> Helper loaded: form_helper
+INFO - 2025-07-10 15:55:42 --> Form Validation Class Initialized
+INFO - 2025-07-10 15:55:42 --> Model "M_user" initialized
+INFO - 2025-07-10 15:55:42 --> Model "M_customer" initialized
+INFO - 2025-07-10 15:55:42 --> Model "M_tariff" initialized
+INFO - 2025-07-10 15:55:42 --> Model "M_usage" initialized
+INFO - 2025-07-10 15:55:42 --> Model "M_bill" initialized
+INFO - 2025-07-10 15:55:42 --> Model "M_payment" initialized
+INFO - 2025-07-10 15:55:42 --> Model "M_dashboard" initialized
+INFO - 2025-07-10 15:55:42 --> Controller Class Initialized
+DEBUG - 2025-07-10 15:55:42 --> DB cache path error: C:\xampp\htdocs\pln\application\cache/db/
+INFO - 2025-07-10 15:55:42 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/head.php
+INFO - 2025-07-10 15:55:42 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/sidebar.php
+INFO - 2025-07-10 15:55:42 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/header.php
+INFO - 2025-07-10 15:55:42 --> File loaded: C:\xampp\htdocs\pln\application\views\v_dashboard.php
+INFO - 2025-07-10 15:55:42 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/footer.php
+INFO - 2025-07-10 15:55:42 --> File loaded: C:\xampp\htdocs\pln\application\views\script/sc_dash.php
+INFO - 2025-07-10 15:55:42 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/end.php
+INFO - 2025-07-10 15:55:42 --> Final output sent to browser
+DEBUG - 2025-07-10 15:55:42 --> Total execution time: 0.1284
+INFO - 2025-07-10 16:13:35 --> Config Class Initialized
+INFO - 2025-07-10 16:13:35 --> Hooks Class Initialized
+DEBUG - 2025-07-10 16:13:35 --> UTF-8 Support Enabled
+INFO - 2025-07-10 16:13:35 --> Utf8 Class Initialized
+INFO - 2025-07-10 16:13:35 --> URI Class Initialized
+INFO - 2025-07-10 16:13:35 --> Router Class Initialized
+INFO - 2025-07-10 16:13:35 --> Output Class Initialized
+INFO - 2025-07-10 16:13:35 --> Security Class Initialized
+DEBUG - 2025-07-10 16:13:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-07-10 16:13:35 --> Input Class Initialized
+INFO - 2025-07-10 16:13:35 --> Language Class Initialized
+INFO - 2025-07-10 16:13:35 --> Loader Class Initialized
+INFO - 2025-07-10 16:13:35 --> Helper loaded: url_helper
+INFO - 2025-07-10 16:13:35 --> Helper loaded: file_helper
+INFO - 2025-07-10 16:13:35 --> Helper loaded: csmr_auth_helper
+INFO - 2025-07-10 16:13:35 --> Helper loaded: auto_number_helper
+INFO - 2025-07-10 16:13:35 --> Helper loaded: user_auth_helper
+INFO - 2025-07-10 16:13:35 --> Helper loaded: xdate_helper
+INFO - 2025-07-10 16:13:35 --> Helper loaded: public_helper
+INFO - 2025-07-10 16:13:35 --> Database Driver Class Initialized
+INFO - 2025-07-10 16:13:35 --> Email Class Initialized
+INFO - 2025-07-10 16:13:35 --> Session: Class initialized using 'files' driver.
+INFO - 2025-07-10 16:13:35 --> Helper loaded: form_helper
+INFO - 2025-07-10 16:13:35 --> Form Validation Class Initialized
+INFO - 2025-07-10 16:13:36 --> Model "M_user" initialized
+INFO - 2025-07-10 16:13:36 --> Model "M_customer" initialized
+INFO - 2025-07-10 16:13:36 --> Model "M_tariff" initialized
+INFO - 2025-07-10 16:13:36 --> Model "M_usage" initialized
+INFO - 2025-07-10 16:13:36 --> Model "M_bill" initialized
+INFO - 2025-07-10 16:13:36 --> Model "M_payment" initialized
+INFO - 2025-07-10 16:13:36 --> Model "M_dashboard" initialized
+INFO - 2025-07-10 16:13:36 --> Controller Class Initialized
+INFO - 2025-07-10 16:13:36 --> Config Class Initialized
+INFO - 2025-07-10 16:13:36 --> Hooks Class Initialized
+DEBUG - 2025-07-10 16:13:36 --> UTF-8 Support Enabled
+INFO - 2025-07-10 16:13:36 --> Utf8 Class Initialized
+INFO - 2025-07-10 16:13:36 --> URI Class Initialized
+INFO - 2025-07-10 16:13:36 --> Router Class Initialized
+INFO - 2025-07-10 16:13:36 --> Output Class Initialized
+INFO - 2025-07-10 16:13:36 --> Security Class Initialized
+DEBUG - 2025-07-10 16:13:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-07-10 16:13:36 --> Input Class Initialized
+INFO - 2025-07-10 16:13:36 --> Language Class Initialized
+INFO - 2025-07-10 16:13:36 --> Loader Class Initialized
+INFO - 2025-07-10 16:13:36 --> Helper loaded: url_helper
+INFO - 2025-07-10 16:13:36 --> Helper loaded: file_helper
+INFO - 2025-07-10 16:13:36 --> Helper loaded: csmr_auth_helper
+INFO - 2025-07-10 16:13:36 --> Helper loaded: auto_number_helper
+INFO - 2025-07-10 16:13:36 --> Helper loaded: user_auth_helper
+INFO - 2025-07-10 16:13:36 --> Helper loaded: xdate_helper
+INFO - 2025-07-10 16:13:36 --> Helper loaded: public_helper
+INFO - 2025-07-10 16:13:36 --> Database Driver Class Initialized
+INFO - 2025-07-10 16:13:36 --> Email Class Initialized
+INFO - 2025-07-10 16:13:36 --> Session: Class initialized using 'files' driver.
+INFO - 2025-07-10 16:13:36 --> Helper loaded: form_helper
+INFO - 2025-07-10 16:13:36 --> Form Validation Class Initialized
+INFO - 2025-07-10 16:13:36 --> Model "M_user" initialized
+INFO - 2025-07-10 16:13:36 --> Model "M_customer" initialized
+INFO - 2025-07-10 16:13:36 --> Model "M_tariff" initialized
+INFO - 2025-07-10 16:13:36 --> Model "M_usage" initialized
+INFO - 2025-07-10 16:13:36 --> Model "M_bill" initialized
+INFO - 2025-07-10 16:13:36 --> Model "M_payment" initialized
+INFO - 2025-07-10 16:13:36 --> Model "M_dashboard" initialized
+INFO - 2025-07-10 16:13:36 --> Controller Class Initialized
+DEBUG - 2025-07-10 16:13:36 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-07-10 16:13:36 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/auth/head.php
+INFO - 2025-07-10 16:13:36 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/flashdata.php
+INFO - 2025-07-10 16:13:36 --> File loaded: C:\xampp\htdocs\pln\application\views\v_login.php
+INFO - 2025-07-10 16:13:36 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/auth/end.php
+INFO - 2025-07-10 16:13:36 --> Final output sent to browser
+DEBUG - 2025-07-10 16:13:36 --> Total execution time: 0.0953
+INFO - 2025-07-10 16:13:39 --> Config Class Initialized
+INFO - 2025-07-10 16:13:39 --> Hooks Class Initialized
+DEBUG - 2025-07-10 16:13:39 --> UTF-8 Support Enabled
+INFO - 2025-07-10 16:13:39 --> Utf8 Class Initialized
+INFO - 2025-07-10 16:13:39 --> URI Class Initialized
+INFO - 2025-07-10 16:13:39 --> Router Class Initialized
+INFO - 2025-07-10 16:13:39 --> Output Class Initialized
+INFO - 2025-07-10 16:13:39 --> Security Class Initialized
+DEBUG - 2025-07-10 16:13:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-07-10 16:13:39 --> Input Class Initialized
+INFO - 2025-07-10 16:13:39 --> Language Class Initialized
+INFO - 2025-07-10 16:13:39 --> Loader Class Initialized
+INFO - 2025-07-10 16:13:39 --> Helper loaded: url_helper
+INFO - 2025-07-10 16:13:39 --> Helper loaded: file_helper
+INFO - 2025-07-10 16:13:39 --> Helper loaded: csmr_auth_helper
+INFO - 2025-07-10 16:13:39 --> Helper loaded: auto_number_helper
+INFO - 2025-07-10 16:13:39 --> Helper loaded: user_auth_helper
+INFO - 2025-07-10 16:13:39 --> Helper loaded: xdate_helper
+INFO - 2025-07-10 16:13:39 --> Helper loaded: public_helper
+INFO - 2025-07-10 16:13:39 --> Database Driver Class Initialized
+INFO - 2025-07-10 16:13:39 --> Email Class Initialized
+INFO - 2025-07-10 16:13:39 --> Session: Class initialized using 'files' driver.
+INFO - 2025-07-10 16:13:39 --> Helper loaded: form_helper
+INFO - 2025-07-10 16:13:39 --> Form Validation Class Initialized
+INFO - 2025-07-10 16:13:39 --> Model "M_user" initialized
+INFO - 2025-07-10 16:13:39 --> Model "M_customer" initialized
+INFO - 2025-07-10 16:13:39 --> Model "M_tariff" initialized
+INFO - 2025-07-10 16:13:39 --> Model "M_usage" initialized
+INFO - 2025-07-10 16:13:39 --> Model "M_bill" initialized
+INFO - 2025-07-10 16:13:39 --> Model "M_payment" initialized
+INFO - 2025-07-10 16:13:39 --> Model "M_dashboard" initialized
+INFO - 2025-07-10 16:13:39 --> Controller Class Initialized
+DEBUG - 2025-07-10 16:13:39 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-07-10 16:13:39 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2025-07-10 16:13:39 --> DB cache path error: C:\xampp\htdocs\pln\application\cache/db/
+INFO - 2025-07-10 16:13:39 --> Config Class Initialized
+INFO - 2025-07-10 16:13:39 --> Hooks Class Initialized
+DEBUG - 2025-07-10 16:13:39 --> UTF-8 Support Enabled
+INFO - 2025-07-10 16:13:39 --> Utf8 Class Initialized
+INFO - 2025-07-10 16:13:39 --> URI Class Initialized
+INFO - 2025-07-10 16:13:39 --> Router Class Initialized
+INFO - 2025-07-10 16:13:39 --> Output Class Initialized
+INFO - 2025-07-10 16:13:39 --> Security Class Initialized
+DEBUG - 2025-07-10 16:13:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-07-10 16:13:39 --> Input Class Initialized
+INFO - 2025-07-10 16:13:39 --> Language Class Initialized
+INFO - 2025-07-10 16:13:39 --> Loader Class Initialized
+INFO - 2025-07-10 16:13:39 --> Helper loaded: url_helper
+INFO - 2025-07-10 16:13:39 --> Helper loaded: file_helper
+INFO - 2025-07-10 16:13:39 --> Helper loaded: csmr_auth_helper
+INFO - 2025-07-10 16:13:39 --> Helper loaded: auto_number_helper
+INFO - 2025-07-10 16:13:39 --> Helper loaded: user_auth_helper
+INFO - 2025-07-10 16:13:39 --> Helper loaded: xdate_helper
+INFO - 2025-07-10 16:13:39 --> Helper loaded: public_helper
+INFO - 2025-07-10 16:13:39 --> Database Driver Class Initialized
+INFO - 2025-07-10 16:13:39 --> Email Class Initialized
+INFO - 2025-07-10 16:13:39 --> Session: Class initialized using 'files' driver.
+INFO - 2025-07-10 16:13:39 --> Helper loaded: form_helper
+INFO - 2025-07-10 16:13:39 --> Form Validation Class Initialized
+INFO - 2025-07-10 16:13:39 --> Model "M_user" initialized
+INFO - 2025-07-10 16:13:39 --> Model "M_customer" initialized
+INFO - 2025-07-10 16:13:39 --> Model "M_tariff" initialized
+INFO - 2025-07-10 16:13:39 --> Model "M_usage" initialized
+INFO - 2025-07-10 16:13:39 --> Model "M_bill" initialized
+INFO - 2025-07-10 16:13:39 --> Model "M_payment" initialized
+INFO - 2025-07-10 16:13:39 --> Model "M_dashboard" initialized
+INFO - 2025-07-10 16:13:39 --> Controller Class Initialized
+DEBUG - 2025-07-10 16:13:39 --> DB cache path error: C:\xampp\htdocs\pln\application\cache/db/
+INFO - 2025-07-10 16:13:39 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/head.php
+INFO - 2025-07-10 16:13:39 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/sidebar.php
+INFO - 2025-07-10 16:13:39 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/header.php
+INFO - 2025-07-10 16:13:39 --> File loaded: C:\xampp\htdocs\pln\application\views\v_dashboard.php
+INFO - 2025-07-10 16:13:39 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/footer.php
+INFO - 2025-07-10 16:13:39 --> File loaded: C:\xampp\htdocs\pln\application\views\script/sc_dash.php
+INFO - 2025-07-10 16:13:39 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/end.php
+INFO - 2025-07-10 16:13:39 --> Final output sent to browser
+DEBUG - 2025-07-10 16:13:39 --> Total execution time: 0.0840
+INFO - 2025-07-10 16:14:28 --> Config Class Initialized
+INFO - 2025-07-10 16:14:28 --> Hooks Class Initialized
+DEBUG - 2025-07-10 16:14:28 --> UTF-8 Support Enabled
+INFO - 2025-07-10 16:14:28 --> Utf8 Class Initialized
+INFO - 2025-07-10 16:14:28 --> URI Class Initialized
+INFO - 2025-07-10 16:14:28 --> Router Class Initialized
+INFO - 2025-07-10 16:14:28 --> Output Class Initialized
+INFO - 2025-07-10 16:14:28 --> Security Class Initialized
+DEBUG - 2025-07-10 16:14:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-07-10 16:14:28 --> Input Class Initialized
+INFO - 2025-07-10 16:14:28 --> Language Class Initialized
+INFO - 2025-07-10 16:14:28 --> Loader Class Initialized
+INFO - 2025-07-10 16:14:28 --> Helper loaded: url_helper
+INFO - 2025-07-10 16:14:28 --> Helper loaded: file_helper
+INFO - 2025-07-10 16:14:28 --> Helper loaded: csmr_auth_helper
+INFO - 2025-07-10 16:14:28 --> Helper loaded: auto_number_helper
+INFO - 2025-07-10 16:14:28 --> Helper loaded: user_auth_helper
+INFO - 2025-07-10 16:14:28 --> Helper loaded: xdate_helper
+INFO - 2025-07-10 16:14:28 --> Helper loaded: public_helper
+INFO - 2025-07-10 16:14:28 --> Database Driver Class Initialized
+INFO - 2025-07-10 16:14:28 --> Email Class Initialized
+INFO - 2025-07-10 16:14:28 --> Session: Class initialized using 'files' driver.
+INFO - 2025-07-10 16:14:28 --> Helper loaded: form_helper
+INFO - 2025-07-10 16:14:28 --> Form Validation Class Initialized
+INFO - 2025-07-10 16:14:28 --> Model "M_user" initialized
+INFO - 2025-07-10 16:14:28 --> Model "M_customer" initialized
+INFO - 2025-07-10 16:14:28 --> Model "M_tariff" initialized
+INFO - 2025-07-10 16:14:28 --> Model "M_usage" initialized
+INFO - 2025-07-10 16:14:28 --> Model "M_bill" initialized
+INFO - 2025-07-10 16:14:28 --> Model "M_payment" initialized
+INFO - 2025-07-10 16:14:28 --> Model "M_dashboard" initialized
+INFO - 2025-07-10 16:14:28 --> Controller Class Initialized
+DEBUG - 2025-07-10 16:14:28 --> DB cache path error: C:\xampp\htdocs\pln\application\cache/db/
+INFO - 2025-07-10 16:14:28 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/head.php
+INFO - 2025-07-10 16:14:28 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/sidebar.php
+INFO - 2025-07-10 16:14:28 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/header.php
+ERROR - 2025-07-10 16:14:28 --> Severity: Warning --> Undefined variable $user C:\xampp\htdocs\pln\application\views\v_dashboard.php 239
+ERROR - 2025-07-10 16:14:28 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\pln\application\views\v_dashboard.php 239
+INFO - 2025-07-10 16:14:28 --> File loaded: C:\xampp\htdocs\pln\application\views\v_dashboard.php
+INFO - 2025-07-10 16:14:28 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/footer.php
+INFO - 2025-07-10 16:14:28 --> File loaded: C:\xampp\htdocs\pln\application\views\script/sc_dash.php
+INFO - 2025-07-10 16:14:28 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/end.php
+INFO - 2025-07-10 16:14:28 --> Final output sent to browser
+DEBUG - 2025-07-10 16:14:28 --> Total execution time: 0.1046
+INFO - 2025-07-10 16:14:31 --> Config Class Initialized
+INFO - 2025-07-10 16:14:31 --> Hooks Class Initialized
+DEBUG - 2025-07-10 16:14:31 --> UTF-8 Support Enabled
+INFO - 2025-07-10 16:14:31 --> Utf8 Class Initialized
+INFO - 2025-07-10 16:14:31 --> URI Class Initialized
+INFO - 2025-07-10 16:14:31 --> Router Class Initialized
+INFO - 2025-07-10 16:14:31 --> Output Class Initialized
+INFO - 2025-07-10 16:14:31 --> Security Class Initialized
+DEBUG - 2025-07-10 16:14:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-07-10 16:14:31 --> Input Class Initialized
+INFO - 2025-07-10 16:14:31 --> Language Class Initialized
+INFO - 2025-07-10 16:14:31 --> Loader Class Initialized
+INFO - 2025-07-10 16:14:31 --> Helper loaded: url_helper
+INFO - 2025-07-10 16:14:31 --> Helper loaded: file_helper
+INFO - 2025-07-10 16:14:31 --> Helper loaded: csmr_auth_helper
+INFO - 2025-07-10 16:14:31 --> Helper loaded: auto_number_helper
+INFO - 2025-07-10 16:14:31 --> Helper loaded: user_auth_helper
+INFO - 2025-07-10 16:14:31 --> Helper loaded: xdate_helper
+INFO - 2025-07-10 16:14:31 --> Helper loaded: public_helper
+INFO - 2025-07-10 16:14:31 --> Database Driver Class Initialized
+INFO - 2025-07-10 16:14:31 --> Email Class Initialized
+INFO - 2025-07-10 16:14:31 --> Session: Class initialized using 'files' driver.
+INFO - 2025-07-10 16:14:31 --> Helper loaded: form_helper
+INFO - 2025-07-10 16:14:31 --> Form Validation Class Initialized
+INFO - 2025-07-10 16:14:31 --> Model "M_user" initialized
+INFO - 2025-07-10 16:14:31 --> Model "M_customer" initialized
+INFO - 2025-07-10 16:14:31 --> Model "M_tariff" initialized
+INFO - 2025-07-10 16:14:31 --> Model "M_usage" initialized
+INFO - 2025-07-10 16:14:31 --> Model "M_bill" initialized
+INFO - 2025-07-10 16:14:31 --> Model "M_payment" initialized
+INFO - 2025-07-10 16:14:31 --> Model "M_dashboard" initialized
+INFO - 2025-07-10 16:14:31 --> Controller Class Initialized
+DEBUG - 2025-07-10 16:14:31 --> DB cache path error: C:\xampp\htdocs\pln\application\cache/db/
+INFO - 2025-07-10 16:14:31 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/head.php
+INFO - 2025-07-10 16:14:31 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/sidebar.php
+INFO - 2025-07-10 16:14:31 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/header.php
+ERROR - 2025-07-10 16:14:31 --> Severity: Warning --> Undefined variable $user C:\xampp\htdocs\pln\application\views\v_dashboard.php 239
+ERROR - 2025-07-10 16:14:31 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\pln\application\views\v_dashboard.php 239
+INFO - 2025-07-10 16:14:31 --> File loaded: C:\xampp\htdocs\pln\application\views\v_dashboard.php
+INFO - 2025-07-10 16:14:31 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/footer.php
+INFO - 2025-07-10 16:14:31 --> File loaded: C:\xampp\htdocs\pln\application\views\script/sc_dash.php
+INFO - 2025-07-10 16:14:31 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/end.php
+INFO - 2025-07-10 16:14:31 --> Final output sent to browser
+DEBUG - 2025-07-10 16:14:31 --> Total execution time: 0.0952
+INFO - 2025-07-10 16:15:43 --> Config Class Initialized
+INFO - 2025-07-10 16:15:43 --> Hooks Class Initialized
+DEBUG - 2025-07-10 16:15:43 --> UTF-8 Support Enabled
+INFO - 2025-07-10 16:15:43 --> Utf8 Class Initialized
+INFO - 2025-07-10 16:15:43 --> URI Class Initialized
+INFO - 2025-07-10 16:15:43 --> Router Class Initialized
+INFO - 2025-07-10 16:15:43 --> Output Class Initialized
+INFO - 2025-07-10 16:15:43 --> Security Class Initialized
+DEBUG - 2025-07-10 16:15:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-07-10 16:15:43 --> Input Class Initialized
+INFO - 2025-07-10 16:15:43 --> Language Class Initialized
+INFO - 2025-07-10 16:15:43 --> Loader Class Initialized
+INFO - 2025-07-10 16:15:43 --> Helper loaded: url_helper
+INFO - 2025-07-10 16:15:43 --> Helper loaded: file_helper
+INFO - 2025-07-10 16:15:43 --> Helper loaded: csmr_auth_helper
+INFO - 2025-07-10 16:15:43 --> Helper loaded: auto_number_helper
+INFO - 2025-07-10 16:15:43 --> Helper loaded: user_auth_helper
+INFO - 2025-07-10 16:15:43 --> Helper loaded: xdate_helper
+INFO - 2025-07-10 16:15:43 --> Helper loaded: public_helper
+INFO - 2025-07-10 16:15:43 --> Database Driver Class Initialized
+INFO - 2025-07-10 16:15:43 --> Email Class Initialized
+INFO - 2025-07-10 16:15:43 --> Session: Class initialized using 'files' driver.
+INFO - 2025-07-10 16:15:43 --> Helper loaded: form_helper
+INFO - 2025-07-10 16:15:43 --> Form Validation Class Initialized
+INFO - 2025-07-10 16:15:43 --> Model "M_user" initialized
+INFO - 2025-07-10 16:15:43 --> Model "M_customer" initialized
+INFO - 2025-07-10 16:15:43 --> Model "M_tariff" initialized
+INFO - 2025-07-10 16:15:43 --> Model "M_usage" initialized
+INFO - 2025-07-10 16:15:43 --> Model "M_bill" initialized
+INFO - 2025-07-10 16:15:43 --> Model "M_payment" initialized
+INFO - 2025-07-10 16:15:43 --> Model "M_dashboard" initialized
+INFO - 2025-07-10 16:15:43 --> Controller Class Initialized
+DEBUG - 2025-07-10 16:15:43 --> DB cache path error: C:\xampp\htdocs\pln\application\cache/db/
+INFO - 2025-07-10 16:15:43 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/head.php
+INFO - 2025-07-10 16:15:43 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/sidebar.php
+INFO - 2025-07-10 16:15:43 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/header.php
+ERROR - 2025-07-10 16:15:43 --> Severity: Warning --> Undefined variable $user C:\xampp\htdocs\pln\application\views\v_dashboard.php 302
+ERROR - 2025-07-10 16:15:43 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\pln\application\views\v_dashboard.php 302
+INFO - 2025-07-10 16:15:43 --> File loaded: C:\xampp\htdocs\pln\application\views\v_dashboard.php
+INFO - 2025-07-10 16:15:43 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/footer.php
+INFO - 2025-07-10 16:15:43 --> File loaded: C:\xampp\htdocs\pln\application\views\script/sc_dash.php
+INFO - 2025-07-10 16:15:43 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/end.php
+INFO - 2025-07-10 16:15:43 --> Final output sent to browser
+DEBUG - 2025-07-10 16:15:43 --> Total execution time: 0.1101
+INFO - 2025-07-10 16:15:44 --> Config Class Initialized
+INFO - 2025-07-10 16:15:44 --> Hooks Class Initialized
+DEBUG - 2025-07-10 16:15:44 --> UTF-8 Support Enabled
+INFO - 2025-07-10 16:15:44 --> Utf8 Class Initialized
+INFO - 2025-07-10 16:15:44 --> URI Class Initialized
+INFO - 2025-07-10 16:15:44 --> Router Class Initialized
+INFO - 2025-07-10 16:15:44 --> Output Class Initialized
+INFO - 2025-07-10 16:15:44 --> Security Class Initialized
+DEBUG - 2025-07-10 16:15:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-07-10 16:15:44 --> Input Class Initialized
+INFO - 2025-07-10 16:15:44 --> Language Class Initialized
+INFO - 2025-07-10 16:15:44 --> Loader Class Initialized
+INFO - 2025-07-10 16:15:44 --> Helper loaded: url_helper
+INFO - 2025-07-10 16:15:44 --> Helper loaded: file_helper
+INFO - 2025-07-10 16:15:44 --> Helper loaded: csmr_auth_helper
+INFO - 2025-07-10 16:15:44 --> Helper loaded: auto_number_helper
+INFO - 2025-07-10 16:15:44 --> Helper loaded: user_auth_helper
+INFO - 2025-07-10 16:15:44 --> Helper loaded: xdate_helper
+INFO - 2025-07-10 16:15:44 --> Helper loaded: public_helper
+INFO - 2025-07-10 16:15:44 --> Database Driver Class Initialized
+INFO - 2025-07-10 16:15:44 --> Email Class Initialized
+INFO - 2025-07-10 16:15:44 --> Session: Class initialized using 'files' driver.
+INFO - 2025-07-10 16:15:44 --> Helper loaded: form_helper
+INFO - 2025-07-10 16:15:44 --> Form Validation Class Initialized
+INFO - 2025-07-10 16:15:44 --> Model "M_user" initialized
+INFO - 2025-07-10 16:15:44 --> Model "M_customer" initialized
+INFO - 2025-07-10 16:15:44 --> Model "M_tariff" initialized
+INFO - 2025-07-10 16:15:44 --> Model "M_usage" initialized
+INFO - 2025-07-10 16:15:44 --> Model "M_bill" initialized
+INFO - 2025-07-10 16:15:44 --> Model "M_payment" initialized
+INFO - 2025-07-10 16:15:44 --> Model "M_dashboard" initialized
+INFO - 2025-07-10 16:15:44 --> Controller Class Initialized
+DEBUG - 2025-07-10 16:15:44 --> DB cache path error: C:\xampp\htdocs\pln\application\cache/db/
+INFO - 2025-07-10 16:15:44 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/head.php
+INFO - 2025-07-10 16:15:44 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/sidebar.php
+INFO - 2025-07-10 16:15:44 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/header.php
+ERROR - 2025-07-10 16:15:44 --> Severity: Warning --> Undefined variable $user C:\xampp\htdocs\pln\application\views\v_dashboard.php 302
+ERROR - 2025-07-10 16:15:44 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\pln\application\views\v_dashboard.php 302
+INFO - 2025-07-10 16:15:44 --> File loaded: C:\xampp\htdocs\pln\application\views\v_dashboard.php
+INFO - 2025-07-10 16:15:44 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/footer.php
+INFO - 2025-07-10 16:15:44 --> File loaded: C:\xampp\htdocs\pln\application\views\script/sc_dash.php
+INFO - 2025-07-10 16:15:44 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/end.php
+INFO - 2025-07-10 16:15:44 --> Final output sent to browser
+DEBUG - 2025-07-10 16:15:44 --> Total execution time: 0.0896
+INFO - 2025-07-10 16:15:45 --> Config Class Initialized
+INFO - 2025-07-10 16:15:45 --> Hooks Class Initialized
+DEBUG - 2025-07-10 16:15:45 --> UTF-8 Support Enabled
+INFO - 2025-07-10 16:15:45 --> Utf8 Class Initialized
+INFO - 2025-07-10 16:15:45 --> URI Class Initialized
+INFO - 2025-07-10 16:15:45 --> Router Class Initialized
+INFO - 2025-07-10 16:15:45 --> Output Class Initialized
+INFO - 2025-07-10 16:15:45 --> Security Class Initialized
+DEBUG - 2025-07-10 16:15:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-07-10 16:15:45 --> Input Class Initialized
+INFO - 2025-07-10 16:15:45 --> Language Class Initialized
+INFO - 2025-07-10 16:15:45 --> Loader Class Initialized
+INFO - 2025-07-10 16:15:45 --> Helper loaded: url_helper
+INFO - 2025-07-10 16:15:45 --> Helper loaded: file_helper
+INFO - 2025-07-10 16:15:45 --> Helper loaded: csmr_auth_helper
+INFO - 2025-07-10 16:15:45 --> Helper loaded: auto_number_helper
+INFO - 2025-07-10 16:15:45 --> Helper loaded: user_auth_helper
+INFO - 2025-07-10 16:15:45 --> Helper loaded: xdate_helper
+INFO - 2025-07-10 16:15:45 --> Helper loaded: public_helper
+INFO - 2025-07-10 16:15:45 --> Database Driver Class Initialized
+INFO - 2025-07-10 16:15:45 --> Email Class Initialized
+INFO - 2025-07-10 16:15:45 --> Session: Class initialized using 'files' driver.
+INFO - 2025-07-10 16:15:45 --> Helper loaded: form_helper
+INFO - 2025-07-10 16:15:45 --> Form Validation Class Initialized
+INFO - 2025-07-10 16:15:45 --> Model "M_user" initialized
+INFO - 2025-07-10 16:15:45 --> Model "M_customer" initialized
+INFO - 2025-07-10 16:15:45 --> Model "M_tariff" initialized
+INFO - 2025-07-10 16:15:45 --> Model "M_usage" initialized
+INFO - 2025-07-10 16:15:45 --> Model "M_bill" initialized
+INFO - 2025-07-10 16:15:45 --> Model "M_payment" initialized
+INFO - 2025-07-10 16:15:45 --> Model "M_dashboard" initialized
+INFO - 2025-07-10 16:15:45 --> Controller Class Initialized
+DEBUG - 2025-07-10 16:15:45 --> DB cache path error: C:\xampp\htdocs\pln\application\cache/db/
+INFO - 2025-07-10 16:15:45 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/head.php
+INFO - 2025-07-10 16:15:45 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/sidebar.php
+INFO - 2025-07-10 16:15:45 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/header.php
+ERROR - 2025-07-10 16:15:45 --> Severity: Warning --> Undefined variable $user C:\xampp\htdocs\pln\application\views\v_dashboard.php 302
+ERROR - 2025-07-10 16:15:45 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\pln\application\views\v_dashboard.php 302
+INFO - 2025-07-10 16:15:45 --> File loaded: C:\xampp\htdocs\pln\application\views\v_dashboard.php
+INFO - 2025-07-10 16:15:45 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/footer.php
+INFO - 2025-07-10 16:15:45 --> File loaded: C:\xampp\htdocs\pln\application\views\script/sc_dash.php
+INFO - 2025-07-10 16:15:45 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/end.php
+INFO - 2025-07-10 16:15:45 --> Final output sent to browser
+DEBUG - 2025-07-10 16:15:45 --> Total execution time: 0.0806
+INFO - 2025-07-10 16:24:23 --> Config Class Initialized
+INFO - 2025-07-10 16:24:23 --> Hooks Class Initialized
+DEBUG - 2025-07-10 16:24:23 --> UTF-8 Support Enabled
+INFO - 2025-07-10 16:24:23 --> Utf8 Class Initialized
+INFO - 2025-07-10 16:24:23 --> URI Class Initialized
+INFO - 2025-07-10 16:24:23 --> Router Class Initialized
+INFO - 2025-07-10 16:24:23 --> Output Class Initialized
+INFO - 2025-07-10 16:24:23 --> Security Class Initialized
+DEBUG - 2025-07-10 16:24:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-07-10 16:24:23 --> Input Class Initialized
+INFO - 2025-07-10 16:24:23 --> Language Class Initialized
+INFO - 2025-07-10 16:24:23 --> Loader Class Initialized
+INFO - 2025-07-10 16:24:23 --> Helper loaded: url_helper
+INFO - 2025-07-10 16:24:23 --> Helper loaded: file_helper
+INFO - 2025-07-10 16:24:23 --> Helper loaded: csmr_auth_helper
+INFO - 2025-07-10 16:24:23 --> Helper loaded: auto_number_helper
+INFO - 2025-07-10 16:24:23 --> Helper loaded: user_auth_helper
+INFO - 2025-07-10 16:24:23 --> Helper loaded: xdate_helper
+INFO - 2025-07-10 16:24:23 --> Helper loaded: public_helper
+INFO - 2025-07-10 16:24:23 --> Database Driver Class Initialized
+INFO - 2025-07-10 16:24:23 --> Email Class Initialized
+INFO - 2025-07-10 16:24:23 --> Session: Class initialized using 'files' driver.
+INFO - 2025-07-10 16:24:23 --> Helper loaded: form_helper
+INFO - 2025-07-10 16:24:23 --> Form Validation Class Initialized
+INFO - 2025-07-10 16:24:23 --> Model "M_user" initialized
+INFO - 2025-07-10 16:24:23 --> Model "M_customer" initialized
+INFO - 2025-07-10 16:24:23 --> Model "M_tariff" initialized
+INFO - 2025-07-10 16:24:23 --> Model "M_usage" initialized
+INFO - 2025-07-10 16:24:23 --> Model "M_bill" initialized
+INFO - 2025-07-10 16:24:23 --> Model "M_payment" initialized
+INFO - 2025-07-10 16:24:23 --> Model "M_dashboard" initialized
+INFO - 2025-07-10 16:24:23 --> Controller Class Initialized
+INFO - 2025-07-10 16:24:23 --> Config Class Initialized
+INFO - 2025-07-10 16:24:23 --> Hooks Class Initialized
+DEBUG - 2025-07-10 16:24:23 --> UTF-8 Support Enabled
+INFO - 2025-07-10 16:24:23 --> Utf8 Class Initialized
+INFO - 2025-07-10 16:24:23 --> URI Class Initialized
+INFO - 2025-07-10 16:24:23 --> Router Class Initialized
+INFO - 2025-07-10 16:24:23 --> Output Class Initialized
+INFO - 2025-07-10 16:24:23 --> Security Class Initialized
+DEBUG - 2025-07-10 16:24:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-07-10 16:24:23 --> Input Class Initialized
+INFO - 2025-07-10 16:24:23 --> Language Class Initialized
+INFO - 2025-07-10 16:24:23 --> Loader Class Initialized
+INFO - 2025-07-10 16:24:23 --> Helper loaded: url_helper
+INFO - 2025-07-10 16:24:23 --> Helper loaded: file_helper
+INFO - 2025-07-10 16:24:23 --> Helper loaded: csmr_auth_helper
+INFO - 2025-07-10 16:24:23 --> Helper loaded: auto_number_helper
+INFO - 2025-07-10 16:24:23 --> Helper loaded: user_auth_helper
+INFO - 2025-07-10 16:24:23 --> Helper loaded: xdate_helper
+INFO - 2025-07-10 16:24:23 --> Helper loaded: public_helper
+INFO - 2025-07-10 16:24:23 --> Database Driver Class Initialized
+INFO - 2025-07-10 16:24:23 --> Email Class Initialized
+INFO - 2025-07-10 16:24:23 --> Session: Class initialized using 'files' driver.
+INFO - 2025-07-10 16:24:23 --> Helper loaded: form_helper
+INFO - 2025-07-10 16:24:23 --> Form Validation Class Initialized
+INFO - 2025-07-10 16:24:23 --> Model "M_user" initialized
+INFO - 2025-07-10 16:24:23 --> Model "M_customer" initialized
+INFO - 2025-07-10 16:24:23 --> Model "M_tariff" initialized
+INFO - 2025-07-10 16:24:23 --> Model "M_usage" initialized
+INFO - 2025-07-10 16:24:23 --> Model "M_bill" initialized
+INFO - 2025-07-10 16:24:23 --> Model "M_payment" initialized
+INFO - 2025-07-10 16:24:23 --> Model "M_dashboard" initialized
+INFO - 2025-07-10 16:24:23 --> Controller Class Initialized
+DEBUG - 2025-07-10 16:24:23 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-07-10 16:24:23 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/auth/head.php
+INFO - 2025-07-10 16:24:23 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/flashdata.php
+INFO - 2025-07-10 16:24:23 --> File loaded: C:\xampp\htdocs\pln\application\views\v_login.php
+INFO - 2025-07-10 16:24:23 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/auth/end.php
+INFO - 2025-07-10 16:24:23 --> Final output sent to browser
+DEBUG - 2025-07-10 16:24:23 --> Total execution time: 0.0657
+INFO - 2025-07-10 16:24:27 --> Config Class Initialized
+INFO - 2025-07-10 16:24:27 --> Hooks Class Initialized
+DEBUG - 2025-07-10 16:24:27 --> UTF-8 Support Enabled
+INFO - 2025-07-10 16:24:27 --> Utf8 Class Initialized
+INFO - 2025-07-10 16:24:27 --> URI Class Initialized
+INFO - 2025-07-10 16:24:27 --> Router Class Initialized
+INFO - 2025-07-10 16:24:27 --> Output Class Initialized
+INFO - 2025-07-10 16:24:27 --> Security Class Initialized
+DEBUG - 2025-07-10 16:24:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-07-10 16:24:27 --> Input Class Initialized
+INFO - 2025-07-10 16:24:27 --> Language Class Initialized
+INFO - 2025-07-10 16:24:27 --> Loader Class Initialized
+INFO - 2025-07-10 16:24:27 --> Helper loaded: url_helper
+INFO - 2025-07-10 16:24:27 --> Helper loaded: file_helper
+INFO - 2025-07-10 16:24:27 --> Helper loaded: csmr_auth_helper
+INFO - 2025-07-10 16:24:27 --> Helper loaded: auto_number_helper
+INFO - 2025-07-10 16:24:27 --> Helper loaded: user_auth_helper
+INFO - 2025-07-10 16:24:27 --> Helper loaded: xdate_helper
+INFO - 2025-07-10 16:24:27 --> Helper loaded: public_helper
+INFO - 2025-07-10 16:24:27 --> Database Driver Class Initialized
+INFO - 2025-07-10 16:24:27 --> Email Class Initialized
+INFO - 2025-07-10 16:24:27 --> Session: Class initialized using 'files' driver.
+INFO - 2025-07-10 16:24:27 --> Helper loaded: form_helper
+INFO - 2025-07-10 16:24:27 --> Form Validation Class Initialized
+INFO - 2025-07-10 16:24:27 --> Model "M_user" initialized
+INFO - 2025-07-10 16:24:27 --> Model "M_customer" initialized
+INFO - 2025-07-10 16:24:27 --> Model "M_tariff" initialized
+INFO - 2025-07-10 16:24:27 --> Model "M_usage" initialized
+INFO - 2025-07-10 16:24:27 --> Model "M_bill" initialized
+INFO - 2025-07-10 16:24:27 --> Model "M_payment" initialized
+INFO - 2025-07-10 16:24:27 --> Model "M_dashboard" initialized
+INFO - 2025-07-10 16:24:27 --> Controller Class Initialized
+DEBUG - 2025-07-10 16:24:27 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-07-10 16:24:27 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2025-07-10 16:24:27 --> DB cache path error: C:\xampp\htdocs\pln\application\cache/db/
+INFO - 2025-07-10 16:24:27 --> Config Class Initialized
+INFO - 2025-07-10 16:24:27 --> Hooks Class Initialized
+DEBUG - 2025-07-10 16:24:27 --> UTF-8 Support Enabled
+INFO - 2025-07-10 16:24:27 --> Utf8 Class Initialized
+INFO - 2025-07-10 16:24:27 --> URI Class Initialized
+INFO - 2025-07-10 16:24:27 --> Router Class Initialized
+INFO - 2025-07-10 16:24:27 --> Output Class Initialized
+INFO - 2025-07-10 16:24:27 --> Security Class Initialized
+DEBUG - 2025-07-10 16:24:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-07-10 16:24:27 --> Input Class Initialized
+INFO - 2025-07-10 16:24:27 --> Language Class Initialized
+INFO - 2025-07-10 16:24:27 --> Loader Class Initialized
+INFO - 2025-07-10 16:24:27 --> Helper loaded: url_helper
+INFO - 2025-07-10 16:24:27 --> Helper loaded: file_helper
+INFO - 2025-07-10 16:24:27 --> Helper loaded: csmr_auth_helper
+INFO - 2025-07-10 16:24:27 --> Helper loaded: auto_number_helper
+INFO - 2025-07-10 16:24:27 --> Helper loaded: user_auth_helper
+INFO - 2025-07-10 16:24:27 --> Helper loaded: xdate_helper
+INFO - 2025-07-10 16:24:27 --> Helper loaded: public_helper
+INFO - 2025-07-10 16:24:27 --> Database Driver Class Initialized
+INFO - 2025-07-10 16:24:27 --> Email Class Initialized
+INFO - 2025-07-10 16:24:27 --> Session: Class initialized using 'files' driver.
+INFO - 2025-07-10 16:24:27 --> Helper loaded: form_helper
+INFO - 2025-07-10 16:24:27 --> Form Validation Class Initialized
+INFO - 2025-07-10 16:24:27 --> Model "M_user" initialized
+INFO - 2025-07-10 16:24:27 --> Model "M_customer" initialized
+INFO - 2025-07-10 16:24:27 --> Model "M_tariff" initialized
+INFO - 2025-07-10 16:24:27 --> Model "M_usage" initialized
+INFO - 2025-07-10 16:24:27 --> Model "M_bill" initialized
+INFO - 2025-07-10 16:24:27 --> Model "M_payment" initialized
+INFO - 2025-07-10 16:24:27 --> Model "M_dashboard" initialized
+INFO - 2025-07-10 16:24:27 --> Controller Class Initialized
+DEBUG - 2025-07-10 16:24:27 --> DB cache path error: C:\xampp\htdocs\pln\application\cache/db/
+INFO - 2025-07-10 16:24:27 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/head.php
+INFO - 2025-07-10 16:24:27 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/sidebar.php
+INFO - 2025-07-10 16:24:27 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/header.php
+ERROR - 2025-07-10 16:24:27 --> Severity: Warning --> Undefined variable $user C:\xampp\htdocs\pln\application\views\v_dashboard.php 268
+ERROR - 2025-07-10 16:24:27 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\pln\application\views\v_dashboard.php 268
+INFO - 2025-07-10 16:24:27 --> File loaded: C:\xampp\htdocs\pln\application\views\v_dashboard.php
+INFO - 2025-07-10 16:24:27 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/footer.php
+INFO - 2025-07-10 16:24:27 --> File loaded: C:\xampp\htdocs\pln\application\views\script/sc_dash.php
+INFO - 2025-07-10 16:24:27 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/end.php
+INFO - 2025-07-10 16:24:27 --> Final output sent to browser
+DEBUG - 2025-07-10 16:24:27 --> Total execution time: 0.0765
+INFO - 2025-07-10 16:24:45 --> Config Class Initialized
+INFO - 2025-07-10 16:24:45 --> Hooks Class Initialized
+DEBUG - 2025-07-10 16:24:45 --> UTF-8 Support Enabled
+INFO - 2025-07-10 16:24:45 --> Utf8 Class Initialized
+INFO - 2025-07-10 16:24:45 --> URI Class Initialized
+INFO - 2025-07-10 16:24:45 --> Router Class Initialized
+INFO - 2025-07-10 16:24:45 --> Output Class Initialized
+INFO - 2025-07-10 16:24:45 --> Security Class Initialized
+DEBUG - 2025-07-10 16:24:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-07-10 16:24:45 --> Input Class Initialized
+INFO - 2025-07-10 16:24:45 --> Language Class Initialized
+INFO - 2025-07-10 16:24:45 --> Loader Class Initialized
+INFO - 2025-07-10 16:24:45 --> Helper loaded: url_helper
+INFO - 2025-07-10 16:24:45 --> Helper loaded: file_helper
+INFO - 2025-07-10 16:24:45 --> Helper loaded: csmr_auth_helper
+INFO - 2025-07-10 16:24:45 --> Helper loaded: auto_number_helper
+INFO - 2025-07-10 16:24:45 --> Helper loaded: user_auth_helper
+INFO - 2025-07-10 16:24:45 --> Helper loaded: xdate_helper
+INFO - 2025-07-10 16:24:45 --> Helper loaded: public_helper
+INFO - 2025-07-10 16:24:45 --> Database Driver Class Initialized
+INFO - 2025-07-10 16:24:45 --> Email Class Initialized
+INFO - 2025-07-10 16:24:45 --> Session: Class initialized using 'files' driver.
+INFO - 2025-07-10 16:24:45 --> Helper loaded: form_helper
+INFO - 2025-07-10 16:24:45 --> Form Validation Class Initialized
+INFO - 2025-07-10 16:24:45 --> Model "M_user" initialized
+INFO - 2025-07-10 16:24:45 --> Model "M_customer" initialized
+INFO - 2025-07-10 16:24:45 --> Model "M_tariff" initialized
+INFO - 2025-07-10 16:24:45 --> Model "M_usage" initialized
+INFO - 2025-07-10 16:24:45 --> Model "M_bill" initialized
+INFO - 2025-07-10 16:24:45 --> Model "M_payment" initialized
+INFO - 2025-07-10 16:24:45 --> Model "M_dashboard" initialized
+INFO - 2025-07-10 16:24:45 --> Controller Class Initialized
+DEBUG - 2025-07-10 16:24:45 --> DB cache path error: C:\xampp\htdocs\pln\application\cache/db/
+INFO - 2025-07-10 16:24:45 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/head.php
+INFO - 2025-07-10 16:24:45 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/sidebar.php
+INFO - 2025-07-10 16:24:45 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/header.php
+ERROR - 2025-07-10 16:24:45 --> Severity: Warning --> Undefined variable $user C:\xampp\htdocs\pln\application\views\v_dashboard.php 268
+ERROR - 2025-07-10 16:24:45 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\pln\application\views\v_dashboard.php 268
+INFO - 2025-07-10 16:24:45 --> File loaded: C:\xampp\htdocs\pln\application\views\v_dashboard.php
+INFO - 2025-07-10 16:24:45 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/footer.php
+INFO - 2025-07-10 16:24:45 --> File loaded: C:\xampp\htdocs\pln\application\views\script/sc_dash.php
+INFO - 2025-07-10 16:24:45 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/end.php
+INFO - 2025-07-10 16:24:45 --> Final output sent to browser
+DEBUG - 2025-07-10 16:24:45 --> Total execution time: 0.1194
+INFO - 2025-07-10 16:25:39 --> Config Class Initialized
+INFO - 2025-07-10 16:25:39 --> Hooks Class Initialized
+DEBUG - 2025-07-10 16:25:39 --> UTF-8 Support Enabled
+INFO - 2025-07-10 16:25:39 --> Utf8 Class Initialized
+INFO - 2025-07-10 16:25:39 --> URI Class Initialized
+INFO - 2025-07-10 16:25:39 --> Router Class Initialized
+INFO - 2025-07-10 16:25:39 --> Output Class Initialized
+INFO - 2025-07-10 16:25:39 --> Security Class Initialized
+DEBUG - 2025-07-10 16:25:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-07-10 16:25:39 --> Input Class Initialized
+INFO - 2025-07-10 16:25:39 --> Language Class Initialized
+INFO - 2025-07-10 16:25:39 --> Loader Class Initialized
+INFO - 2025-07-10 16:25:39 --> Helper loaded: url_helper
+INFO - 2025-07-10 16:25:39 --> Helper loaded: file_helper
+INFO - 2025-07-10 16:25:39 --> Helper loaded: csmr_auth_helper
+INFO - 2025-07-10 16:25:39 --> Helper loaded: auto_number_helper
+INFO - 2025-07-10 16:25:39 --> Helper loaded: user_auth_helper
+INFO - 2025-07-10 16:25:39 --> Helper loaded: xdate_helper
+INFO - 2025-07-10 16:25:39 --> Helper loaded: public_helper
+INFO - 2025-07-10 16:25:39 --> Database Driver Class Initialized
+INFO - 2025-07-10 16:25:39 --> Email Class Initialized
+INFO - 2025-07-10 16:25:39 --> Session: Class initialized using 'files' driver.
+INFO - 2025-07-10 16:25:39 --> Helper loaded: form_helper
+INFO - 2025-07-10 16:25:39 --> Form Validation Class Initialized
+INFO - 2025-07-10 16:25:39 --> Model "M_user" initialized
+INFO - 2025-07-10 16:25:39 --> Model "M_customer" initialized
+INFO - 2025-07-10 16:25:39 --> Model "M_tariff" initialized
+INFO - 2025-07-10 16:25:39 --> Model "M_usage" initialized
+INFO - 2025-07-10 16:25:39 --> Model "M_bill" initialized
+INFO - 2025-07-10 16:25:39 --> Model "M_payment" initialized
+INFO - 2025-07-10 16:25:39 --> Model "M_dashboard" initialized
+INFO - 2025-07-10 16:25:39 --> Controller Class Initialized
+DEBUG - 2025-07-10 16:25:39 --> DB cache path error: C:\xampp\htdocs\pln\application\cache/db/
+INFO - 2025-07-10 16:25:39 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/head.php
+INFO - 2025-07-10 16:25:39 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/sidebar.php
+INFO - 2025-07-10 16:25:39 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/header.php
+ERROR - 2025-07-10 16:25:39 --> Severity: Warning --> Undefined variable $user C:\xampp\htdocs\pln\application\views\v_dashboard.php 268
+ERROR - 2025-07-10 16:25:39 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\pln\application\views\v_dashboard.php 268
+INFO - 2025-07-10 16:25:39 --> File loaded: C:\xampp\htdocs\pln\application\views\v_dashboard.php
+INFO - 2025-07-10 16:25:39 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/footer.php
+INFO - 2025-07-10 16:25:39 --> File loaded: C:\xampp\htdocs\pln\application\views\script/sc_dash.php
+INFO - 2025-07-10 16:25:39 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/end.php
+INFO - 2025-07-10 16:25:39 --> Final output sent to browser
+DEBUG - 2025-07-10 16:25:39 --> Total execution time: 0.1044
+INFO - 2025-07-10 16:25:50 --> Config Class Initialized
+INFO - 2025-07-10 16:25:50 --> Hooks Class Initialized
+DEBUG - 2025-07-10 16:25:50 --> UTF-8 Support Enabled
+INFO - 2025-07-10 16:25:50 --> Utf8 Class Initialized
+INFO - 2025-07-10 16:25:50 --> URI Class Initialized
+INFO - 2025-07-10 16:25:50 --> Router Class Initialized
+INFO - 2025-07-10 16:25:50 --> Output Class Initialized
+INFO - 2025-07-10 16:25:50 --> Security Class Initialized
+DEBUG - 2025-07-10 16:25:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-07-10 16:25:50 --> Input Class Initialized
+INFO - 2025-07-10 16:25:50 --> Language Class Initialized
+INFO - 2025-07-10 16:25:50 --> Loader Class Initialized
+INFO - 2025-07-10 16:25:50 --> Helper loaded: url_helper
+INFO - 2025-07-10 16:25:50 --> Helper loaded: file_helper
+INFO - 2025-07-10 16:25:50 --> Helper loaded: csmr_auth_helper
+INFO - 2025-07-10 16:25:50 --> Helper loaded: auto_number_helper
+INFO - 2025-07-10 16:25:50 --> Helper loaded: user_auth_helper
+INFO - 2025-07-10 16:25:50 --> Helper loaded: xdate_helper
+INFO - 2025-07-10 16:25:50 --> Helper loaded: public_helper
+INFO - 2025-07-10 16:25:50 --> Database Driver Class Initialized
+INFO - 2025-07-10 16:25:50 --> Email Class Initialized
+INFO - 2025-07-10 16:25:50 --> Session: Class initialized using 'files' driver.
+INFO - 2025-07-10 16:25:50 --> Helper loaded: form_helper
+INFO - 2025-07-10 16:25:50 --> Form Validation Class Initialized
+INFO - 2025-07-10 16:25:50 --> Model "M_user" initialized
+INFO - 2025-07-10 16:25:50 --> Model "M_customer" initialized
+INFO - 2025-07-10 16:25:50 --> Model "M_tariff" initialized
+INFO - 2025-07-10 16:25:50 --> Model "M_usage" initialized
+INFO - 2025-07-10 16:25:50 --> Model "M_bill" initialized
+INFO - 2025-07-10 16:25:50 --> Model "M_payment" initialized
+INFO - 2025-07-10 16:25:50 --> Model "M_dashboard" initialized
+INFO - 2025-07-10 16:25:50 --> Controller Class Initialized
+DEBUG - 2025-07-10 16:25:50 --> DB cache path error: C:\xampp\htdocs\pln\application\cache/db/
+INFO - 2025-07-10 16:25:50 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/head.php
+INFO - 2025-07-10 16:25:50 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/sidebar.php
+INFO - 2025-07-10 16:25:50 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/header.php
+ERROR - 2025-07-10 16:25:50 --> Severity: Warning --> Undefined variable $user C:\xampp\htdocs\pln\application\views\v_dashboard.php 268
+ERROR - 2025-07-10 16:25:50 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\pln\application\views\v_dashboard.php 268
+INFO - 2025-07-10 16:25:50 --> File loaded: C:\xampp\htdocs\pln\application\views\v_dashboard.php
+INFO - 2025-07-10 16:25:50 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/footer.php
+INFO - 2025-07-10 16:25:50 --> File loaded: C:\xampp\htdocs\pln\application\views\script/sc_dash.php
+INFO - 2025-07-10 16:25:50 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/end.php
+INFO - 2025-07-10 16:25:50 --> Final output sent to browser
+DEBUG - 2025-07-10 16:25:50 --> Total execution time: 0.1024
+INFO - 2025-07-10 16:26:02 --> Config Class Initialized
+INFO - 2025-07-10 16:26:02 --> Hooks Class Initialized
+DEBUG - 2025-07-10 16:26:02 --> UTF-8 Support Enabled
+INFO - 2025-07-10 16:26:02 --> Utf8 Class Initialized
+INFO - 2025-07-10 16:26:02 --> URI Class Initialized
+INFO - 2025-07-10 16:26:02 --> Router Class Initialized
+INFO - 2025-07-10 16:26:02 --> Output Class Initialized
+INFO - 2025-07-10 16:26:02 --> Security Class Initialized
+DEBUG - 2025-07-10 16:26:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-07-10 16:26:02 --> Input Class Initialized
+INFO - 2025-07-10 16:26:02 --> Language Class Initialized
+INFO - 2025-07-10 16:26:02 --> Loader Class Initialized
+INFO - 2025-07-10 16:26:02 --> Helper loaded: url_helper
+INFO - 2025-07-10 16:26:02 --> Helper loaded: file_helper
+INFO - 2025-07-10 16:26:02 --> Helper loaded: csmr_auth_helper
+INFO - 2025-07-10 16:26:02 --> Helper loaded: auto_number_helper
+INFO - 2025-07-10 16:26:02 --> Helper loaded: user_auth_helper
+INFO - 2025-07-10 16:26:02 --> Helper loaded: xdate_helper
+INFO - 2025-07-10 16:26:02 --> Helper loaded: public_helper
+INFO - 2025-07-10 16:26:02 --> Database Driver Class Initialized
+INFO - 2025-07-10 16:26:02 --> Email Class Initialized
+INFO - 2025-07-10 16:26:02 --> Session: Class initialized using 'files' driver.
+INFO - 2025-07-10 16:26:02 --> Helper loaded: form_helper
+INFO - 2025-07-10 16:26:02 --> Form Validation Class Initialized
+INFO - 2025-07-10 16:26:02 --> Model "M_user" initialized
+INFO - 2025-07-10 16:26:02 --> Model "M_customer" initialized
+INFO - 2025-07-10 16:26:02 --> Model "M_tariff" initialized
+INFO - 2025-07-10 16:26:02 --> Model "M_usage" initialized
+INFO - 2025-07-10 16:26:02 --> Model "M_bill" initialized
+INFO - 2025-07-10 16:26:02 --> Model "M_payment" initialized
+INFO - 2025-07-10 16:26:02 --> Model "M_dashboard" initialized
+INFO - 2025-07-10 16:26:02 --> Controller Class Initialized
+DEBUG - 2025-07-10 16:26:02 --> DB cache path error: C:\xampp\htdocs\pln\application\cache/db/
+INFO - 2025-07-10 16:26:02 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/head.php
+INFO - 2025-07-10 16:26:02 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/sidebar.php
+INFO - 2025-07-10 16:26:02 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/header.php
+ERROR - 2025-07-10 16:26:02 --> Severity: Warning --> Undefined variable $user C:\xampp\htdocs\pln\application\views\v_dashboard.php 267
+ERROR - 2025-07-10 16:26:02 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\pln\application\views\v_dashboard.php 267
+INFO - 2025-07-10 16:26:02 --> File loaded: C:\xampp\htdocs\pln\application\views\v_dashboard.php
+INFO - 2025-07-10 16:26:02 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/footer.php
+INFO - 2025-07-10 16:26:02 --> File loaded: C:\xampp\htdocs\pln\application\views\script/sc_dash.php
+INFO - 2025-07-10 16:26:02 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/end.php
+INFO - 2025-07-10 16:26:02 --> Final output sent to browser
+DEBUG - 2025-07-10 16:26:02 --> Total execution time: 0.1104
+INFO - 2025-07-10 16:26:20 --> Config Class Initialized
+INFO - 2025-07-10 16:26:20 --> Hooks Class Initialized
+DEBUG - 2025-07-10 16:26:20 --> UTF-8 Support Enabled
+INFO - 2025-07-10 16:26:20 --> Utf8 Class Initialized
+INFO - 2025-07-10 16:26:20 --> URI Class Initialized
+INFO - 2025-07-10 16:26:20 --> Router Class Initialized
+INFO - 2025-07-10 16:26:20 --> Output Class Initialized
+INFO - 2025-07-10 16:26:20 --> Security Class Initialized
+DEBUG - 2025-07-10 16:26:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-07-10 16:26:20 --> Input Class Initialized
+INFO - 2025-07-10 16:26:20 --> Language Class Initialized
+INFO - 2025-07-10 16:26:20 --> Loader Class Initialized
+INFO - 2025-07-10 16:26:20 --> Helper loaded: url_helper
+INFO - 2025-07-10 16:26:20 --> Helper loaded: file_helper
+INFO - 2025-07-10 16:26:20 --> Helper loaded: csmr_auth_helper
+INFO - 2025-07-10 16:26:20 --> Helper loaded: auto_number_helper
+INFO - 2025-07-10 16:26:20 --> Helper loaded: user_auth_helper
+INFO - 2025-07-10 16:26:20 --> Helper loaded: xdate_helper
+INFO - 2025-07-10 16:26:20 --> Helper loaded: public_helper
+INFO - 2025-07-10 16:26:20 --> Database Driver Class Initialized
+INFO - 2025-07-10 16:26:20 --> Email Class Initialized
+INFO - 2025-07-10 16:26:20 --> Session: Class initialized using 'files' driver.
+INFO - 2025-07-10 16:26:20 --> Helper loaded: form_helper
+INFO - 2025-07-10 16:26:20 --> Form Validation Class Initialized
+INFO - 2025-07-10 16:26:20 --> Model "M_user" initialized
+INFO - 2025-07-10 16:26:20 --> Model "M_customer" initialized
+INFO - 2025-07-10 16:26:20 --> Model "M_tariff" initialized
+INFO - 2025-07-10 16:26:20 --> Model "M_usage" initialized
+INFO - 2025-07-10 16:26:20 --> Model "M_bill" initialized
+INFO - 2025-07-10 16:26:20 --> Model "M_payment" initialized
+INFO - 2025-07-10 16:26:20 --> Model "M_dashboard" initialized
+INFO - 2025-07-10 16:26:20 --> Controller Class Initialized
+DEBUG - 2025-07-10 16:26:20 --> DB cache path error: C:\xampp\htdocs\pln\application\cache/db/
+INFO - 2025-07-10 16:26:20 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/head.php
+INFO - 2025-07-10 16:26:20 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/sidebar.php
+INFO - 2025-07-10 16:26:20 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/header.php
+ERROR - 2025-07-10 16:26:20 --> Severity: Warning --> Undefined variable $user C:\xampp\htdocs\pln\application\views\v_dashboard.php 267
+ERROR - 2025-07-10 16:26:20 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\pln\application\views\v_dashboard.php 267
+INFO - 2025-07-10 16:26:20 --> File loaded: C:\xampp\htdocs\pln\application\views\v_dashboard.php
+INFO - 2025-07-10 16:26:20 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/footer.php
+INFO - 2025-07-10 16:26:20 --> File loaded: C:\xampp\htdocs\pln\application\views\script/sc_dash.php
+INFO - 2025-07-10 16:26:20 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/end.php
+INFO - 2025-07-10 16:26:20 --> Final output sent to browser
+DEBUG - 2025-07-10 16:26:20 --> Total execution time: 0.1218
+INFO - 2025-07-10 16:27:31 --> Config Class Initialized
+INFO - 2025-07-10 16:27:31 --> Hooks Class Initialized
+DEBUG - 2025-07-10 16:27:31 --> UTF-8 Support Enabled
+INFO - 2025-07-10 16:27:31 --> Utf8 Class Initialized
+INFO - 2025-07-10 16:27:31 --> URI Class Initialized
+INFO - 2025-07-10 16:27:31 --> Router Class Initialized
+INFO - 2025-07-10 16:27:31 --> Output Class Initialized
+INFO - 2025-07-10 16:27:31 --> Security Class Initialized
+DEBUG - 2025-07-10 16:27:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-07-10 16:27:31 --> Input Class Initialized
+INFO - 2025-07-10 16:27:31 --> Language Class Initialized
+INFO - 2025-07-10 16:27:31 --> Loader Class Initialized
+INFO - 2025-07-10 16:27:31 --> Helper loaded: url_helper
+INFO - 2025-07-10 16:27:31 --> Helper loaded: file_helper
+INFO - 2025-07-10 16:27:31 --> Helper loaded: csmr_auth_helper
+INFO - 2025-07-10 16:27:31 --> Helper loaded: auto_number_helper
+INFO - 2025-07-10 16:27:31 --> Helper loaded: user_auth_helper
+INFO - 2025-07-10 16:27:31 --> Helper loaded: xdate_helper
+INFO - 2025-07-10 16:27:31 --> Helper loaded: public_helper
+INFO - 2025-07-10 16:27:31 --> Database Driver Class Initialized
+INFO - 2025-07-10 16:27:31 --> Email Class Initialized
+INFO - 2025-07-10 16:27:31 --> Session: Class initialized using 'files' driver.
+INFO - 2025-07-10 16:27:31 --> Helper loaded: form_helper
+INFO - 2025-07-10 16:27:31 --> Form Validation Class Initialized
+INFO - 2025-07-10 16:27:31 --> Model "M_user" initialized
+INFO - 2025-07-10 16:27:31 --> Model "M_customer" initialized
+INFO - 2025-07-10 16:27:31 --> Model "M_tariff" initialized
+INFO - 2025-07-10 16:27:31 --> Model "M_usage" initialized
+INFO - 2025-07-10 16:27:31 --> Model "M_bill" initialized
+INFO - 2025-07-10 16:27:31 --> Model "M_payment" initialized
+INFO - 2025-07-10 16:27:31 --> Model "M_dashboard" initialized
+INFO - 2025-07-10 16:27:31 --> Controller Class Initialized
+DEBUG - 2025-07-10 16:27:31 --> DB cache path error: C:\xampp\htdocs\pln\application\cache/db/
+INFO - 2025-07-10 16:27:31 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/head.php
+INFO - 2025-07-10 16:27:31 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/sidebar.php
+INFO - 2025-07-10 16:27:31 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/header.php
+ERROR - 2025-07-10 16:27:31 --> Severity: Warning --> Undefined variable $user C:\xampp\htdocs\pln\application\views\v_dashboard.php 267
+ERROR - 2025-07-10 16:27:31 --> Severity: Warning --> Trying to access array offset on value of type null C:\xampp\htdocs\pln\application\views\v_dashboard.php 267
+INFO - 2025-07-10 16:27:31 --> File loaded: C:\xampp\htdocs\pln\application\views\v_dashboard.php
+INFO - 2025-07-10 16:27:31 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/footer.php
+INFO - 2025-07-10 16:27:31 --> File loaded: C:\xampp\htdocs\pln\application\views\script/sc_dash.php
+INFO - 2025-07-10 16:27:31 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/end.php
+INFO - 2025-07-10 16:27:31 --> Final output sent to browser
+DEBUG - 2025-07-10 16:27:31 --> Total execution time: 0.0979
+INFO - 2025-07-10 16:27:54 --> Config Class Initialized
+INFO - 2025-07-10 16:27:54 --> Hooks Class Initialized
+DEBUG - 2025-07-10 16:27:54 --> UTF-8 Support Enabled
+INFO - 2025-07-10 16:27:54 --> Utf8 Class Initialized
+INFO - 2025-07-10 16:27:54 --> URI Class Initialized
+INFO - 2025-07-10 16:27:54 --> Router Class Initialized
+INFO - 2025-07-10 16:27:54 --> Output Class Initialized
+INFO - 2025-07-10 16:27:54 --> Security Class Initialized
+DEBUG - 2025-07-10 16:27:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-07-10 16:27:54 --> Input Class Initialized
+INFO - 2025-07-10 16:27:54 --> Language Class Initialized
+INFO - 2025-07-10 16:27:54 --> Loader Class Initialized
+INFO - 2025-07-10 16:27:54 --> Helper loaded: url_helper
+INFO - 2025-07-10 16:27:54 --> Helper loaded: file_helper
+INFO - 2025-07-10 16:27:54 --> Helper loaded: csmr_auth_helper
+INFO - 2025-07-10 16:27:54 --> Helper loaded: auto_number_helper
+INFO - 2025-07-10 16:27:54 --> Helper loaded: user_auth_helper
+INFO - 2025-07-10 16:27:54 --> Helper loaded: xdate_helper
+INFO - 2025-07-10 16:27:54 --> Helper loaded: public_helper
+INFO - 2025-07-10 16:27:54 --> Database Driver Class Initialized
+INFO - 2025-07-10 16:27:54 --> Email Class Initialized
+INFO - 2025-07-10 16:27:54 --> Session: Class initialized using 'files' driver.
+INFO - 2025-07-10 16:27:54 --> Helper loaded: form_helper
+INFO - 2025-07-10 16:27:54 --> Form Validation Class Initialized
+INFO - 2025-07-10 16:27:54 --> Model "M_user" initialized
+INFO - 2025-07-10 16:27:54 --> Model "M_customer" initialized
+INFO - 2025-07-10 16:27:54 --> Model "M_tariff" initialized
+INFO - 2025-07-10 16:27:54 --> Model "M_usage" initialized
+INFO - 2025-07-10 16:27:54 --> Model "M_bill" initialized
+INFO - 2025-07-10 16:27:54 --> Model "M_payment" initialized
+INFO - 2025-07-10 16:27:54 --> Model "M_dashboard" initialized
+INFO - 2025-07-10 16:27:54 --> Controller Class Initialized
+DEBUG - 2025-07-10 16:27:54 --> DB cache path error: C:\xampp\htdocs\pln\application\cache/db/
+INFO - 2025-07-10 16:27:54 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/head.php
+INFO - 2025-07-10 16:27:54 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/sidebar.php
+INFO - 2025-07-10 16:27:54 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/header.php
+INFO - 2025-07-10 16:27:54 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/flashdata.php
+INFO - 2025-07-10 16:27:54 --> File loaded: C:\xampp\htdocs\pln\application\views\v_cs_pay.php
+INFO - 2025-07-10 16:27:54 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/footer.php
+INFO - 2025-07-10 16:27:54 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/end.php
+INFO - 2025-07-10 16:27:54 --> Final output sent to browser
+DEBUG - 2025-07-10 16:27:54 --> Total execution time: 0.1260
+INFO - 2025-07-10 16:27:56 --> Config Class Initialized
+INFO - 2025-07-10 16:27:56 --> Hooks Class Initialized
+DEBUG - 2025-07-10 16:27:56 --> UTF-8 Support Enabled
+INFO - 2025-07-10 16:27:56 --> Utf8 Class Initialized
+INFO - 2025-07-10 16:27:56 --> URI Class Initialized
+INFO - 2025-07-10 16:27:56 --> Router Class Initialized
+INFO - 2025-07-10 16:27:56 --> Output Class Initialized
+INFO - 2025-07-10 16:27:56 --> Security Class Initialized
+DEBUG - 2025-07-10 16:27:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-07-10 16:27:56 --> Input Class Initialized
+INFO - 2025-07-10 16:27:56 --> Language Class Initialized
+INFO - 2025-07-10 16:27:56 --> Loader Class Initialized
+INFO - 2025-07-10 16:27:56 --> Helper loaded: url_helper
+INFO - 2025-07-10 16:27:56 --> Helper loaded: file_helper
+INFO - 2025-07-10 16:27:56 --> Helper loaded: csmr_auth_helper
+INFO - 2025-07-10 16:27:56 --> Helper loaded: auto_number_helper
+INFO - 2025-07-10 16:27:56 --> Helper loaded: user_auth_helper
+INFO - 2025-07-10 16:27:56 --> Helper loaded: xdate_helper
+INFO - 2025-07-10 16:27:56 --> Helper loaded: public_helper
+INFO - 2025-07-10 16:27:56 --> Database Driver Class Initialized
+INFO - 2025-07-10 16:27:56 --> Email Class Initialized
+INFO - 2025-07-10 16:27:56 --> Session: Class initialized using 'files' driver.
+INFO - 2025-07-10 16:27:56 --> Helper loaded: form_helper
+INFO - 2025-07-10 16:27:56 --> Form Validation Class Initialized
+INFO - 2025-07-10 16:27:56 --> Model "M_user" initialized
+INFO - 2025-07-10 16:27:56 --> Model "M_customer" initialized
+INFO - 2025-07-10 16:27:56 --> Model "M_tariff" initialized
+INFO - 2025-07-10 16:27:56 --> Model "M_usage" initialized
+INFO - 2025-07-10 16:27:56 --> Model "M_bill" initialized
+INFO - 2025-07-10 16:27:56 --> Model "M_payment" initialized
+INFO - 2025-07-10 16:27:56 --> Model "M_dashboard" initialized
+INFO - 2025-07-10 16:27:56 --> Controller Class Initialized
+DEBUG - 2025-07-10 16:27:56 --> DB cache path error: C:\xampp\htdocs\pln\application\cache/db/
+INFO - 2025-07-10 16:27:56 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/head.php
+INFO - 2025-07-10 16:27:56 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/sidebar.php
+INFO - 2025-07-10 16:27:56 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/header.php
+INFO - 2025-07-10 16:27:56 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/flashdata.php
+INFO - 2025-07-10 16:27:56 --> File loaded: C:\xampp\htdocs\pln\application\views\v_cs_bill.php
+INFO - 2025-07-10 16:27:56 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/footer.php
+INFO - 2025-07-10 16:27:56 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/end.php
+INFO - 2025-07-10 16:27:56 --> Final output sent to browser
+DEBUG - 2025-07-10 16:27:56 --> Total execution time: 0.0842
+INFO - 2025-07-10 16:27:57 --> Config Class Initialized
+INFO - 2025-07-10 16:27:57 --> Hooks Class Initialized
+DEBUG - 2025-07-10 16:27:57 --> UTF-8 Support Enabled
+INFO - 2025-07-10 16:27:57 --> Utf8 Class Initialized
+INFO - 2025-07-10 16:27:57 --> URI Class Initialized
+INFO - 2025-07-10 16:27:57 --> Router Class Initialized
+INFO - 2025-07-10 16:27:57 --> Output Class Initialized
+INFO - 2025-07-10 16:27:57 --> Security Class Initialized
+DEBUG - 2025-07-10 16:27:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-07-10 16:27:57 --> Input Class Initialized
+INFO - 2025-07-10 16:27:57 --> Language Class Initialized
+INFO - 2025-07-10 16:27:57 --> Loader Class Initialized
+INFO - 2025-07-10 16:27:57 --> Helper loaded: url_helper
+INFO - 2025-07-10 16:27:57 --> Helper loaded: file_helper
+INFO - 2025-07-10 16:27:57 --> Helper loaded: csmr_auth_helper
+INFO - 2025-07-10 16:27:57 --> Helper loaded: auto_number_helper
+INFO - 2025-07-10 16:27:57 --> Helper loaded: user_auth_helper
+INFO - 2025-07-10 16:27:57 --> Helper loaded: xdate_helper
+INFO - 2025-07-10 16:27:57 --> Helper loaded: public_helper
+INFO - 2025-07-10 16:27:57 --> Database Driver Class Initialized
+INFO - 2025-07-10 16:27:57 --> Email Class Initialized
+INFO - 2025-07-10 16:27:57 --> Session: Class initialized using 'files' driver.
+INFO - 2025-07-10 16:27:57 --> Helper loaded: form_helper
+INFO - 2025-07-10 16:27:57 --> Form Validation Class Initialized
+INFO - 2025-07-10 16:27:57 --> Model "M_user" initialized
+INFO - 2025-07-10 16:27:57 --> Model "M_customer" initialized
+INFO - 2025-07-10 16:27:57 --> Model "M_tariff" initialized
+INFO - 2025-07-10 16:27:57 --> Model "M_usage" initialized
+INFO - 2025-07-10 16:27:57 --> Model "M_bill" initialized
+INFO - 2025-07-10 16:27:57 --> Model "M_payment" initialized
+INFO - 2025-07-10 16:27:57 --> Model "M_dashboard" initialized
+INFO - 2025-07-10 16:27:57 --> Controller Class Initialized
+DEBUG - 2025-07-10 16:27:57 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-07-10 16:27:57 --> Config Class Initialized
+INFO - 2025-07-10 16:27:57 --> Hooks Class Initialized
+DEBUG - 2025-07-10 16:27:58 --> UTF-8 Support Enabled
+INFO - 2025-07-10 16:27:58 --> Utf8 Class Initialized
+INFO - 2025-07-10 16:27:58 --> URI Class Initialized
+INFO - 2025-07-10 16:27:58 --> Router Class Initialized
+INFO - 2025-07-10 16:27:58 --> Output Class Initialized
+INFO - 2025-07-10 16:27:58 --> Security Class Initialized
+DEBUG - 2025-07-10 16:27:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-07-10 16:27:58 --> Input Class Initialized
+INFO - 2025-07-10 16:27:58 --> Language Class Initialized
+INFO - 2025-07-10 16:27:58 --> Loader Class Initialized
+INFO - 2025-07-10 16:27:58 --> Helper loaded: url_helper
+INFO - 2025-07-10 16:27:58 --> Helper loaded: file_helper
+INFO - 2025-07-10 16:27:58 --> Helper loaded: csmr_auth_helper
+INFO - 2025-07-10 16:27:58 --> Helper loaded: auto_number_helper
+INFO - 2025-07-10 16:27:58 --> Helper loaded: user_auth_helper
+INFO - 2025-07-10 16:27:58 --> Helper loaded: xdate_helper
+INFO - 2025-07-10 16:27:58 --> Helper loaded: public_helper
+INFO - 2025-07-10 16:27:58 --> Database Driver Class Initialized
+INFO - 2025-07-10 16:27:58 --> Email Class Initialized
+INFO - 2025-07-10 16:27:58 --> Session: Class initialized using 'files' driver.
+INFO - 2025-07-10 16:27:58 --> Helper loaded: form_helper
+INFO - 2025-07-10 16:27:58 --> Form Validation Class Initialized
+INFO - 2025-07-10 16:27:58 --> Model "M_user" initialized
+INFO - 2025-07-10 16:27:58 --> Model "M_customer" initialized
+INFO - 2025-07-10 16:27:58 --> Model "M_tariff" initialized
+INFO - 2025-07-10 16:27:58 --> Model "M_usage" initialized
+INFO - 2025-07-10 16:27:58 --> Model "M_bill" initialized
+INFO - 2025-07-10 16:27:58 --> Model "M_payment" initialized
+INFO - 2025-07-10 16:27:58 --> Model "M_dashboard" initialized
+INFO - 2025-07-10 16:27:58 --> Controller Class Initialized
+DEBUG - 2025-07-10 16:27:58 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-07-10 16:27:58 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/auth/head.php
+INFO - 2025-07-10 16:27:58 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/flashdata.php
+INFO - 2025-07-10 16:27:58 --> File loaded: C:\xampp\htdocs\pln\application\views\v_login.php
+INFO - 2025-07-10 16:27:58 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/auth/end.php
+INFO - 2025-07-10 16:27:58 --> Final output sent to browser
+DEBUG - 2025-07-10 16:27:58 --> Total execution time: 0.0807
+INFO - 2025-07-10 16:28:01 --> Config Class Initialized
+INFO - 2025-07-10 16:28:01 --> Hooks Class Initialized
+DEBUG - 2025-07-10 16:28:01 --> UTF-8 Support Enabled
+INFO - 2025-07-10 16:28:01 --> Utf8 Class Initialized
+INFO - 2025-07-10 16:28:01 --> URI Class Initialized
+INFO - 2025-07-10 16:28:01 --> Router Class Initialized
+INFO - 2025-07-10 16:28:01 --> Output Class Initialized
+INFO - 2025-07-10 16:28:01 --> Security Class Initialized
+DEBUG - 2025-07-10 16:28:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-07-10 16:28:01 --> Input Class Initialized
+INFO - 2025-07-10 16:28:01 --> Language Class Initialized
+INFO - 2025-07-10 16:28:01 --> Loader Class Initialized
+INFO - 2025-07-10 16:28:01 --> Helper loaded: url_helper
+INFO - 2025-07-10 16:28:01 --> Helper loaded: file_helper
+INFO - 2025-07-10 16:28:01 --> Helper loaded: csmr_auth_helper
+INFO - 2025-07-10 16:28:01 --> Helper loaded: auto_number_helper
+INFO - 2025-07-10 16:28:01 --> Helper loaded: user_auth_helper
+INFO - 2025-07-10 16:28:01 --> Helper loaded: xdate_helper
+INFO - 2025-07-10 16:28:01 --> Helper loaded: public_helper
+INFO - 2025-07-10 16:28:01 --> Database Driver Class Initialized
+INFO - 2025-07-10 16:28:01 --> Email Class Initialized
+INFO - 2025-07-10 16:28:01 --> Session: Class initialized using 'files' driver.
+INFO - 2025-07-10 16:28:01 --> Helper loaded: form_helper
+INFO - 2025-07-10 16:28:01 --> Form Validation Class Initialized
+INFO - 2025-07-10 16:28:01 --> Model "M_user" initialized
+INFO - 2025-07-10 16:28:01 --> Model "M_customer" initialized
+INFO - 2025-07-10 16:28:01 --> Model "M_tariff" initialized
+INFO - 2025-07-10 16:28:01 --> Model "M_usage" initialized
+INFO - 2025-07-10 16:28:01 --> Model "M_bill" initialized
+INFO - 2025-07-10 16:28:01 --> Model "M_payment" initialized
+INFO - 2025-07-10 16:28:01 --> Model "M_dashboard" initialized
+INFO - 2025-07-10 16:28:01 --> Controller Class Initialized
+DEBUG - 2025-07-10 16:28:01 --> DB cache path error: C:\xampp\htdocs\pln\application\cache/db/
+INFO - 2025-07-10 16:28:01 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/auth/head.php
+INFO - 2025-07-10 16:28:01 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/flashdata.php
+ERROR - 2025-07-10 16:28:01 --> Severity: Warning --> Undefined variable $options C:\xampp\htdocs\pln\application\views\v_register.php 100
+ERROR - 2025-07-10 16:28:01 --> Severity: Warning --> foreach() argument must be of type array|object, null given C:\xampp\htdocs\pln\application\views\v_register.php 100
+INFO - 2025-07-10 16:28:01 --> File loaded: C:\xampp\htdocs\pln\application\views\v_register.php
+INFO - 2025-07-10 16:28:01 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/auth/end.php
+INFO - 2025-07-10 16:28:01 --> Final output sent to browser
+DEBUG - 2025-07-10 16:28:01 --> Total execution time: 0.1214
+INFO - 2025-07-10 16:31:14 --> Config Class Initialized
+INFO - 2025-07-10 16:31:14 --> Hooks Class Initialized
+DEBUG - 2025-07-10 16:31:14 --> UTF-8 Support Enabled
+INFO - 2025-07-10 16:31:14 --> Utf8 Class Initialized
+INFO - 2025-07-10 16:31:14 --> URI Class Initialized
+INFO - 2025-07-10 16:31:14 --> Router Class Initialized
+INFO - 2025-07-10 16:31:14 --> Output Class Initialized
+INFO - 2025-07-10 16:31:14 --> Security Class Initialized
+DEBUG - 2025-07-10 16:31:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-07-10 16:31:14 --> Input Class Initialized
+INFO - 2025-07-10 16:31:14 --> Language Class Initialized
+INFO - 2025-07-10 16:31:14 --> Loader Class Initialized
+INFO - 2025-07-10 16:31:14 --> Helper loaded: url_helper
+INFO - 2025-07-10 16:31:14 --> Helper loaded: file_helper
+INFO - 2025-07-10 16:31:14 --> Helper loaded: csmr_auth_helper
+INFO - 2025-07-10 16:31:14 --> Helper loaded: auto_number_helper
+INFO - 2025-07-10 16:31:14 --> Helper loaded: user_auth_helper
+INFO - 2025-07-10 16:31:14 --> Helper loaded: xdate_helper
+INFO - 2025-07-10 16:31:14 --> Helper loaded: public_helper
+INFO - 2025-07-10 16:31:14 --> Database Driver Class Initialized
+INFO - 2025-07-10 16:31:14 --> Email Class Initialized
+INFO - 2025-07-10 16:31:14 --> Session: Class initialized using 'files' driver.
+INFO - 2025-07-10 16:31:14 --> Helper loaded: form_helper
+INFO - 2025-07-10 16:31:14 --> Form Validation Class Initialized
+INFO - 2025-07-10 16:31:14 --> Model "M_user" initialized
+INFO - 2025-07-10 16:31:14 --> Model "M_customer" initialized
+INFO - 2025-07-10 16:31:14 --> Model "M_tariff" initialized
+INFO - 2025-07-10 16:31:14 --> Model "M_usage" initialized
+INFO - 2025-07-10 16:31:14 --> Model "M_bill" initialized
+INFO - 2025-07-10 16:31:14 --> Model "M_payment" initialized
+INFO - 2025-07-10 16:31:14 --> Model "M_dashboard" initialized
+INFO - 2025-07-10 16:31:14 --> Controller Class Initialized
+DEBUG - 2025-07-10 16:31:14 --> DB cache path error: C:\xampp\htdocs\pln\application\cache/db/
+INFO - 2025-07-10 16:31:14 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/auth/head.php
+INFO - 2025-07-10 16:31:14 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/flashdata.php
+INFO - 2025-07-10 16:31:14 --> File loaded: C:\xampp\htdocs\pln\application\views\v_register.php
+INFO - 2025-07-10 16:31:14 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/auth/end.php
+INFO - 2025-07-10 16:31:14 --> Final output sent to browser
+DEBUG - 2025-07-10 16:31:14 --> Total execution time: 0.1250
+INFO - 2025-07-10 16:31:24 --> Config Class Initialized
+INFO - 2025-07-10 16:31:24 --> Hooks Class Initialized
+DEBUG - 2025-07-10 16:31:24 --> UTF-8 Support Enabled
+INFO - 2025-07-10 16:31:24 --> Utf8 Class Initialized
+INFO - 2025-07-10 16:31:24 --> URI Class Initialized
+INFO - 2025-07-10 16:31:24 --> Router Class Initialized
+INFO - 2025-07-10 16:31:24 --> Output Class Initialized
+INFO - 2025-07-10 16:31:24 --> Security Class Initialized
+DEBUG - 2025-07-10 16:31:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-07-10 16:31:24 --> Input Class Initialized
+INFO - 2025-07-10 16:31:24 --> Language Class Initialized
+INFO - 2025-07-10 16:31:24 --> Loader Class Initialized
+INFO - 2025-07-10 16:31:24 --> Helper loaded: url_helper
+INFO - 2025-07-10 16:31:24 --> Helper loaded: file_helper
+INFO - 2025-07-10 16:31:24 --> Helper loaded: csmr_auth_helper
+INFO - 2025-07-10 16:31:24 --> Helper loaded: auto_number_helper
+INFO - 2025-07-10 16:31:24 --> Helper loaded: user_auth_helper
+INFO - 2025-07-10 16:31:24 --> Helper loaded: xdate_helper
+INFO - 2025-07-10 16:31:24 --> Helper loaded: public_helper
+INFO - 2025-07-10 16:31:24 --> Database Driver Class Initialized
+INFO - 2025-07-10 16:31:24 --> Email Class Initialized
+INFO - 2025-07-10 16:31:24 --> Session: Class initialized using 'files' driver.
+INFO - 2025-07-10 16:31:24 --> Helper loaded: form_helper
+INFO - 2025-07-10 16:31:24 --> Form Validation Class Initialized
+INFO - 2025-07-10 16:31:24 --> Model "M_user" initialized
+INFO - 2025-07-10 16:31:24 --> Model "M_customer" initialized
+INFO - 2025-07-10 16:31:24 --> Model "M_tariff" initialized
+INFO - 2025-07-10 16:31:24 --> Model "M_usage" initialized
+INFO - 2025-07-10 16:31:24 --> Model "M_bill" initialized
+INFO - 2025-07-10 16:31:24 --> Model "M_payment" initialized
+INFO - 2025-07-10 16:31:24 --> Model "M_dashboard" initialized
+INFO - 2025-07-10 16:31:24 --> Controller Class Initialized
+DEBUG - 2025-07-10 16:31:24 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-07-10 16:31:24 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/auth/head.php
+INFO - 2025-07-10 16:31:24 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/flashdata.php
+INFO - 2025-07-10 16:31:24 --> File loaded: C:\xampp\htdocs\pln\application\views\v_login.php
+INFO - 2025-07-10 16:31:24 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/auth/end.php
+INFO - 2025-07-10 16:31:24 --> Final output sent to browser
+DEBUG - 2025-07-10 16:31:24 --> Total execution time: 0.0943
+INFO - 2025-07-10 16:34:04 --> Config Class Initialized
+INFO - 2025-07-10 16:34:04 --> Hooks Class Initialized
+DEBUG - 2025-07-10 16:34:04 --> UTF-8 Support Enabled
+INFO - 2025-07-10 16:34:04 --> Utf8 Class Initialized
+INFO - 2025-07-10 16:34:04 --> URI Class Initialized
+INFO - 2025-07-10 16:34:04 --> Router Class Initialized
+INFO - 2025-07-10 16:34:04 --> Output Class Initialized
+INFO - 2025-07-10 16:34:04 --> Security Class Initialized
+DEBUG - 2025-07-10 16:34:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-07-10 16:34:04 --> Input Class Initialized
+INFO - 2025-07-10 16:34:04 --> Language Class Initialized
+INFO - 2025-07-10 16:34:04 --> Loader Class Initialized
+INFO - 2025-07-10 16:34:04 --> Helper loaded: url_helper
+INFO - 2025-07-10 16:34:04 --> Helper loaded: file_helper
+INFO - 2025-07-10 16:34:04 --> Helper loaded: csmr_auth_helper
+INFO - 2025-07-10 16:34:04 --> Helper loaded: auto_number_helper
+INFO - 2025-07-10 16:34:04 --> Helper loaded: user_auth_helper
+INFO - 2025-07-10 16:34:04 --> Helper loaded: xdate_helper
+INFO - 2025-07-10 16:34:04 --> Helper loaded: public_helper
+INFO - 2025-07-10 16:34:04 --> Database Driver Class Initialized
+INFO - 2025-07-10 16:34:04 --> Email Class Initialized
+INFO - 2025-07-10 16:34:04 --> Session: Class initialized using 'files' driver.
+INFO - 2025-07-10 16:34:04 --> Helper loaded: form_helper
+INFO - 2025-07-10 16:34:04 --> Form Validation Class Initialized
+INFO - 2025-07-10 16:34:04 --> Model "M_user" initialized
+INFO - 2025-07-10 16:34:04 --> Model "M_customer" initialized
+INFO - 2025-07-10 16:34:04 --> Model "M_tariff" initialized
+INFO - 2025-07-10 16:34:04 --> Model "M_usage" initialized
+INFO - 2025-07-10 16:34:04 --> Model "M_bill" initialized
+INFO - 2025-07-10 16:34:04 --> Model "M_payment" initialized
+INFO - 2025-07-10 16:34:04 --> Model "M_dashboard" initialized
+INFO - 2025-07-10 16:34:04 --> Controller Class Initialized
+DEBUG - 2025-07-10 16:34:04 --> DB cache path error: C:\xampp\htdocs\pln\application\cache/db/
+INFO - 2025-07-10 16:34:04 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/auth/head.php
+INFO - 2025-07-10 16:34:04 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/flashdata.php
+INFO - 2025-07-10 16:34:04 --> File loaded: C:\xampp\htdocs\pln\application\views\v_register.php
+INFO - 2025-07-10 16:34:04 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/auth/end.php
+INFO - 2025-07-10 16:34:04 --> Final output sent to browser
+DEBUG - 2025-07-10 16:34:04 --> Total execution time: 0.1301
+INFO - 2025-07-10 16:34:16 --> Config Class Initialized
+INFO - 2025-07-10 16:34:16 --> Hooks Class Initialized
+DEBUG - 2025-07-10 16:34:16 --> UTF-8 Support Enabled
+INFO - 2025-07-10 16:34:16 --> Utf8 Class Initialized
+INFO - 2025-07-10 16:34:16 --> URI Class Initialized
+INFO - 2025-07-10 16:34:16 --> Router Class Initialized
+INFO - 2025-07-10 16:34:16 --> Output Class Initialized
+INFO - 2025-07-10 16:34:16 --> Security Class Initialized
+DEBUG - 2025-07-10 16:34:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-07-10 16:34:16 --> Input Class Initialized
+INFO - 2025-07-10 16:34:16 --> Language Class Initialized
+INFO - 2025-07-10 16:34:16 --> Loader Class Initialized
+INFO - 2025-07-10 16:34:16 --> Helper loaded: url_helper
+INFO - 2025-07-10 16:34:16 --> Helper loaded: file_helper
+INFO - 2025-07-10 16:34:16 --> Helper loaded: csmr_auth_helper
+INFO - 2025-07-10 16:34:16 --> Helper loaded: auto_number_helper
+INFO - 2025-07-10 16:34:16 --> Helper loaded: user_auth_helper
+INFO - 2025-07-10 16:34:16 --> Helper loaded: xdate_helper
+INFO - 2025-07-10 16:34:16 --> Helper loaded: public_helper
+INFO - 2025-07-10 16:34:16 --> Database Driver Class Initialized
+INFO - 2025-07-10 16:34:16 --> Email Class Initialized
+INFO - 2025-07-10 16:34:16 --> Session: Class initialized using 'files' driver.
+INFO - 2025-07-10 16:34:16 --> Helper loaded: form_helper
+INFO - 2025-07-10 16:34:16 --> Form Validation Class Initialized
+INFO - 2025-07-10 16:34:16 --> Model "M_user" initialized
+INFO - 2025-07-10 16:34:16 --> Model "M_customer" initialized
+INFO - 2025-07-10 16:34:16 --> Model "M_tariff" initialized
+INFO - 2025-07-10 16:34:17 --> Model "M_usage" initialized
+INFO - 2025-07-10 16:34:17 --> Model "M_bill" initialized
+INFO - 2025-07-10 16:34:17 --> Model "M_payment" initialized
+INFO - 2025-07-10 16:34:17 --> Model "M_dashboard" initialized
+INFO - 2025-07-10 16:34:17 --> Controller Class Initialized
+DEBUG - 2025-07-10 16:34:17 --> DB cache path error: C:\xampp\htdocs\pln\application\cache/db/
+INFO - 2025-07-10 16:34:17 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/auth/head.php
+INFO - 2025-07-10 16:34:17 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/flashdata.php
+INFO - 2025-07-10 16:34:17 --> File loaded: C:\xampp\htdocs\pln\application\views\v_register.php
+INFO - 2025-07-10 16:34:17 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/auth/end.php
+INFO - 2025-07-10 16:34:17 --> Final output sent to browser
+DEBUG - 2025-07-10 16:34:17 --> Total execution time: 0.1049
+INFO - 2025-07-10 16:34:40 --> Config Class Initialized
+INFO - 2025-07-10 16:34:40 --> Hooks Class Initialized
+DEBUG - 2025-07-10 16:34:40 --> UTF-8 Support Enabled
+INFO - 2025-07-10 16:34:40 --> Utf8 Class Initialized
+INFO - 2025-07-10 16:34:40 --> URI Class Initialized
+INFO - 2025-07-10 16:34:40 --> Router Class Initialized
+INFO - 2025-07-10 16:34:40 --> Output Class Initialized
+INFO - 2025-07-10 16:34:40 --> Security Class Initialized
+DEBUG - 2025-07-10 16:34:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-07-10 16:34:40 --> Input Class Initialized
+INFO - 2025-07-10 16:34:40 --> Language Class Initialized
+INFO - 2025-07-10 16:34:40 --> Loader Class Initialized
+INFO - 2025-07-10 16:34:40 --> Helper loaded: url_helper
+INFO - 2025-07-10 16:34:40 --> Helper loaded: file_helper
+INFO - 2025-07-10 16:34:40 --> Helper loaded: csmr_auth_helper
+INFO - 2025-07-10 16:34:40 --> Helper loaded: auto_number_helper
+INFO - 2025-07-10 16:34:40 --> Helper loaded: user_auth_helper
+INFO - 2025-07-10 16:34:40 --> Helper loaded: xdate_helper
+INFO - 2025-07-10 16:34:40 --> Helper loaded: public_helper
+INFO - 2025-07-10 16:34:40 --> Database Driver Class Initialized
+INFO - 2025-07-10 16:34:40 --> Email Class Initialized
+INFO - 2025-07-10 16:34:40 --> Session: Class initialized using 'files' driver.
+INFO - 2025-07-10 16:34:40 --> Helper loaded: form_helper
+INFO - 2025-07-10 16:34:40 --> Form Validation Class Initialized
+INFO - 2025-07-10 16:34:40 --> Model "M_user" initialized
+INFO - 2025-07-10 16:34:40 --> Model "M_customer" initialized
+INFO - 2025-07-10 16:34:40 --> Model "M_tariff" initialized
+INFO - 2025-07-10 16:34:40 --> Model "M_usage" initialized
+INFO - 2025-07-10 16:34:40 --> Model "M_bill" initialized
+INFO - 2025-07-10 16:34:40 --> Model "M_payment" initialized
+INFO - 2025-07-10 16:34:40 --> Model "M_dashboard" initialized
+INFO - 2025-07-10 16:34:40 --> Controller Class Initialized
+DEBUG - 2025-07-10 16:34:40 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-07-10 16:34:40 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/auth/head.php
+INFO - 2025-07-10 16:34:40 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/flashdata.php
+INFO - 2025-07-10 16:34:40 --> File loaded: C:\xampp\htdocs\pln\application\views\v_login.php
+INFO - 2025-07-10 16:34:40 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/auth/end.php
+INFO - 2025-07-10 16:34:40 --> Final output sent to browser
+DEBUG - 2025-07-10 16:34:40 --> Total execution time: 0.0787
+INFO - 2025-07-10 16:34:45 --> Config Class Initialized
+INFO - 2025-07-10 16:34:45 --> Hooks Class Initialized
+DEBUG - 2025-07-10 16:34:45 --> UTF-8 Support Enabled
+INFO - 2025-07-10 16:34:45 --> Utf8 Class Initialized
+INFO - 2025-07-10 16:34:45 --> URI Class Initialized
+INFO - 2025-07-10 16:34:45 --> Router Class Initialized
+INFO - 2025-07-10 16:34:45 --> Output Class Initialized
+INFO - 2025-07-10 16:34:45 --> Security Class Initialized
+DEBUG - 2025-07-10 16:34:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-07-10 16:34:45 --> Input Class Initialized
+INFO - 2025-07-10 16:34:45 --> Language Class Initialized
+INFO - 2025-07-10 16:34:45 --> Loader Class Initialized
+INFO - 2025-07-10 16:34:45 --> Helper loaded: url_helper
+INFO - 2025-07-10 16:34:45 --> Helper loaded: file_helper
+INFO - 2025-07-10 16:34:45 --> Helper loaded: csmr_auth_helper
+INFO - 2025-07-10 16:34:45 --> Helper loaded: auto_number_helper
+INFO - 2025-07-10 16:34:45 --> Helper loaded: user_auth_helper
+INFO - 2025-07-10 16:34:45 --> Helper loaded: xdate_helper
+INFO - 2025-07-10 16:34:45 --> Helper loaded: public_helper
+INFO - 2025-07-10 16:34:45 --> Database Driver Class Initialized
+INFO - 2025-07-10 16:34:45 --> Email Class Initialized
+INFO - 2025-07-10 16:34:45 --> Session: Class initialized using 'files' driver.
+INFO - 2025-07-10 16:34:45 --> Helper loaded: form_helper
+INFO - 2025-07-10 16:34:45 --> Form Validation Class Initialized
+INFO - 2025-07-10 16:34:45 --> Model "M_user" initialized
+INFO - 2025-07-10 16:34:45 --> Model "M_customer" initialized
+INFO - 2025-07-10 16:34:45 --> Model "M_tariff" initialized
+INFO - 2025-07-10 16:34:45 --> Model "M_usage" initialized
+INFO - 2025-07-10 16:34:45 --> Model "M_bill" initialized
+INFO - 2025-07-10 16:34:45 --> Model "M_payment" initialized
+INFO - 2025-07-10 16:34:45 --> Model "M_dashboard" initialized
+INFO - 2025-07-10 16:34:45 --> Controller Class Initialized
+INFO - 2025-07-10 16:34:45 --> File loaded: C:\xampp\htdocs\pln\application\views\404.php
+INFO - 2025-07-10 16:34:45 --> Final output sent to browser
+DEBUG - 2025-07-10 16:34:45 --> Total execution time: 0.1116
+INFO - 2025-07-10 16:34:50 --> Config Class Initialized
+INFO - 2025-07-10 16:34:50 --> Hooks Class Initialized
+DEBUG - 2025-07-10 16:34:50 --> UTF-8 Support Enabled
+INFO - 2025-07-10 16:34:50 --> Utf8 Class Initialized
+INFO - 2025-07-10 16:34:50 --> URI Class Initialized
+INFO - 2025-07-10 16:34:50 --> Router Class Initialized
+INFO - 2025-07-10 16:34:50 --> Output Class Initialized
+INFO - 2025-07-10 16:34:50 --> Security Class Initialized
+DEBUG - 2025-07-10 16:34:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-07-10 16:34:50 --> Input Class Initialized
+INFO - 2025-07-10 16:34:50 --> Language Class Initialized
+INFO - 2025-07-10 16:34:50 --> Loader Class Initialized
+INFO - 2025-07-10 16:34:50 --> Helper loaded: url_helper
+INFO - 2025-07-10 16:34:50 --> Helper loaded: file_helper
+INFO - 2025-07-10 16:34:50 --> Helper loaded: csmr_auth_helper
+INFO - 2025-07-10 16:34:50 --> Helper loaded: auto_number_helper
+INFO - 2025-07-10 16:34:50 --> Helper loaded: user_auth_helper
+INFO - 2025-07-10 16:34:50 --> Helper loaded: xdate_helper
+INFO - 2025-07-10 16:34:50 --> Helper loaded: public_helper
+INFO - 2025-07-10 16:34:50 --> Database Driver Class Initialized
+INFO - 2025-07-10 16:34:50 --> Email Class Initialized
+INFO - 2025-07-10 16:34:50 --> Session: Class initialized using 'files' driver.
+INFO - 2025-07-10 16:34:50 --> Helper loaded: form_helper
+INFO - 2025-07-10 16:34:50 --> Form Validation Class Initialized
+INFO - 2025-07-10 16:34:50 --> Model "M_user" initialized
+INFO - 2025-07-10 16:34:50 --> Model "M_customer" initialized
+INFO - 2025-07-10 16:34:50 --> Model "M_tariff" initialized
+INFO - 2025-07-10 16:34:50 --> Model "M_usage" initialized
+INFO - 2025-07-10 16:34:50 --> Model "M_bill" initialized
+INFO - 2025-07-10 16:34:50 --> Model "M_payment" initialized
+INFO - 2025-07-10 16:34:50 --> Model "M_dashboard" initialized
+INFO - 2025-07-10 16:34:50 --> Controller Class Initialized
+INFO - 2025-07-10 16:34:50 --> File loaded: C:\xampp\htdocs\pln\application\views\404.php
+INFO - 2025-07-10 16:34:50 --> Final output sent to browser
+DEBUG - 2025-07-10 16:34:50 --> Total execution time: 0.1080
+INFO - 2025-07-10 16:35:23 --> Config Class Initialized
+INFO - 2025-07-10 16:35:23 --> Hooks Class Initialized
+DEBUG - 2025-07-10 16:35:23 --> UTF-8 Support Enabled
+INFO - 2025-07-10 16:35:23 --> Utf8 Class Initialized
+INFO - 2025-07-10 16:35:23 --> URI Class Initialized
+INFO - 2025-07-10 16:35:23 --> Router Class Initialized
+INFO - 2025-07-10 16:35:23 --> Output Class Initialized
+INFO - 2025-07-10 16:35:23 --> Security Class Initialized
+DEBUG - 2025-07-10 16:35:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-07-10 16:35:23 --> Input Class Initialized
+INFO - 2025-07-10 16:35:23 --> Language Class Initialized
+INFO - 2025-07-10 16:35:23 --> Loader Class Initialized
+INFO - 2025-07-10 16:35:23 --> Helper loaded: url_helper
+INFO - 2025-07-10 16:35:23 --> Helper loaded: file_helper
+INFO - 2025-07-10 16:35:23 --> Helper loaded: csmr_auth_helper
+INFO - 2025-07-10 16:35:23 --> Helper loaded: auto_number_helper
+INFO - 2025-07-10 16:35:23 --> Helper loaded: user_auth_helper
+INFO - 2025-07-10 16:35:23 --> Helper loaded: xdate_helper
+INFO - 2025-07-10 16:35:23 --> Helper loaded: public_helper
+INFO - 2025-07-10 16:35:23 --> Database Driver Class Initialized
+INFO - 2025-07-10 16:35:23 --> Email Class Initialized
+INFO - 2025-07-10 16:35:23 --> Session: Class initialized using 'files' driver.
+INFO - 2025-07-10 16:35:23 --> Helper loaded: form_helper
+INFO - 2025-07-10 16:35:23 --> Form Validation Class Initialized
+INFO - 2025-07-10 16:35:23 --> Model "M_user" initialized
+INFO - 2025-07-10 16:35:23 --> Model "M_customer" initialized
+INFO - 2025-07-10 16:35:23 --> Model "M_tariff" initialized
+INFO - 2025-07-10 16:35:23 --> Model "M_usage" initialized
+INFO - 2025-07-10 16:35:23 --> Model "M_bill" initialized
+INFO - 2025-07-10 16:35:23 --> Model "M_payment" initialized
+INFO - 2025-07-10 16:35:23 --> Model "M_dashboard" initialized
+INFO - 2025-07-10 16:35:23 --> Controller Class Initialized
+DEBUG - 2025-07-10 16:35:23 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-07-10 16:35:23 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/auth/head.php
+INFO - 2025-07-10 16:35:23 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/flashdata.php
+INFO - 2025-07-10 16:35:23 --> File loaded: C:\xampp\htdocs\pln\application\views\v_login.php
+INFO - 2025-07-10 16:35:23 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/auth/end.php
+INFO - 2025-07-10 16:35:23 --> Final output sent to browser
+DEBUG - 2025-07-10 16:35:23 --> Total execution time: 0.1120
+INFO - 2025-07-10 16:35:47 --> Config Class Initialized
+INFO - 2025-07-10 16:35:47 --> Hooks Class Initialized
+DEBUG - 2025-07-10 16:35:47 --> UTF-8 Support Enabled
+INFO - 2025-07-10 16:35:47 --> Utf8 Class Initialized
+INFO - 2025-07-10 16:35:47 --> URI Class Initialized
+INFO - 2025-07-10 16:35:47 --> Router Class Initialized
+INFO - 2025-07-10 16:35:47 --> Output Class Initialized
+INFO - 2025-07-10 16:35:47 --> Security Class Initialized
+DEBUG - 2025-07-10 16:35:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-07-10 16:35:47 --> Input Class Initialized
+INFO - 2025-07-10 16:35:47 --> Language Class Initialized
+INFO - 2025-07-10 16:35:47 --> Loader Class Initialized
+INFO - 2025-07-10 16:35:47 --> Helper loaded: url_helper
+INFO - 2025-07-10 16:35:47 --> Helper loaded: file_helper
+INFO - 2025-07-10 16:35:47 --> Helper loaded: csmr_auth_helper
+INFO - 2025-07-10 16:35:47 --> Helper loaded: auto_number_helper
+INFO - 2025-07-10 16:35:47 --> Helper loaded: user_auth_helper
+INFO - 2025-07-10 16:35:47 --> Helper loaded: xdate_helper
+INFO - 2025-07-10 16:35:47 --> Helper loaded: public_helper
+INFO - 2025-07-10 16:35:47 --> Database Driver Class Initialized
+INFO - 2025-07-10 16:35:47 --> Email Class Initialized
+INFO - 2025-07-10 16:35:47 --> Session: Class initialized using 'files' driver.
+INFO - 2025-07-10 16:35:47 --> Helper loaded: form_helper
+INFO - 2025-07-10 16:35:47 --> Form Validation Class Initialized
+INFO - 2025-07-10 16:35:47 --> Model "M_user" initialized
+INFO - 2025-07-10 16:35:47 --> Model "M_customer" initialized
+INFO - 2025-07-10 16:35:47 --> Model "M_tariff" initialized
+INFO - 2025-07-10 16:35:47 --> Model "M_usage" initialized
+INFO - 2025-07-10 16:35:47 --> Model "M_bill" initialized
+INFO - 2025-07-10 16:35:47 --> Model "M_payment" initialized
+INFO - 2025-07-10 16:35:47 --> Model "M_dashboard" initialized
+INFO - 2025-07-10 16:35:47 --> Controller Class Initialized
+INFO - 2025-07-10 16:35:47 --> File loaded: C:\xampp\htdocs\pln\application\views\404.php
+INFO - 2025-07-10 16:35:47 --> Final output sent to browser
+DEBUG - 2025-07-10 16:35:47 --> Total execution time: 0.1138
+INFO - 2025-07-10 16:35:48 --> Config Class Initialized
+INFO - 2025-07-10 16:35:48 --> Hooks Class Initialized
+DEBUG - 2025-07-10 16:35:48 --> UTF-8 Support Enabled
+INFO - 2025-07-10 16:35:48 --> Utf8 Class Initialized
+INFO - 2025-07-10 16:35:48 --> URI Class Initialized
+INFO - 2025-07-10 16:35:48 --> Router Class Initialized
+INFO - 2025-07-10 16:35:48 --> Output Class Initialized
+INFO - 2025-07-10 16:35:48 --> Security Class Initialized
+DEBUG - 2025-07-10 16:35:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-07-10 16:35:48 --> Input Class Initialized
+INFO - 2025-07-10 16:35:48 --> Language Class Initialized
+INFO - 2025-07-10 16:35:48 --> Loader Class Initialized
+INFO - 2025-07-10 16:35:48 --> Helper loaded: url_helper
+INFO - 2025-07-10 16:35:48 --> Helper loaded: file_helper
+INFO - 2025-07-10 16:35:48 --> Helper loaded: csmr_auth_helper
+INFO - 2025-07-10 16:35:48 --> Helper loaded: auto_number_helper
+INFO - 2025-07-10 16:35:48 --> Helper loaded: user_auth_helper
+INFO - 2025-07-10 16:35:48 --> Helper loaded: xdate_helper
+INFO - 2025-07-10 16:35:48 --> Helper loaded: public_helper
+INFO - 2025-07-10 16:35:48 --> Database Driver Class Initialized
+INFO - 2025-07-10 16:35:48 --> Email Class Initialized
+INFO - 2025-07-10 16:35:48 --> Session: Class initialized using 'files' driver.
+INFO - 2025-07-10 16:35:48 --> Helper loaded: form_helper
+INFO - 2025-07-10 16:35:48 --> Form Validation Class Initialized
+INFO - 2025-07-10 16:35:48 --> Model "M_user" initialized
+INFO - 2025-07-10 16:35:48 --> Model "M_customer" initialized
+INFO - 2025-07-10 16:35:48 --> Model "M_tariff" initialized
+INFO - 2025-07-10 16:35:48 --> Model "M_usage" initialized
+INFO - 2025-07-10 16:35:48 --> Model "M_bill" initialized
+INFO - 2025-07-10 16:35:48 --> Model "M_payment" initialized
+INFO - 2025-07-10 16:35:48 --> Model "M_dashboard" initialized
+INFO - 2025-07-10 16:35:48 --> Controller Class Initialized
+INFO - 2025-07-10 16:35:48 --> Config Class Initialized
+INFO - 2025-07-10 16:35:48 --> Hooks Class Initialized
+DEBUG - 2025-07-10 16:35:48 --> UTF-8 Support Enabled
+INFO - 2025-07-10 16:35:48 --> Utf8 Class Initialized
+INFO - 2025-07-10 16:35:48 --> URI Class Initialized
+INFO - 2025-07-10 16:35:48 --> Router Class Initialized
+INFO - 2025-07-10 16:35:48 --> Output Class Initialized
+INFO - 2025-07-10 16:35:48 --> Security Class Initialized
+DEBUG - 2025-07-10 16:35:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-07-10 16:35:48 --> Input Class Initialized
+INFO - 2025-07-10 16:35:48 --> Language Class Initialized
+INFO - 2025-07-10 16:35:48 --> Loader Class Initialized
+INFO - 2025-07-10 16:35:48 --> Helper loaded: url_helper
+INFO - 2025-07-10 16:35:48 --> Helper loaded: file_helper
+INFO - 2025-07-10 16:35:48 --> Helper loaded: csmr_auth_helper
+INFO - 2025-07-10 16:35:48 --> Helper loaded: auto_number_helper
+INFO - 2025-07-10 16:35:48 --> Helper loaded: user_auth_helper
+INFO - 2025-07-10 16:35:48 --> Helper loaded: xdate_helper
+INFO - 2025-07-10 16:35:48 --> Helper loaded: public_helper
+INFO - 2025-07-10 16:35:48 --> Database Driver Class Initialized
+INFO - 2025-07-10 16:35:48 --> Email Class Initialized
+INFO - 2025-07-10 16:35:48 --> Session: Class initialized using 'files' driver.
+INFO - 2025-07-10 16:35:48 --> Helper loaded: form_helper
+INFO - 2025-07-10 16:35:48 --> Form Validation Class Initialized
+INFO - 2025-07-10 16:35:48 --> Model "M_user" initialized
+INFO - 2025-07-10 16:35:48 --> Model "M_customer" initialized
+INFO - 2025-07-10 16:35:48 --> Model "M_tariff" initialized
+INFO - 2025-07-10 16:35:48 --> Model "M_usage" initialized
+INFO - 2025-07-10 16:35:48 --> Model "M_bill" initialized
+INFO - 2025-07-10 16:35:48 --> Model "M_payment" initialized
+INFO - 2025-07-10 16:35:48 --> Model "M_dashboard" initialized
+INFO - 2025-07-10 16:35:48 --> Controller Class Initialized
+INFO - 2025-07-10 16:35:48 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/auth/head.php
+INFO - 2025-07-10 16:35:48 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/flashdata.php
+INFO - 2025-07-10 16:35:48 --> File loaded: C:\xampp\htdocs\pln\application\views\admin/v_login.php
+INFO - 2025-07-10 16:35:48 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/auth/end.php
+INFO - 2025-07-10 16:35:48 --> Final output sent to browser
+DEBUG - 2025-07-10 16:35:48 --> Total execution time: 0.1104
+INFO - 2025-07-10 16:35:57 --> Config Class Initialized
+INFO - 2025-07-10 16:35:57 --> Hooks Class Initialized
+DEBUG - 2025-07-10 16:35:57 --> UTF-8 Support Enabled
+INFO - 2025-07-10 16:35:57 --> Utf8 Class Initialized
+INFO - 2025-07-10 16:35:57 --> URI Class Initialized
+INFO - 2025-07-10 16:35:57 --> Router Class Initialized
+INFO - 2025-07-10 16:35:57 --> Output Class Initialized
+INFO - 2025-07-10 16:35:57 --> Security Class Initialized
+DEBUG - 2025-07-10 16:35:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-07-10 16:35:57 --> Input Class Initialized
+INFO - 2025-07-10 16:35:57 --> Language Class Initialized
+INFO - 2025-07-10 16:35:57 --> Loader Class Initialized
+INFO - 2025-07-10 16:35:57 --> Helper loaded: url_helper
+INFO - 2025-07-10 16:35:57 --> Helper loaded: file_helper
+INFO - 2025-07-10 16:35:57 --> Helper loaded: csmr_auth_helper
+INFO - 2025-07-10 16:35:57 --> Helper loaded: auto_number_helper
+INFO - 2025-07-10 16:35:57 --> Helper loaded: user_auth_helper
+INFO - 2025-07-10 16:35:57 --> Helper loaded: xdate_helper
+INFO - 2025-07-10 16:35:57 --> Helper loaded: public_helper
+INFO - 2025-07-10 16:35:57 --> Database Driver Class Initialized
+INFO - 2025-07-10 16:35:57 --> Email Class Initialized
+INFO - 2025-07-10 16:35:57 --> Session: Class initialized using 'files' driver.
+INFO - 2025-07-10 16:35:57 --> Helper loaded: form_helper
+INFO - 2025-07-10 16:35:57 --> Form Validation Class Initialized
+INFO - 2025-07-10 16:35:57 --> Model "M_user" initialized
+INFO - 2025-07-10 16:35:57 --> Model "M_customer" initialized
+INFO - 2025-07-10 16:35:57 --> Model "M_tariff" initialized
+INFO - 2025-07-10 16:35:57 --> Model "M_usage" initialized
+INFO - 2025-07-10 16:35:57 --> Model "M_bill" initialized
+INFO - 2025-07-10 16:35:57 --> Model "M_payment" initialized
+INFO - 2025-07-10 16:35:57 --> Model "M_dashboard" initialized
+INFO - 2025-07-10 16:35:57 --> Controller Class Initialized
+INFO - 2025-07-10 16:35:57 --> File loaded: C:\xampp\htdocs\pln\application\views\404.php
+INFO - 2025-07-10 16:35:57 --> Final output sent to browser
+DEBUG - 2025-07-10 16:35:57 --> Total execution time: 0.1684
+INFO - 2025-07-10 16:35:58 --> Config Class Initialized
+INFO - 2025-07-10 16:35:58 --> Hooks Class Initialized
+DEBUG - 2025-07-10 16:35:58 --> UTF-8 Support Enabled
+INFO - 2025-07-10 16:35:58 --> Utf8 Class Initialized
+INFO - 2025-07-10 16:35:58 --> URI Class Initialized
+INFO - 2025-07-10 16:35:58 --> Router Class Initialized
+INFO - 2025-07-10 16:35:58 --> Output Class Initialized
+INFO - 2025-07-10 16:35:58 --> Security Class Initialized
+DEBUG - 2025-07-10 16:35:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-07-10 16:35:58 --> Input Class Initialized
+INFO - 2025-07-10 16:35:58 --> Language Class Initialized
+INFO - 2025-07-10 16:35:58 --> Loader Class Initialized
+INFO - 2025-07-10 16:35:58 --> Helper loaded: url_helper
+INFO - 2025-07-10 16:35:58 --> Helper loaded: file_helper
+INFO - 2025-07-10 16:35:58 --> Helper loaded: csmr_auth_helper
+INFO - 2025-07-10 16:35:58 --> Helper loaded: auto_number_helper
+INFO - 2025-07-10 16:35:58 --> Helper loaded: user_auth_helper
+INFO - 2025-07-10 16:35:58 --> Helper loaded: xdate_helper
+INFO - 2025-07-10 16:35:58 --> Helper loaded: public_helper
+INFO - 2025-07-10 16:35:58 --> Database Driver Class Initialized
+INFO - 2025-07-10 16:35:58 --> Email Class Initialized
+INFO - 2025-07-10 16:35:58 --> Session: Class initialized using 'files' driver.
+INFO - 2025-07-10 16:35:58 --> Helper loaded: form_helper
+INFO - 2025-07-10 16:35:58 --> Form Validation Class Initialized
+INFO - 2025-07-10 16:35:58 --> Model "M_user" initialized
+INFO - 2025-07-10 16:35:58 --> Model "M_customer" initialized
+INFO - 2025-07-10 16:35:58 --> Model "M_tariff" initialized
+INFO - 2025-07-10 16:35:59 --> Model "M_usage" initialized
+INFO - 2025-07-10 16:35:59 --> Model "M_bill" initialized
+INFO - 2025-07-10 16:35:59 --> Model "M_payment" initialized
+INFO - 2025-07-10 16:35:59 --> Model "M_dashboard" initialized
+INFO - 2025-07-10 16:35:59 --> Controller Class Initialized
+DEBUG - 2025-07-10 16:35:59 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-07-10 16:35:59 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/auth/head.php
+INFO - 2025-07-10 16:35:59 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/flashdata.php
+INFO - 2025-07-10 16:35:59 --> File loaded: C:\xampp\htdocs\pln\application\views\v_login.php
+INFO - 2025-07-10 16:35:59 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/auth/end.php
+INFO - 2025-07-10 16:35:59 --> Final output sent to browser
+DEBUG - 2025-07-10 16:35:59 --> Total execution time: 0.1019
+INFO - 2025-07-10 16:36:15 --> Config Class Initialized
+INFO - 2025-07-10 16:36:15 --> Hooks Class Initialized
+DEBUG - 2025-07-10 16:36:15 --> UTF-8 Support Enabled
+INFO - 2025-07-10 16:36:15 --> Utf8 Class Initialized
+INFO - 2025-07-10 16:36:15 --> URI Class Initialized
+INFO - 2025-07-10 16:36:15 --> Router Class Initialized
+INFO - 2025-07-10 16:36:15 --> Output Class Initialized
+INFO - 2025-07-10 16:36:15 --> Security Class Initialized
+DEBUG - 2025-07-10 16:36:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-07-10 16:36:15 --> Input Class Initialized
+INFO - 2025-07-10 16:36:15 --> Language Class Initialized
+INFO - 2025-07-10 16:36:15 --> Loader Class Initialized
+INFO - 2025-07-10 16:36:15 --> Helper loaded: url_helper
+INFO - 2025-07-10 16:36:15 --> Helper loaded: file_helper
+INFO - 2025-07-10 16:36:15 --> Helper loaded: csmr_auth_helper
+INFO - 2025-07-10 16:36:15 --> Helper loaded: auto_number_helper
+INFO - 2025-07-10 16:36:15 --> Helper loaded: user_auth_helper
+INFO - 2025-07-10 16:36:15 --> Helper loaded: xdate_helper
+INFO - 2025-07-10 16:36:15 --> Helper loaded: public_helper
+INFO - 2025-07-10 16:36:15 --> Database Driver Class Initialized
+INFO - 2025-07-10 16:36:15 --> Email Class Initialized
+INFO - 2025-07-10 16:36:15 --> Session: Class initialized using 'files' driver.
+INFO - 2025-07-10 16:36:15 --> Helper loaded: form_helper
+INFO - 2025-07-10 16:36:15 --> Form Validation Class Initialized
+INFO - 2025-07-10 16:36:15 --> Model "M_user" initialized
+INFO - 2025-07-10 16:36:15 --> Model "M_customer" initialized
+INFO - 2025-07-10 16:36:15 --> Model "M_tariff" initialized
+INFO - 2025-07-10 16:36:15 --> Model "M_usage" initialized
+INFO - 2025-07-10 16:36:15 --> Model "M_bill" initialized
+INFO - 2025-07-10 16:36:15 --> Model "M_payment" initialized
+INFO - 2025-07-10 16:36:15 --> Model "M_dashboard" initialized
+INFO - 2025-07-10 16:36:15 --> Controller Class Initialized
+DEBUG - 2025-07-10 16:36:15 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-07-10 16:36:15 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/auth/head.php
+INFO - 2025-07-10 16:36:15 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/flashdata.php
+INFO - 2025-07-10 16:36:15 --> File loaded: C:\xampp\htdocs\pln\application\views\v_login.php
+INFO - 2025-07-10 16:36:15 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/auth/end.php
+INFO - 2025-07-10 16:36:15 --> Final output sent to browser
+DEBUG - 2025-07-10 16:36:15 --> Total execution time: 0.1179
+INFO - 2025-07-10 16:36:19 --> Config Class Initialized
+INFO - 2025-07-10 16:36:19 --> Hooks Class Initialized
+DEBUG - 2025-07-10 16:36:19 --> UTF-8 Support Enabled
+INFO - 2025-07-10 16:36:19 --> Utf8 Class Initialized
+INFO - 2025-07-10 16:36:19 --> URI Class Initialized
+INFO - 2025-07-10 16:36:19 --> Router Class Initialized
+INFO - 2025-07-10 16:36:19 --> Output Class Initialized
+INFO - 2025-07-10 16:36:19 --> Security Class Initialized
+DEBUG - 2025-07-10 16:36:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-07-10 16:36:19 --> Input Class Initialized
+INFO - 2025-07-10 16:36:19 --> Language Class Initialized
+INFO - 2025-07-10 16:36:19 --> Loader Class Initialized
+INFO - 2025-07-10 16:36:19 --> Helper loaded: url_helper
+INFO - 2025-07-10 16:36:19 --> Helper loaded: file_helper
+INFO - 2025-07-10 16:36:19 --> Helper loaded: csmr_auth_helper
+INFO - 2025-07-10 16:36:19 --> Helper loaded: auto_number_helper
+INFO - 2025-07-10 16:36:19 --> Helper loaded: user_auth_helper
+INFO - 2025-07-10 16:36:19 --> Helper loaded: xdate_helper
+INFO - 2025-07-10 16:36:19 --> Helper loaded: public_helper
+INFO - 2025-07-10 16:36:19 --> Database Driver Class Initialized
+INFO - 2025-07-10 16:36:19 --> Email Class Initialized
+INFO - 2025-07-10 16:36:19 --> Session: Class initialized using 'files' driver.
+INFO - 2025-07-10 16:36:19 --> Helper loaded: form_helper
+INFO - 2025-07-10 16:36:19 --> Form Validation Class Initialized
+INFO - 2025-07-10 16:36:19 --> Model "M_user" initialized
+INFO - 2025-07-10 16:36:19 --> Model "M_customer" initialized
+INFO - 2025-07-10 16:36:19 --> Model "M_tariff" initialized
+INFO - 2025-07-10 16:36:19 --> Model "M_usage" initialized
+INFO - 2025-07-10 16:36:19 --> Model "M_bill" initialized
+INFO - 2025-07-10 16:36:19 --> Model "M_payment" initialized
+INFO - 2025-07-10 16:36:19 --> Model "M_dashboard" initialized
+INFO - 2025-07-10 16:36:19 --> Controller Class Initialized
+INFO - 2025-07-10 16:36:19 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/auth/head.php
+INFO - 2025-07-10 16:36:19 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/flashdata.php
+INFO - 2025-07-10 16:36:19 --> File loaded: C:\xampp\htdocs\pln\application\views\admin/v_login.php
+INFO - 2025-07-10 16:36:19 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/auth/end.php
+INFO - 2025-07-10 16:36:19 --> Final output sent to browser
+DEBUG - 2025-07-10 16:36:19 --> Total execution time: 0.1070
+INFO - 2025-07-10 16:40:54 --> Config Class Initialized
+INFO - 2025-07-10 16:40:54 --> Hooks Class Initialized
+DEBUG - 2025-07-10 16:40:54 --> UTF-8 Support Enabled
+INFO - 2025-07-10 16:40:54 --> Utf8 Class Initialized
+INFO - 2025-07-10 16:40:54 --> URI Class Initialized
+INFO - 2025-07-10 16:40:54 --> Router Class Initialized
+INFO - 2025-07-10 16:40:54 --> Output Class Initialized
+INFO - 2025-07-10 16:40:54 --> Security Class Initialized
+DEBUG - 2025-07-10 16:40:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-07-10 16:40:54 --> Input Class Initialized
+INFO - 2025-07-10 16:40:54 --> Language Class Initialized
+INFO - 2025-07-10 16:40:54 --> Loader Class Initialized
+INFO - 2025-07-10 16:40:54 --> Helper loaded: url_helper
+INFO - 2025-07-10 16:40:54 --> Helper loaded: file_helper
+INFO - 2025-07-10 16:40:54 --> Helper loaded: csmr_auth_helper
+INFO - 2025-07-10 16:40:54 --> Helper loaded: auto_number_helper
+INFO - 2025-07-10 16:40:54 --> Helper loaded: user_auth_helper
+INFO - 2025-07-10 16:40:54 --> Helper loaded: xdate_helper
+INFO - 2025-07-10 16:40:54 --> Helper loaded: public_helper
+INFO - 2025-07-10 16:40:54 --> Database Driver Class Initialized
+INFO - 2025-07-10 16:40:54 --> Email Class Initialized
+INFO - 2025-07-10 16:40:54 --> Session: Class initialized using 'files' driver.
+INFO - 2025-07-10 16:40:54 --> Helper loaded: form_helper
+INFO - 2025-07-10 16:40:54 --> Form Validation Class Initialized
+INFO - 2025-07-10 16:40:54 --> Model "M_user" initialized
+INFO - 2025-07-10 16:40:54 --> Model "M_customer" initialized
+INFO - 2025-07-10 16:40:54 --> Model "M_tariff" initialized
+INFO - 2025-07-10 16:40:54 --> Model "M_usage" initialized
+INFO - 2025-07-10 16:40:54 --> Model "M_bill" initialized
+INFO - 2025-07-10 16:40:54 --> Model "M_payment" initialized
+INFO - 2025-07-10 16:40:54 --> Model "M_dashboard" initialized
+INFO - 2025-07-10 16:40:54 --> Controller Class Initialized
+DEBUG - 2025-07-10 16:40:54 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-07-10 16:40:54 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/auth/head.php
+INFO - 2025-07-10 16:40:54 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/flashdata.php
+INFO - 2025-07-10 16:40:54 --> File loaded: C:\xampp\htdocs\pln\application\views\v_login.php
+INFO - 2025-07-10 16:40:54 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/auth/end.php
+INFO - 2025-07-10 16:40:54 --> Final output sent to browser
+DEBUG - 2025-07-10 16:40:54 --> Total execution time: 0.1239
+INFO - 2025-07-10 16:40:55 --> Config Class Initialized
+INFO - 2025-07-10 16:40:55 --> Hooks Class Initialized
+DEBUG - 2025-07-10 16:40:55 --> UTF-8 Support Enabled
+INFO - 2025-07-10 16:40:55 --> Utf8 Class Initialized
+INFO - 2025-07-10 16:40:55 --> URI Class Initialized
+INFO - 2025-07-10 16:40:55 --> Router Class Initialized
+INFO - 2025-07-10 16:40:55 --> Output Class Initialized
+INFO - 2025-07-10 16:40:55 --> Security Class Initialized
+DEBUG - 2025-07-10 16:40:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-07-10 16:40:55 --> Input Class Initialized
+INFO - 2025-07-10 16:40:55 --> Language Class Initialized
+INFO - 2025-07-10 16:40:55 --> Loader Class Initialized
+INFO - 2025-07-10 16:40:55 --> Helper loaded: url_helper
+INFO - 2025-07-10 16:40:55 --> Helper loaded: file_helper
+INFO - 2025-07-10 16:40:55 --> Helper loaded: csmr_auth_helper
+INFO - 2025-07-10 16:40:55 --> Helper loaded: auto_number_helper
+INFO - 2025-07-10 16:40:55 --> Helper loaded: user_auth_helper
+INFO - 2025-07-10 16:40:55 --> Helper loaded: xdate_helper
+INFO - 2025-07-10 16:40:55 --> Helper loaded: public_helper
+INFO - 2025-07-10 16:40:55 --> Database Driver Class Initialized
+INFO - 2025-07-10 16:40:55 --> Email Class Initialized
+INFO - 2025-07-10 16:40:55 --> Session: Class initialized using 'files' driver.
+INFO - 2025-07-10 16:40:55 --> Helper loaded: form_helper
+INFO - 2025-07-10 16:40:55 --> Form Validation Class Initialized
+INFO - 2025-07-10 16:40:55 --> Model "M_user" initialized
+INFO - 2025-07-10 16:40:55 --> Model "M_customer" initialized
+INFO - 2025-07-10 16:40:55 --> Model "M_tariff" initialized
+INFO - 2025-07-10 16:40:55 --> Model "M_usage" initialized
+INFO - 2025-07-10 16:40:55 --> Model "M_bill" initialized
+INFO - 2025-07-10 16:40:55 --> Model "M_payment" initialized
+INFO - 2025-07-10 16:40:55 --> Model "M_dashboard" initialized
+INFO - 2025-07-10 16:40:55 --> Controller Class Initialized
+INFO - 2025-07-10 16:40:55 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/auth/head.php
+INFO - 2025-07-10 16:40:55 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/flashdata.php
+ERROR - 2025-07-10 16:40:55 --> Severity: Warning --> Undefined variable $usr_val C:\xampp\htdocs\pln\application\views\admin\v_login.php 67
+INFO - 2025-07-10 16:40:55 --> File loaded: C:\xampp\htdocs\pln\application\views\admin/v_login.php
+INFO - 2025-07-10 16:40:55 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/auth/end.php
+INFO - 2025-07-10 16:40:55 --> Final output sent to browser
+DEBUG - 2025-07-10 16:40:55 --> Total execution time: 0.1001
+INFO - 2025-07-10 16:41:21 --> Config Class Initialized
+INFO - 2025-07-10 16:41:21 --> Hooks Class Initialized
+DEBUG - 2025-07-10 16:41:21 --> UTF-8 Support Enabled
+INFO - 2025-07-10 16:41:21 --> Utf8 Class Initialized
+INFO - 2025-07-10 16:41:21 --> URI Class Initialized
+INFO - 2025-07-10 16:41:21 --> Router Class Initialized
+INFO - 2025-07-10 16:41:21 --> Output Class Initialized
+INFO - 2025-07-10 16:41:21 --> Security Class Initialized
+DEBUG - 2025-07-10 16:41:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-07-10 16:41:21 --> Input Class Initialized
+INFO - 2025-07-10 16:41:21 --> Language Class Initialized
+INFO - 2025-07-10 16:41:21 --> Loader Class Initialized
+INFO - 2025-07-10 16:41:21 --> Helper loaded: url_helper
+INFO - 2025-07-10 16:41:21 --> Helper loaded: file_helper
+INFO - 2025-07-10 16:41:21 --> Helper loaded: csmr_auth_helper
+INFO - 2025-07-10 16:41:21 --> Helper loaded: auto_number_helper
+INFO - 2025-07-10 16:41:21 --> Helper loaded: user_auth_helper
+INFO - 2025-07-10 16:41:21 --> Helper loaded: xdate_helper
+INFO - 2025-07-10 16:41:21 --> Helper loaded: public_helper
+INFO - 2025-07-10 16:41:21 --> Database Driver Class Initialized
+INFO - 2025-07-10 16:41:21 --> Email Class Initialized
+INFO - 2025-07-10 16:41:21 --> Session: Class initialized using 'files' driver.
+INFO - 2025-07-10 16:41:21 --> Helper loaded: form_helper
+INFO - 2025-07-10 16:41:21 --> Form Validation Class Initialized
+INFO - 2025-07-10 16:41:21 --> Model "M_user" initialized
+INFO - 2025-07-10 16:41:21 --> Model "M_customer" initialized
+INFO - 2025-07-10 16:41:21 --> Model "M_tariff" initialized
+INFO - 2025-07-10 16:41:21 --> Model "M_usage" initialized
+INFO - 2025-07-10 16:41:21 --> Model "M_bill" initialized
+INFO - 2025-07-10 16:41:21 --> Model "M_payment" initialized
+INFO - 2025-07-10 16:41:21 --> Model "M_dashboard" initialized
+INFO - 2025-07-10 16:41:21 --> Controller Class Initialized
+INFO - 2025-07-10 16:41:21 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/auth/head.php
+INFO - 2025-07-10 16:41:21 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/flashdata.php
+INFO - 2025-07-10 16:41:21 --> File loaded: C:\xampp\htdocs\pln\application\views\admin/v_login.php
+INFO - 2025-07-10 16:41:21 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/auth/end.php
+INFO - 2025-07-10 16:41:21 --> Final output sent to browser
+DEBUG - 2025-07-10 16:41:21 --> Total execution time: 0.1307
+INFO - 2025-07-10 16:41:39 --> Config Class Initialized
+INFO - 2025-07-10 16:41:39 --> Hooks Class Initialized
+DEBUG - 2025-07-10 16:41:39 --> UTF-8 Support Enabled
+INFO - 2025-07-10 16:41:39 --> Utf8 Class Initialized
+INFO - 2025-07-10 16:41:39 --> URI Class Initialized
+INFO - 2025-07-10 16:41:39 --> Router Class Initialized
+INFO - 2025-07-10 16:41:39 --> Output Class Initialized
+INFO - 2025-07-10 16:41:39 --> Security Class Initialized
+DEBUG - 2025-07-10 16:41:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-07-10 16:41:39 --> Input Class Initialized
+INFO - 2025-07-10 16:41:39 --> Language Class Initialized
+INFO - 2025-07-10 16:41:39 --> Loader Class Initialized
+INFO - 2025-07-10 16:41:39 --> Helper loaded: url_helper
+INFO - 2025-07-10 16:41:39 --> Helper loaded: file_helper
+INFO - 2025-07-10 16:41:39 --> Helper loaded: csmr_auth_helper
+INFO - 2025-07-10 16:41:39 --> Helper loaded: auto_number_helper
+INFO - 2025-07-10 16:41:39 --> Helper loaded: user_auth_helper
+INFO - 2025-07-10 16:41:39 --> Helper loaded: xdate_helper
+INFO - 2025-07-10 16:41:39 --> Helper loaded: public_helper
+INFO - 2025-07-10 16:41:39 --> Database Driver Class Initialized
+INFO - 2025-07-10 16:41:39 --> Email Class Initialized
+INFO - 2025-07-10 16:41:39 --> Session: Class initialized using 'files' driver.
+INFO - 2025-07-10 16:41:39 --> Helper loaded: form_helper
+INFO - 2025-07-10 16:41:39 --> Form Validation Class Initialized
+INFO - 2025-07-10 16:41:39 --> Model "M_user" initialized
+INFO - 2025-07-10 16:41:39 --> Model "M_customer" initialized
+INFO - 2025-07-10 16:41:39 --> Model "M_tariff" initialized
+INFO - 2025-07-10 16:41:39 --> Model "M_usage" initialized
+INFO - 2025-07-10 16:41:39 --> Model "M_bill" initialized
+INFO - 2025-07-10 16:41:39 --> Model "M_payment" initialized
+INFO - 2025-07-10 16:41:39 --> Model "M_dashboard" initialized
+INFO - 2025-07-10 16:41:39 --> Controller Class Initialized
+INFO - 2025-07-10 16:41:39 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/auth/head.php
+INFO - 2025-07-10 16:41:39 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/flashdata.php
+INFO - 2025-07-10 16:41:39 --> File loaded: C:\xampp\htdocs\pln\application\views\admin/v_login.php
+INFO - 2025-07-10 16:41:39 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/auth/end.php
+INFO - 2025-07-10 16:41:39 --> Final output sent to browser
+DEBUG - 2025-07-10 16:41:39 --> Total execution time: 0.1215
+INFO - 2025-07-10 16:41:43 --> Config Class Initialized
+INFO - 2025-07-10 16:41:43 --> Hooks Class Initialized
+DEBUG - 2025-07-10 16:41:43 --> UTF-8 Support Enabled
+INFO - 2025-07-10 16:41:43 --> Utf8 Class Initialized
+INFO - 2025-07-10 16:41:43 --> URI Class Initialized
+INFO - 2025-07-10 16:41:43 --> Router Class Initialized
+INFO - 2025-07-10 16:41:43 --> Output Class Initialized
+INFO - 2025-07-10 16:41:43 --> Security Class Initialized
+DEBUG - 2025-07-10 16:41:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-07-10 16:41:43 --> Input Class Initialized
+INFO - 2025-07-10 16:41:43 --> Language Class Initialized
+INFO - 2025-07-10 16:41:43 --> Loader Class Initialized
+INFO - 2025-07-10 16:41:43 --> Helper loaded: url_helper
+INFO - 2025-07-10 16:41:43 --> Helper loaded: file_helper
+INFO - 2025-07-10 16:41:43 --> Helper loaded: csmr_auth_helper
+INFO - 2025-07-10 16:41:43 --> Helper loaded: auto_number_helper
+INFO - 2025-07-10 16:41:43 --> Helper loaded: user_auth_helper
+INFO - 2025-07-10 16:41:43 --> Helper loaded: xdate_helper
+INFO - 2025-07-10 16:41:43 --> Helper loaded: public_helper
+INFO - 2025-07-10 16:41:43 --> Database Driver Class Initialized
+INFO - 2025-07-10 16:41:43 --> Email Class Initialized
+INFO - 2025-07-10 16:41:43 --> Session: Class initialized using 'files' driver.
+INFO - 2025-07-10 16:41:43 --> Helper loaded: form_helper
+INFO - 2025-07-10 16:41:43 --> Form Validation Class Initialized
+INFO - 2025-07-10 16:41:43 --> Model "M_user" initialized
+INFO - 2025-07-10 16:41:43 --> Model "M_customer" initialized
+INFO - 2025-07-10 16:41:43 --> Model "M_tariff" initialized
+INFO - 2025-07-10 16:41:43 --> Model "M_usage" initialized
+INFO - 2025-07-10 16:41:43 --> Model "M_bill" initialized
+INFO - 2025-07-10 16:41:43 --> Model "M_payment" initialized
+INFO - 2025-07-10 16:41:43 --> Model "M_dashboard" initialized
+INFO - 2025-07-10 16:41:43 --> Controller Class Initialized
+INFO - 2025-07-10 16:41:43 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/head_home.php
+INFO - 2025-07-10 16:41:43 --> File loaded: C:\xampp\htdocs\pln\application\views\home.php
+INFO - 2025-07-10 16:41:43 --> Final output sent to browser
+DEBUG - 2025-07-10 16:41:43 --> Total execution time: 0.0880
+INFO - 2025-07-10 16:41:45 --> Config Class Initialized
+INFO - 2025-07-10 16:41:45 --> Hooks Class Initialized
+DEBUG - 2025-07-10 16:41:45 --> UTF-8 Support Enabled
+INFO - 2025-07-10 16:41:45 --> Utf8 Class Initialized
+INFO - 2025-07-10 16:41:45 --> URI Class Initialized
+INFO - 2025-07-10 16:41:45 --> Router Class Initialized
+INFO - 2025-07-10 16:41:45 --> Output Class Initialized
+INFO - 2025-07-10 16:41:45 --> Security Class Initialized
+DEBUG - 2025-07-10 16:41:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-07-10 16:41:45 --> Input Class Initialized
+INFO - 2025-07-10 16:41:45 --> Language Class Initialized
+INFO - 2025-07-10 16:41:45 --> Loader Class Initialized
+INFO - 2025-07-10 16:41:45 --> Helper loaded: url_helper
+INFO - 2025-07-10 16:41:45 --> Helper loaded: file_helper
+INFO - 2025-07-10 16:41:45 --> Helper loaded: csmr_auth_helper
+INFO - 2025-07-10 16:41:45 --> Helper loaded: auto_number_helper
+INFO - 2025-07-10 16:41:45 --> Helper loaded: user_auth_helper
+INFO - 2025-07-10 16:41:45 --> Helper loaded: xdate_helper
+INFO - 2025-07-10 16:41:45 --> Helper loaded: public_helper
+INFO - 2025-07-10 16:41:45 --> Database Driver Class Initialized
+INFO - 2025-07-10 16:41:45 --> Email Class Initialized
+INFO - 2025-07-10 16:41:45 --> Session: Class initialized using 'files' driver.
+INFO - 2025-07-10 16:41:45 --> Helper loaded: form_helper
+INFO - 2025-07-10 16:41:45 --> Form Validation Class Initialized
+INFO - 2025-07-10 16:41:45 --> Model "M_user" initialized
+INFO - 2025-07-10 16:41:45 --> Model "M_customer" initialized
+INFO - 2025-07-10 16:41:45 --> Model "M_tariff" initialized
+INFO - 2025-07-10 16:41:45 --> Model "M_usage" initialized
+INFO - 2025-07-10 16:41:45 --> Model "M_bill" initialized
+INFO - 2025-07-10 16:41:45 --> Model "M_payment" initialized
+INFO - 2025-07-10 16:41:45 --> Model "M_dashboard" initialized
+INFO - 2025-07-10 16:41:45 --> Controller Class Initialized
+DEBUG - 2025-07-10 16:41:45 --> Session class already loaded. Second attempt ignored.
+INFO - 2025-07-10 16:41:45 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/auth/head.php
+INFO - 2025-07-10 16:41:45 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/flashdata.php
+INFO - 2025-07-10 16:41:45 --> File loaded: C:\xampp\htdocs\pln\application\views\v_login.php
+INFO - 2025-07-10 16:41:45 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/auth/end.php
+INFO - 2025-07-10 16:41:45 --> Final output sent to browser
+DEBUG - 2025-07-10 16:41:45 --> Total execution time: 0.1108
+INFO - 2025-07-10 16:42:13 --> Config Class Initialized
+INFO - 2025-07-10 16:42:13 --> Hooks Class Initialized
+DEBUG - 2025-07-10 16:42:13 --> UTF-8 Support Enabled
+INFO - 2025-07-10 16:42:13 --> Utf8 Class Initialized
+INFO - 2025-07-10 16:42:13 --> URI Class Initialized
+INFO - 2025-07-10 16:42:13 --> Router Class Initialized
+INFO - 2025-07-10 16:42:13 --> Output Class Initialized
+INFO - 2025-07-10 16:42:13 --> Security Class Initialized
+DEBUG - 2025-07-10 16:42:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-07-10 16:42:13 --> Input Class Initialized
+INFO - 2025-07-10 16:42:13 --> Language Class Initialized
+INFO - 2025-07-10 16:42:13 --> Loader Class Initialized
+INFO - 2025-07-10 16:42:13 --> Helper loaded: url_helper
+INFO - 2025-07-10 16:42:13 --> Helper loaded: file_helper
+INFO - 2025-07-10 16:42:13 --> Helper loaded: csmr_auth_helper
+INFO - 2025-07-10 16:42:13 --> Helper loaded: auto_number_helper
+INFO - 2025-07-10 16:42:13 --> Helper loaded: user_auth_helper
+INFO - 2025-07-10 16:42:13 --> Helper loaded: xdate_helper
+INFO - 2025-07-10 16:42:13 --> Helper loaded: public_helper
+INFO - 2025-07-10 16:42:13 --> Database Driver Class Initialized
+INFO - 2025-07-10 16:42:13 --> Email Class Initialized
+INFO - 2025-07-10 16:42:13 --> Session: Class initialized using 'files' driver.
+INFO - 2025-07-10 16:42:13 --> Helper loaded: form_helper
+INFO - 2025-07-10 16:42:13 --> Form Validation Class Initialized
+INFO - 2025-07-10 16:42:13 --> Model "M_user" initialized
+INFO - 2025-07-10 16:42:13 --> Model "M_customer" initialized
+INFO - 2025-07-10 16:42:13 --> Model "M_tariff" initialized
+INFO - 2025-07-10 16:42:13 --> Model "M_usage" initialized
+INFO - 2025-07-10 16:42:13 --> Model "M_bill" initialized
+INFO - 2025-07-10 16:42:13 --> Model "M_payment" initialized
+INFO - 2025-07-10 16:42:13 --> Model "M_dashboard" initialized
+INFO - 2025-07-10 16:42:13 --> Controller Class Initialized
+INFO - 2025-07-10 16:42:13 --> File loaded: C:\xampp\htdocs\pln\application\views\layouts/head_home.php
+INFO - 2025-07-10 16:42:13 --> File loaded: C:\xampp\htdocs\pln\application\views\home.php
+INFO - 2025-07-10 16:42:13 --> Final output sent to browser
+DEBUG - 2025-07-10 16:42:13 --> Total execution time: 0.1008

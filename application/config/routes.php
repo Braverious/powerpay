@@ -51,18 +51,18 @@ defined('BASEPATH') or exit('No direct script access allowed');
  */
 $route['default_controller'] = 'home';
 
-$route['home'] = 'home';
-$route['pelanggan/logout'] = 'costumer/Login/logout';
-$route['pelanggan'] = 'costumer/Dashboard/index';
-$route['pelanggan/masuk'] = 'costumer/Login';
-$route['pelanggan/post-masuk'] = 'costumer/Login/create';
-$route['pelanggan/daftar'] = 'costumer/Register';
+$route['home']                  = 'home';
+$route['pelanggan/logout']      = 'costumer/Login/logout';
+$route['pelanggan']             = 'costumer/Dashboard/index';
+$route['pelanggan/masuk']       = 'costumer/Login';
+$route['pelanggan/post-masuk']  = 'costumer/Login/create';
+$route['pelanggan/daftar']      = 'costumer/Register';
 $route['pelanggan/post-daftar'] = 'costumer/Register/create';
-$route['pelanggan/profile'] = 'costumer/Profile';
+$route['pelanggan/profile']     = 'costumer/Profile';
 $route['pelanggan/profile/ubah-password'] = 'costumer/Profile/change_password';
 
 
-$route['pelanggan/penggunaan'] = 'costumer/UsageCustomer';
+$route['pelanggan/penggunaan']  = 'costumer/UsageCustomer';
 $route['pelanggan/penggunaan/input'] = 'costumer/UsageCustomer/create';
 $route['pelanggan/penggunaan/ubah/(:any)'] = 'costumer/UsageCustomer/update/$1';
 $route['pelanggan/penggunaan/hapus/(:any)'] = 'costumer/UsageCustomer/delete/$1';
