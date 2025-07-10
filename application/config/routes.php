@@ -49,28 +49,29 @@ defined('BASEPATH') or exit('No direct script access allowed');
 | Examples:    my-controller/index    -> my_controller/index
 |        my-controller/my-method    -> my_controller/my_method
  */
-$route['default_controller'] = 'welcome';
+$route['default_controller'] = 'home';
 
-$route['pelanggan/logout'] = 'csmr/Login/logout';
-$route['pelanggan'] = 'csmr/Dashboard/index';
-$route['pelanggan/masuk'] = 'csmr/Login';
-$route['pelanggan/post-masuk'] = 'csmr/Login/create';
-$route['pelanggan/daftar'] = 'csmr/Register';
-$route['pelanggan/post-daftar'] = 'csmr/Register/create';
-$route['pelanggan/profile'] = 'csmr/Profile';
-$route['pelanggan/profile/ubah-password'] = 'csmr/Profile/change_password';
+$route['home'] = 'home';
+$route['pelanggan/logout'] = 'costumer/Login/logout';
+$route['pelanggan'] = 'costumer/Dashboard/index';
+$route['pelanggan/masuk'] = 'costumer/Login';
+$route['pelanggan/post-masuk'] = 'costumer/Login/create';
+$route['pelanggan/daftar'] = 'costumer/Register';
+$route['pelanggan/post-daftar'] = 'costumer/Register/create';
+$route['pelanggan/profile'] = 'costumer/Profile';
+$route['pelanggan/profile/ubah-password'] = 'costumer/Profile/change_password';
 
 
-$route['pelanggan/penggunaan'] = 'csmr/UsageCustomer';
-$route['pelanggan/penggunaan/input'] = 'csmr/UsageCustomer/create';
-$route['pelanggan/penggunaan/ubah/(:any)'] = 'csmr/UsageCustomer/update/$1';
-$route['pelanggan/penggunaan/hapus/(:any)'] = 'csmr/UsageCustomer/delete/$1';
+$route['pelanggan/penggunaan'] = 'costumer/UsageCustomer';
+$route['pelanggan/penggunaan/input'] = 'costumer/UsageCustomer/create';
+$route['pelanggan/penggunaan/ubah/(:any)'] = 'costumer/UsageCustomer/update/$1';
+$route['pelanggan/penggunaan/hapus/(:any)'] = 'costumer/UsageCustomer/delete/$1';
 
-$route['pelanggan/tagihan'] = 'csmr/BillCustomer';
-$route['pelanggan/tagihan/(:any)'] = 'csmr/BillCustomer/detail/$1';
-$route['pelanggan/tagihan/(:any)/bayar'] = 'csmr/PaymentCustomer/create/$1';
+$route['pelanggan/tagihan'] = 'costumer/BillCustomer';
+$route['pelanggan/tagihan/(:any)'] = 'costumer/BillCustomer/detail/$1';
+$route['pelanggan/tagihan/(:any)/bayar'] = 'costumer/PaymentCustomer/create/$1';
 
-$route['pelanggan/pembayaran'] = 'csmr/PaymentCustomer';
+$route['pelanggan/pembayaran'] = 'costumer/PaymentCustomer';
 
 
 $route['administrator'] = 'admin/DashboardAdmin/index';

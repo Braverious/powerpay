@@ -1,10 +1,14 @@
-<nav id="sidebar" class="sidebar js-sidebar">
+<style>
+	.sidebar {
+		background-color: #ffd700;
+	}
+</style>
+<nav id="sidebar" class="sidebar js-sidebar" style="background-color: #ffd700;">
 	<div class="sidebar-content js-simplebar">
-		<a class="sidebar-brand" href="index.html">
-			<span class="align-middle">Listrikk
-			</span>
+		<a class="sidebar-brand" href="#">
+			<span>PowerPay</span>
 			<br>
-			<span class="text-white-50" style="font-size: 18px;">Pelanggan</span>
+			<span class="sidebar-brand-subtitle">Dasbor Pelanggan</span>
 		</a>
 
 		<ul class="sidebar-nav">

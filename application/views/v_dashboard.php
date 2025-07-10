@@ -8,8 +8,7 @@
 			</div>
 
 			<div class="col-auto ms-auto text-end mt-n1">
-				<!-- <a href="#" class="btn btn-light bg-white me-2">Invite a Friend</a> -->
-				<a href="<?= base_url("pelanggan/tagihan") ?>" class="btn btn-primary"> <i data-feather="file" class="my-auto mb-1"></i> Daftar Tagihan</a>
+				<a href="<?= base_url("pelanggan/tagihan") ?>" class="btn btn-kuning"> <i data-feather="file" class="my-auto mb-1"></i> Daftar Tagihan</a>
 			</div>
 		</div>
 		<div class="row">
@@ -136,18 +135,18 @@
 						<h5 class="card-title mb-0">Informasi KWH</h5>
 					</div>
 					<div class="card-body py-3 text-center d-flex align-items-center flex-column justify-content-center ">
-						<div class="  mb-4 rounded-circle p-3 text-primary" style="width: 70px; height: 70px; background: #d3e2f7;">
-							<i style="width: 100%; height: 100%;" data-feather="zap"></i>
+						<div class="mb-4 rounded-circle p-3 text-primary" style="width: 70px; height: 70px; background: #1A1A1A;">
+							<i style="width: 100%; height: 100%; color: #ffd700;" data-feather="zap"></i>
 						</div>
 						<h1 class=" text-muted fw-bold "><?= $user_auth->nomor_kwh  ?></h1>
 					</div>
 					<div class="card-footer d-flex flex-column flex-lg-row justify-content-lg-center justify-content-xl-between gap-2 gap-lg-4   ">
 						<div>
-							<small class=" text-primary ">Daya</small>
+							<small style="color:#1A1A1A;">Daya</small>
 							<h4 class="text-muted fw-bold "><?= $user_auth->daya  ?></h4>
 						</div>
 						<div>
-							<small class=" text-primary ">Tarif</small>
+							<small style="color:#1A1A1A;">Tarif</small>
 							<h4 class="text-muted fw-bold "><?= Rupiah($user_auth->tarif_perkwh)  ?>/kwh</h4>
 						</div>
 
@@ -160,7 +159,7 @@
 				<div class="card flex-fill w-100">
 					<div class="card-header d-flex justify-content-between align-items-center">
 						<h5 class="card-title mb-0">Tagihan Terbaru</h5>
-						<a href="<?= base_url("pelanggan/tagihan") ?>" class=" btn btn-link p-0 shadow-none  "><small>Lebih lanjut <i data-feather="arrow-right"></i>
+						<a href="<?= base_url("pelanggan/tagihan") ?>" class=" btn btn-link p-0 shadow-none" style="color:#1A1A1A;"><small>Lebih lanjut <i data-feather="arrow-right"></i>
 							</small></a>
 					</div>
 					<div class="card-body d-flex">

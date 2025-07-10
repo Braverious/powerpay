@@ -1,3 +1,16 @@
+<style>
+.btn-kuning {
+  color: #000;
+  background-color: #ffd700;
+  border-color: #ffd700;
+}
+
+.btn-kuning:hover {
+  color: #000;
+  background-color: #e6c300; /* Warna kuning sedikit lebih gelap untuk efek hover */
+  border-color: #d9b800;
+}
+</style>
 <nav class="navbar navbar-expand navbar-light navbar-bg">
 	<a class="sidebar-toggle js-sidebar-toggle">
 		<i class="hamburger align-self-center"></i>
