@@ -1,0 +1,171 @@
+SECRET LAPTOP /c/xampp/htdocs/pln (main)
+$ git remote add origin https://github.com/Braverious/powerpay.git
+error: remote origin already exists.
+
+SECRET LAPTOP /c/xampp/htdocs/pln (main)
+$ git remote remove origin
+
+SECRET LAPTOP /c/xampp/htdocs/pln (main)
+$ git remote add origin https://github.com/Braverious/powerpay.git
+
+SECRET LAPTOP /c/xampp/htdocs/pln (main)
+$ git add .
+warning: in the working copy of 'application/config/routes.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'application/controllers/Welcome.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'application/logs/log-2025-07-10.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'application/views/layouts/footer.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'application/views/layouts/header.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'application/views/layouts/sidebar.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'application/views/v_dashboard.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'application/views/v_login.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'assets/css/app.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'application/controllers/costumer/BillCustomer.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'application/controllers/costumer/Dashboard.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'application/controllers/costumer/Login.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'application/controllers/costumer/PaymentCustomer.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'application/controllers/costumer/Profile.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'application/controllers/costumer/Register.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'application/controllers/costumer/UsageCustomer.php', LF will be replaced by CRLF the next time Git touches it
+
+SECRET LAPTOP /c/xampp/htdocs/pln (main)
+$ git commit -m "New project"
+[main de9f4ea] New project
+ 19 files changed, 19566 insertions(+), 4968 deletions(-)
+ create mode 100644 application/controllers/Home.php
+ rename application/controllers/{csmr => costumer}/BillCustomer.php (100%)
+ rename application/controllers/{csmr => costumer}/Dashboard.php (100%)
+ rename application/controllers/{csmr => costumer}/Login.php (61%)
+ rename application/controllers/{csmr => costumer}/PaymentCustomer.php (100%)
+ rename application/controllers/{csmr => costumer}/Profile.php (100%)
+ rename application/controllers/{csmr => costumer}/Register.php (100%)
+ rename application/controllers/{csmr => costumer}/UsageCustomer.php (100%)
+ create mode 100644 application/views/home.php
+
+SECRET LAPTOP /c/xampp/htdocs/pln (main)
+$ git brand -M main
+git: 'brand' is not a git command. See 'git --help'.
+
+The most similar command is
+        branch
+
+SECRET LAPTOP /c/xampp/htdocs/pln (main)
+$ git branch -M main
+
+SECRET LAPTOP /c/xampp/htdocs/pln (main)
+$ git push -u origin main
+Enumerating objects: 407, done.
+Counting objects: 100% (407/407), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (402/402), done.
+Writing objects: 100% (407/407), 3.36 MiB | 1.02 MiB/s, done.
+Total 407 (delta 161), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (161/161), done.
+To https://github.com/Braverious/powerpay.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+
+SECRET LAPTOP /c/xampp/htdocs/pln (main)
+$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   application/config/routes.php
+        modified:   application/controllers/Home.php
+        modified:   application/controllers/costumer/BillCustomer.php
+        modified:   application/logs/log-2025-07-10.php
+        modified:   application/views/home.php
+        modified:   application/views/layouts/sidebar.php
+        modified:   application/views/v_bill_info.php
+        modified:   application/views/v_cs_bill.php
+        modified:   application/views/v_cs_bill_info.php
+        modified:   application/views/v_cs_profile.php
+        modified:   application/views/v_cs_usage.php
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        application/views/layouts/head_home.php
+        application/views/v_cs_print.php
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+SECRET LAPTOP /c/xampp/htdocs/pln (main)
+$ git add .
+warning: in the working copy of 'application/config/routes.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'application/controllers/costumer/BillCustomer.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'application/logs/log-2025-07-10.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'application/views/layouts/sidebar.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'application/views/v_bill_info.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'application/views/v_cs_bill.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'application/views/v_cs_bill_info.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'application/views/v_cs_profile.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'application/views/v_cs_usage.php', LF will be replaced by CRLF the next time Git touches it
+
+SECRET LAPTOP /c/xampp/htdocs/pln (main)
+$ git commit -m "New landing page route, print PDF, sidebar layouting"
+[main f705556] New landing page route, print PDF, sidebar layouting
+ 13 files changed, 3461 insertions(+), 59 deletions(-)
+ create mode 100644 application/views/layouts/head_home.php
+ create mode 100644 application/views/v_cs_print.php
+
+SECRET LAPTOP /c/xampp/htdocs/pln (main)
+$ git push origin main
+Enumerating objects: 40, done.
+Counting objects: 100% (40/40), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (22/22), done.
+Writing objects: 100% (22/22), 18.34 KiB | 2.04 MiB/s, done.
+Total 22 (delta 19), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (19/19), completed with 18 local objects.
+To https://github.com/Braverious/powerpay.git
+   de9f4ea..f705556  main -> main
+
+SECRET LAPTOP /c/xampp/htdocs/pln (main)
+$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   application/config/routes.php
+        modified:   application/logs/log-2025-07-10.php
+        modified:   application/views/admin/v_login.php
+        modified:   application/views/layouts/sidebar.php
+        modified:   application/views/v_dashboard.php
+        modified:   application/views/v_login.php
+        modified:   application/views/v_register.php
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+SECRET LAPTOP /c/xampp/htdocs/pln (main)
+$ git add .
+warning: in the working copy of 'application/config/routes.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'application/logs/log-2025-07-10.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'application/views/admin/v_login.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'application/views/layouts/sidebar.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'application/views/v_dashboard.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'application/views/v_login.php', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'application/views/v_register.php', LF will be replaced by CRLF the next time Git touches it
+
+SECRET LAPTOP /c/xampp/htdocs/pln (main)
+$ git commit -m "Regist configuration, sidebar fix, Admin login fix"
+[main 1722d1f] Regist configuration, sidebar fix, Admin login fix
+ 7 files changed, 2496 insertions(+), 373 deletions(-)
+
+SECRET LAPTOP /c/xampp/htdocs/pln (main)
+$ git push origin main
+Enumerating objects: 29, done.
+Counting objects: 100% (29/29), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (15/15), done.
+Writing objects: 100% (15/15), 14.93 KiB | 1.07 MiB/s, done.
+Total 15 (delta 12), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (12/12), completed with 11 local objects.
+To https://github.com/Braverious/powerpay.git
+   f705556..1722d1f  main -> main
+
+SECRET LAPTOP /c/xampp/htdocs/pln (main)
+$
