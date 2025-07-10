@@ -27,7 +27,7 @@
                     <tr>
                       <td class="text-nowrap">
                         <div class="d-flex gap-2  ">
-                          <a href="<?php echo site_url('pelanggan/tagihan/' . $b->id_tagihan) ?>" class="btn btn-primary btn-sm d-flex align-items-center gap-2  "> <i class="btn-icon-prepend" data-feather="info"></i> Detail</a>
+                          <a href="<?php echo site_url('pelanggan/tagihan/' . $b->id_tagihan) ?>" class="btn btn-kuning btn-sm d-flex align-items-center gap-2  "> <i class="btn-icon-prepend" data-feather="info"></i> Detail</a>
                         </div>
                       </td>
                       <td><?= $b->id_tagihan; ?></td>

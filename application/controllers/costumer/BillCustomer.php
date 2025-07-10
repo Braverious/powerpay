@@ -70,4 +70,25 @@ class BillCustomer extends CI_Controller
     $this->load->view('layouts/footer', $data);
     $this->load->view('layouts/end', $data);
   }
+
+  public function print_bill($id)
+  {
+    $bill = $this->M_bill->get_tagihan_by_id($id);
+
+    if ($bill) {
+      $admin_fee = AdminFee();
+      $total_bill = $bill->tarif_perkwh * $bill->jumlah_meter;
+      $total_pay = $total_bill + $admin_fee;
+
+      $data["title"] = "Cetak Tagihan " . $bill->id_tagihan;
+      $data["bill"] = $bill;
+      $data["total_bill"] = Rupiah($total_bill);
+      $data["admin_fee"] = Rupiah($admin_fee);
+      $data["total_pay"] = Rupiah($total_pay);
+
+      $this->load->view('v_cs_print', $data);
+    } else {
+      show_404();
+    }
+  }
 }

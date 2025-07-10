@@ -20,7 +20,7 @@ class Home extends CI_Controller
         //     'kk' => $this->LimbahModel->getLimbahById(3)
         // ];
         // $data['total'] = $data['bp']['total_sampah'] + $data['ka']['total_sampah'] + $data['kk']['total_sampah'];
-
+        $this->load->view('layouts/head_home');
         $this->load->view('home', $data);
     }
 }

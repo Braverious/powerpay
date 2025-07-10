@@ -28,11 +28,8 @@
 					<i class="align-middle" data-feather="user"></i> <span class="align-middle">Profile</span>
 				</a>
 			</li>
-
-
-
 			<li class="sidebar-header">
-				Listrik
+				Informasi
 			</li>
 
 			<li class="sidebar-item">
@@ -45,16 +42,17 @@
 					<i class="align-middle" data-feather="dollar-sign"></i> <span class="align-middle">Tagihan</span>
 				</a>
 			</li>
-
-			<li class="sidebar-header">
-				Pembayaran
-			</li>
-
 			<li class="sidebar-item">
 				<a class="sidebar-link" href="<?= base_url("pelanggan/pembayaran") ?>">
 					<i class="align-middle" data-feather="check-square"></i> <span class="align-middle">Pembayaran</span>
 				</a>
 			</li>
+
+			<li class="sidebar-header">
+				Pengaturan
+			</li>
+
+
 	</div>
 </nav>
 

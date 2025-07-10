@@ -8,7 +8,7 @@
 
       <div class="col-auto ms-auto text-end mt-n1">
         <!-- <a href="#" class="btn btn-light bg-white me-2">Invite a Friend</a> -->
-        <a href="<?= base_url("pelanggan/penggunaan/input") ?>" class="btn btn-primary"> Input Penggunaan</a>
+        <a href="<?= base_url("pelanggan/penggunaan/input") ?>" class="btn btn-kuning"> <i data-feather="file-plus" class="my-auto mb-1"></i> Input Penggunaan</a>
       </div>
     </div>
 

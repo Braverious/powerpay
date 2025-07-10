@@ -70,6 +70,7 @@ $route['pelanggan/penggunaan/hapus/(:any)'] = 'costumer/UsageCustomer/delete/$1'
 $route['pelanggan/tagihan'] = 'costumer/BillCustomer';
 $route['pelanggan/tagihan/(:any)'] = 'costumer/BillCustomer/detail/$1';
 $route['pelanggan/tagihan/(:any)/bayar'] = 'costumer/PaymentCustomer/create/$1';
+$route['pelanggan/tagihan/print_bill/(:any)'] = 'costumer/BillCustomer/print_bill/$1';
 
 $route['pelanggan/pembayaran'] = 'costumer/PaymentCustomer';
 

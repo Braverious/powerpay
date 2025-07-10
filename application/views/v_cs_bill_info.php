@@ -6,7 +6,7 @@
         <h3><strong><?= $title ?></strong></h3>
       </div>
       <div class="col-auto ms-auto text-end mt-n1 gap-4 ">
-        <a href="<?= base_url("pelanggan/tagihan") ?>" class="btn btn-primary  me-2">Kembali Ke Halaman Tagihan</a>
+        <a href="<?= base_url("pelanggan/tagihan") ?>" class="btn btn-kuning  me-2">Kembali Ke Halaman Tagihan</a>
       </div>
     </div>
     <div class="row">
@@ -22,10 +22,13 @@
           <div class="col-md-12">
             <?php $this->load->view('layouts/flashdata'); ?>
           </div>
-          <div class="col-md-6">
+          <div class="col-md-12">
             <div class="card">
               <div class="card-header  pt-4 pb-0 ">
-                <h3 class=" d-flex ">Tagihan <strong class="ms-auto"><?= $bill->id_tagihan ?></strong> </h3>
+                <div class="bill-tittle">
+                  <h3 class="d-flex">Tagihan Pascabayar <strong class="ms-auto"><?= $bill->id_tagihan ?></strong></h3>
+                  <small class="d-flex ">Postpaid billing</small>
+                </div>
                 <hr>
               </div>
               <div class="card-body pt-0 ">
@@ -107,7 +110,7 @@
               </div>
               <div class="card-footer pt-0 pb-4 d-grid gap-3 ">
                 <?php if ($show_pay_button) : ?>
-                  <a href="<?= base_url('pelanggan/tagihan/' . $bill->id_tagihan . "/bayar") ?>" class="btn btn-primary px-4 py-2 ">Bayar Sekarang</a>
+                  <a href="<?= base_url('pelanggan/tagihan/print_bill/' . $bill->id_tagihan) ?>" target="_blank" class="btn btn-success px-4 py-2 ">Cetak tagihan</a> <a href="<?= base_url('pelanggan/tagihan/' . $bill->id_tagihan . "/bayar") ?>" class="btn btn-primary px-4 py-2 ">Bayar Sekarang</a>
                   <a href="<?= base_url("administrator/tagihan") ?>" class="btn btn-link">Kembali</a>
                 <?php endif; ?>
               </div>

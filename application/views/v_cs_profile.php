@@ -17,7 +17,7 @@ $id_cus =  $profile->id_pelanggan;
       </div>
 
       <div class="col-auto ms-auto text-end mt-n1">
-        <a href="<?php echo base_url('pelanggan/profile/ubah-password'); ?>" class="btn btn-primary"> <i data-feather="unlock" class="my-auto mb-1"></i> Ubah Passowrd</a>
+        <a href="<?php echo base_url('pelanggan/profile/ubah-password'); ?>" class="btn btn-kuning"> <i data-feather="unlock" class="my-auto mb-1"></i> Ubah Passowrd</a>
       </div>
     </div>
 
@@ -90,7 +90,7 @@ $id_cus =  $profile->id_pelanggan;
                     <div class=" d-flex gap-2  ">
                       <!-- <a href="index.html" class="btn btn-lg btn-primary">Daftar</a> -->
 
-                      <button type="submit" class="btn btn-lg btn-primary px-4 ">Ubah profil</button>
+                      <button type="submit" class="btn btn-kuning">Ubah profil</button>
                     </div>
                   </div>
                 </div>
