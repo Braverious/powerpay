@@ -115,9 +115,8 @@
         <hr>
         <div class="footer">
             <p>TERIMA KASIH</p>
-            <p>Informasi lebih lanjut hubungi 123</p>
             <hr>
-            <p>Muhammad Raihan Hadianto</p>
+            <p>Muhammad Raihan Hadianto (C)</p>
         </div>
     </div>
 
