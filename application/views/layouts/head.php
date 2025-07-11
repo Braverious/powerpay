@@ -11,7 +11,6 @@
 
 	<link rel="preconnect" href="https://fonts.gstatic.com">
 	<link rel="shortcut icon" href="<?= base_url("assets/listrik.png") ?>" />
-
 	<link rel="canonical" href="https://demo-basic.adminkit.io/" />
 
 	<title><?= $title ?> | Listrik</title>

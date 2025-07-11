@@ -5,7 +5,7 @@
 </style>
 <nav id="sidebar" class="sidebar js-sidebar" style="background-color: #ffd700;">
 	<div class="sidebar-content js-simplebar">
-		<a class="sidebar-brand" href="#">
+		<a class="sidebar-brand" href="<?= base_url("pelanggan") ?>">
 			<span>PowerPay</span>
 			<br>
 			<span class="sidebar-brand-subtitle">Dasbor Pelanggan</span>

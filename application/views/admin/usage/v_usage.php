@@ -5,13 +5,15 @@
       <div class="col-auto d-none d-sm-block">
         <h3><strong><?= $title ?></strong></h3>
       </div>
-
-
     </div>
-
     <div class="row">
       <div class="col-md-12">
         <?php $this->load->view('layouts/flashdata'); ?>
+        <div class="col-auto ms-auto text-end mt-n1 mb-2">
+          <a href="<?= site_url('administrator/penggunaan/cetak_pdf') ?>" class="btn btn-kuning" target="_blank">
+            <i class="align-middle" data-feather="printer"></i> Cetak
+          </a>
+        </div>
         <div class="card">
           <div class="card-body">
             <table class="table table-bordered">

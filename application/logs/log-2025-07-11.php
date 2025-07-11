@@ -5759,3 +5759,1302 @@ INFO - 2025-07-11 14:05:11 --> File loaded: C:\xampp\htdocs\powerpay\application
 INFO - 2025-07-11 14:05:11 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/end.php
 INFO - 2025-07-11 14:05:11 --> Final output sent to browser
 DEBUG - 2025-07-11 14:05:11 --> Total execution time: 0.1085
+INFO - 2025-07-11 14:28:43 --> Config Class Initialized
+INFO - 2025-07-11 14:28:43 --> Hooks Class Initialized
+DEBUG - 2025-07-11 14:28:43 --> UTF-8 Support Enabled
+INFO - 2025-07-11 14:28:43 --> Utf8 Class Initialized
+INFO - 2025-07-11 14:28:43 --> URI Class Initialized
+INFO - 2025-07-11 14:28:43 --> Router Class Initialized
+INFO - 2025-07-11 14:28:43 --> Output Class Initialized
+INFO - 2025-07-11 14:28:43 --> Security Class Initialized
+DEBUG - 2025-07-11 14:28:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-07-11 14:28:43 --> Input Class Initialized
+INFO - 2025-07-11 14:28:43 --> Language Class Initialized
+INFO - 2025-07-11 14:28:43 --> Loader Class Initialized
+INFO - 2025-07-11 14:28:43 --> Helper loaded: url_helper
+INFO - 2025-07-11 14:28:43 --> Helper loaded: file_helper
+INFO - 2025-07-11 14:28:43 --> Helper loaded: csmr_auth_helper
+INFO - 2025-07-11 14:28:43 --> Helper loaded: auto_number_helper
+INFO - 2025-07-11 14:28:43 --> Helper loaded: user_auth_helper
+INFO - 2025-07-11 14:28:43 --> Helper loaded: xdate_helper
+INFO - 2025-07-11 14:28:43 --> Helper loaded: public_helper
+INFO - 2025-07-11 14:28:44 --> Database Driver Class Initialized
+INFO - 2025-07-11 14:28:44 --> Email Class Initialized
+INFO - 2025-07-11 14:28:44 --> Session: Class initialized using 'files' driver.
+INFO - 2025-07-11 14:28:44 --> Helper loaded: form_helper
+INFO - 2025-07-11 14:28:44 --> Form Validation Class Initialized
+INFO - 2025-07-11 14:28:44 --> Model "M_user" initialized
+INFO - 2025-07-11 14:28:44 --> Model "M_customer" initialized
+INFO - 2025-07-11 14:28:44 --> Model "M_tarif" initialized
+INFO - 2025-07-11 14:28:44 --> Model "M_usage" initialized
+INFO - 2025-07-11 14:28:44 --> Model "M_bill" initialized
+INFO - 2025-07-11 14:28:44 --> Model "M_payment" initialized
+INFO - 2025-07-11 14:28:44 --> Model "M_dashboard" initialized
+INFO - 2025-07-11 14:28:44 --> Controller Class Initialized
+DEBUG - 2025-07-11 14:28:44 --> DB cache path error: C:\xampp\htdocs\powerpay\application\cache/db/
+INFO - 2025-07-11 14:28:44 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/head.php
+INFO - 2025-07-11 14:28:44 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/sidebar_admin.php
+INFO - 2025-07-11 14:28:44 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/header_admin.php
+INFO - 2025-07-11 14:28:44 --> File loaded: C:\xampp\htdocs\powerpay\application\views\admin/v_dashboard.php
+INFO - 2025-07-11 14:28:44 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/footer.php
+INFO - 2025-07-11 14:28:44 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/end.php
+INFO - 2025-07-11 14:28:44 --> Final output sent to browser
+DEBUG - 2025-07-11 14:28:44 --> Total execution time: 0.1159
+INFO - 2025-07-11 14:29:02 --> Config Class Initialized
+INFO - 2025-07-11 14:29:02 --> Hooks Class Initialized
+DEBUG - 2025-07-11 14:29:02 --> UTF-8 Support Enabled
+INFO - 2025-07-11 14:29:02 --> Utf8 Class Initialized
+INFO - 2025-07-11 14:29:02 --> URI Class Initialized
+INFO - 2025-07-11 14:29:02 --> Router Class Initialized
+INFO - 2025-07-11 14:29:02 --> Output Class Initialized
+INFO - 2025-07-11 14:29:02 --> Security Class Initialized
+DEBUG - 2025-07-11 14:29:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-07-11 14:29:02 --> Input Class Initialized
+INFO - 2025-07-11 14:29:02 --> Language Class Initialized
+INFO - 2025-07-11 14:29:02 --> Loader Class Initialized
+INFO - 2025-07-11 14:29:02 --> Helper loaded: url_helper
+INFO - 2025-07-11 14:29:02 --> Helper loaded: file_helper
+INFO - 2025-07-11 14:29:02 --> Helper loaded: csmr_auth_helper
+INFO - 2025-07-11 14:29:02 --> Helper loaded: auto_number_helper
+INFO - 2025-07-11 14:29:02 --> Helper loaded: user_auth_helper
+INFO - 2025-07-11 14:29:02 --> Helper loaded: xdate_helper
+INFO - 2025-07-11 14:29:02 --> Helper loaded: public_helper
+INFO - 2025-07-11 14:29:02 --> Database Driver Class Initialized
+INFO - 2025-07-11 14:29:02 --> Email Class Initialized
+INFO - 2025-07-11 14:29:02 --> Session: Class initialized using 'files' driver.
+INFO - 2025-07-11 14:29:02 --> Helper loaded: form_helper
+INFO - 2025-07-11 14:29:02 --> Form Validation Class Initialized
+INFO - 2025-07-11 14:29:02 --> Model "M_user" initialized
+INFO - 2025-07-11 14:29:02 --> Model "M_customer" initialized
+INFO - 2025-07-11 14:29:02 --> Model "M_tarif" initialized
+INFO - 2025-07-11 14:29:02 --> Model "M_usage" initialized
+INFO - 2025-07-11 14:29:02 --> Model "M_bill" initialized
+INFO - 2025-07-11 14:29:02 --> Model "M_payment" initialized
+INFO - 2025-07-11 14:29:02 --> Model "M_dashboard" initialized
+INFO - 2025-07-11 14:29:02 --> Controller Class Initialized
+DEBUG - 2025-07-11 14:29:02 --> DB cache path error: C:\xampp\htdocs\powerpay\application\cache/db/
+INFO - 2025-07-11 14:29:02 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/head.php
+INFO - 2025-07-11 14:29:02 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/sidebar_admin.php
+INFO - 2025-07-11 14:29:02 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/header_admin.php
+INFO - 2025-07-11 14:29:02 --> File loaded: C:\xampp\htdocs\powerpay\application\views\admin/v_dashboard.php
+INFO - 2025-07-11 14:29:02 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/footer.php
+INFO - 2025-07-11 14:29:02 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/end.php
+INFO - 2025-07-11 14:29:02 --> Final output sent to browser
+DEBUG - 2025-07-11 14:29:02 --> Total execution time: 0.1251
+INFO - 2025-07-11 14:29:05 --> Config Class Initialized
+INFO - 2025-07-11 14:29:05 --> Hooks Class Initialized
+DEBUG - 2025-07-11 14:29:05 --> UTF-8 Support Enabled
+INFO - 2025-07-11 14:29:05 --> Utf8 Class Initialized
+INFO - 2025-07-11 14:29:05 --> URI Class Initialized
+INFO - 2025-07-11 14:29:05 --> Router Class Initialized
+INFO - 2025-07-11 14:29:05 --> Output Class Initialized
+INFO - 2025-07-11 14:29:05 --> Security Class Initialized
+DEBUG - 2025-07-11 14:29:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-07-11 14:29:05 --> Input Class Initialized
+INFO - 2025-07-11 14:29:05 --> Language Class Initialized
+INFO - 2025-07-11 14:29:05 --> Loader Class Initialized
+INFO - 2025-07-11 14:29:05 --> Helper loaded: url_helper
+INFO - 2025-07-11 14:29:05 --> Helper loaded: file_helper
+INFO - 2025-07-11 14:29:05 --> Helper loaded: csmr_auth_helper
+INFO - 2025-07-11 14:29:05 --> Helper loaded: auto_number_helper
+INFO - 2025-07-11 14:29:05 --> Helper loaded: user_auth_helper
+INFO - 2025-07-11 14:29:05 --> Helper loaded: xdate_helper
+INFO - 2025-07-11 14:29:05 --> Helper loaded: public_helper
+INFO - 2025-07-11 14:29:05 --> Database Driver Class Initialized
+INFO - 2025-07-11 14:29:05 --> Email Class Initialized
+INFO - 2025-07-11 14:29:05 --> Session: Class initialized using 'files' driver.
+INFO - 2025-07-11 14:29:05 --> Helper loaded: form_helper
+INFO - 2025-07-11 14:29:05 --> Form Validation Class Initialized
+INFO - 2025-07-11 14:29:05 --> Model "M_user" initialized
+INFO - 2025-07-11 14:29:05 --> Model "M_customer" initialized
+INFO - 2025-07-11 14:29:05 --> Model "M_tarif" initialized
+INFO - 2025-07-11 14:29:05 --> Model "M_usage" initialized
+INFO - 2025-07-11 14:29:05 --> Model "M_bill" initialized
+INFO - 2025-07-11 14:29:05 --> Model "M_payment" initialized
+INFO - 2025-07-11 14:29:05 --> Model "M_dashboard" initialized
+INFO - 2025-07-11 14:29:05 --> Controller Class Initialized
+INFO - 2025-07-11 14:29:05 --> File loaded: C:\xampp\htdocs\powerpay\application\views\404.php
+INFO - 2025-07-11 14:29:05 --> Final output sent to browser
+DEBUG - 2025-07-11 14:29:05 --> Total execution time: 0.0893
+INFO - 2025-07-11 14:29:50 --> Config Class Initialized
+INFO - 2025-07-11 14:29:50 --> Hooks Class Initialized
+DEBUG - 2025-07-11 14:29:50 --> UTF-8 Support Enabled
+INFO - 2025-07-11 14:29:50 --> Utf8 Class Initialized
+INFO - 2025-07-11 14:29:50 --> URI Class Initialized
+INFO - 2025-07-11 14:29:50 --> Router Class Initialized
+INFO - 2025-07-11 14:29:50 --> Output Class Initialized
+INFO - 2025-07-11 14:29:50 --> Security Class Initialized
+DEBUG - 2025-07-11 14:29:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-07-11 14:29:50 --> Input Class Initialized
+INFO - 2025-07-11 14:29:50 --> Language Class Initialized
+INFO - 2025-07-11 14:29:50 --> Loader Class Initialized
+INFO - 2025-07-11 14:29:50 --> Helper loaded: url_helper
+INFO - 2025-07-11 14:29:50 --> Helper loaded: file_helper
+INFO - 2025-07-11 14:29:50 --> Helper loaded: csmr_auth_helper
+INFO - 2025-07-11 14:29:50 --> Helper loaded: auto_number_helper
+INFO - 2025-07-11 14:29:50 --> Helper loaded: user_auth_helper
+INFO - 2025-07-11 14:29:50 --> Helper loaded: xdate_helper
+INFO - 2025-07-11 14:29:50 --> Helper loaded: public_helper
+INFO - 2025-07-11 14:29:50 --> Database Driver Class Initialized
+INFO - 2025-07-11 14:29:50 --> Email Class Initialized
+INFO - 2025-07-11 14:29:50 --> Session: Class initialized using 'files' driver.
+INFO - 2025-07-11 14:29:50 --> Helper loaded: form_helper
+INFO - 2025-07-11 14:29:50 --> Form Validation Class Initialized
+INFO - 2025-07-11 14:29:50 --> Model "M_user" initialized
+INFO - 2025-07-11 14:29:50 --> Model "M_customer" initialized
+INFO - 2025-07-11 14:29:50 --> Model "M_tarif" initialized
+INFO - 2025-07-11 14:29:50 --> Model "M_usage" initialized
+INFO - 2025-07-11 14:29:50 --> Model "M_bill" initialized
+INFO - 2025-07-11 14:29:50 --> Model "M_payment" initialized
+INFO - 2025-07-11 14:29:50 --> Model "M_dashboard" initialized
+INFO - 2025-07-11 14:29:50 --> Controller Class Initialized
+DEBUG - 2025-07-11 14:29:50 --> DB cache path error: C:\xampp\htdocs\powerpay\application\cache/db/
+INFO - 2025-07-11 14:29:50 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/head.php
+INFO - 2025-07-11 14:29:50 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/sidebar_admin.php
+INFO - 2025-07-11 14:29:50 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/header_admin.php
+INFO - 2025-07-11 14:29:50 --> File loaded: C:\xampp\htdocs\powerpay\application\views\admin/v_dashboard.php
+INFO - 2025-07-11 14:29:50 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/footer.php
+INFO - 2025-07-11 14:29:50 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/end.php
+INFO - 2025-07-11 14:29:50 --> Final output sent to browser
+DEBUG - 2025-07-11 14:29:50 --> Total execution time: 0.1124
+INFO - 2025-07-11 14:30:12 --> Config Class Initialized
+INFO - 2025-07-11 14:30:12 --> Hooks Class Initialized
+DEBUG - 2025-07-11 14:30:12 --> UTF-8 Support Enabled
+INFO - 2025-07-11 14:30:12 --> Utf8 Class Initialized
+INFO - 2025-07-11 14:30:12 --> URI Class Initialized
+INFO - 2025-07-11 14:30:12 --> Router Class Initialized
+INFO - 2025-07-11 14:30:12 --> Output Class Initialized
+INFO - 2025-07-11 14:30:12 --> Security Class Initialized
+DEBUG - 2025-07-11 14:30:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-07-11 14:30:12 --> Input Class Initialized
+INFO - 2025-07-11 14:30:12 --> Language Class Initialized
+INFO - 2025-07-11 14:30:12 --> Loader Class Initialized
+INFO - 2025-07-11 14:30:12 --> Helper loaded: url_helper
+INFO - 2025-07-11 14:30:12 --> Helper loaded: file_helper
+INFO - 2025-07-11 14:30:12 --> Helper loaded: csmr_auth_helper
+INFO - 2025-07-11 14:30:12 --> Helper loaded: auto_number_helper
+INFO - 2025-07-11 14:30:12 --> Helper loaded: user_auth_helper
+INFO - 2025-07-11 14:30:12 --> Helper loaded: xdate_helper
+INFO - 2025-07-11 14:30:12 --> Helper loaded: public_helper
+INFO - 2025-07-11 14:30:12 --> Database Driver Class Initialized
+INFO - 2025-07-11 14:30:12 --> Email Class Initialized
+INFO - 2025-07-11 14:30:12 --> Session: Class initialized using 'files' driver.
+INFO - 2025-07-11 14:30:12 --> Helper loaded: form_helper
+INFO - 2025-07-11 14:30:12 --> Form Validation Class Initialized
+INFO - 2025-07-11 14:30:12 --> Model "M_user" initialized
+INFO - 2025-07-11 14:30:12 --> Model "M_customer" initialized
+INFO - 2025-07-11 14:30:12 --> Model "M_tarif" initialized
+INFO - 2025-07-11 14:30:12 --> Model "M_usage" initialized
+INFO - 2025-07-11 14:30:12 --> Model "M_bill" initialized
+INFO - 2025-07-11 14:30:12 --> Model "M_payment" initialized
+INFO - 2025-07-11 14:30:12 --> Model "M_dashboard" initialized
+INFO - 2025-07-11 14:30:12 --> Controller Class Initialized
+INFO - 2025-07-11 14:30:12 --> File loaded: C:\xampp\htdocs\powerpay\application\views\404.php
+INFO - 2025-07-11 14:30:12 --> Final output sent to browser
+DEBUG - 2025-07-11 14:30:12 --> Total execution time: 0.0895
+INFO - 2025-07-11 14:33:08 --> Config Class Initialized
+INFO - 2025-07-11 14:33:08 --> Hooks Class Initialized
+DEBUG - 2025-07-11 14:33:08 --> UTF-8 Support Enabled
+INFO - 2025-07-11 14:33:08 --> Utf8 Class Initialized
+INFO - 2025-07-11 14:33:08 --> URI Class Initialized
+INFO - 2025-07-11 14:33:08 --> Router Class Initialized
+INFO - 2025-07-11 14:33:08 --> Output Class Initialized
+INFO - 2025-07-11 14:33:08 --> Security Class Initialized
+DEBUG - 2025-07-11 14:33:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-07-11 14:33:08 --> Input Class Initialized
+INFO - 2025-07-11 14:33:08 --> Language Class Initialized
+INFO - 2025-07-11 14:33:08 --> Loader Class Initialized
+INFO - 2025-07-11 14:33:08 --> Helper loaded: url_helper
+INFO - 2025-07-11 14:33:08 --> Helper loaded: file_helper
+INFO - 2025-07-11 14:33:08 --> Helper loaded: csmr_auth_helper
+INFO - 2025-07-11 14:33:08 --> Helper loaded: auto_number_helper
+INFO - 2025-07-11 14:33:08 --> Helper loaded: user_auth_helper
+INFO - 2025-07-11 14:33:08 --> Helper loaded: xdate_helper
+INFO - 2025-07-11 14:33:08 --> Helper loaded: public_helper
+INFO - 2025-07-11 14:33:08 --> Database Driver Class Initialized
+INFO - 2025-07-11 14:33:08 --> Email Class Initialized
+INFO - 2025-07-11 14:33:08 --> Session: Class initialized using 'files' driver.
+INFO - 2025-07-11 14:33:08 --> Helper loaded: form_helper
+INFO - 2025-07-11 14:33:08 --> Form Validation Class Initialized
+INFO - 2025-07-11 14:33:08 --> Model "M_user" initialized
+INFO - 2025-07-11 14:33:08 --> Model "M_customer" initialized
+INFO - 2025-07-11 14:33:08 --> Model "M_tarif" initialized
+INFO - 2025-07-11 14:33:08 --> Model "M_usage" initialized
+INFO - 2025-07-11 14:33:08 --> Model "M_bill" initialized
+INFO - 2025-07-11 14:33:08 --> Model "M_payment" initialized
+INFO - 2025-07-11 14:33:08 --> Model "M_dashboard" initialized
+INFO - 2025-07-11 14:33:08 --> Controller Class Initialized
+INFO - 2025-07-11 14:33:08 --> File loaded: C:\xampp\htdocs\powerpay\application\views\404.php
+INFO - 2025-07-11 14:33:08 --> Final output sent to browser
+DEBUG - 2025-07-11 14:33:08 --> Total execution time: 0.1025
+INFO - 2025-07-11 14:33:36 --> Config Class Initialized
+INFO - 2025-07-11 14:33:36 --> Hooks Class Initialized
+DEBUG - 2025-07-11 14:33:36 --> UTF-8 Support Enabled
+INFO - 2025-07-11 14:33:36 --> Utf8 Class Initialized
+INFO - 2025-07-11 14:33:36 --> URI Class Initialized
+INFO - 2025-07-11 14:33:36 --> Router Class Initialized
+INFO - 2025-07-11 14:33:36 --> Output Class Initialized
+INFO - 2025-07-11 14:33:36 --> Security Class Initialized
+DEBUG - 2025-07-11 14:33:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-07-11 14:33:36 --> Input Class Initialized
+INFO - 2025-07-11 14:33:36 --> Language Class Initialized
+INFO - 2025-07-11 14:33:36 --> Loader Class Initialized
+INFO - 2025-07-11 14:33:36 --> Helper loaded: url_helper
+INFO - 2025-07-11 14:33:36 --> Helper loaded: file_helper
+INFO - 2025-07-11 14:33:36 --> Helper loaded: csmr_auth_helper
+INFO - 2025-07-11 14:33:36 --> Helper loaded: auto_number_helper
+INFO - 2025-07-11 14:33:36 --> Helper loaded: user_auth_helper
+INFO - 2025-07-11 14:33:36 --> Helper loaded: xdate_helper
+INFO - 2025-07-11 14:33:36 --> Helper loaded: public_helper
+INFO - 2025-07-11 14:33:36 --> Database Driver Class Initialized
+INFO - 2025-07-11 14:33:36 --> Email Class Initialized
+INFO - 2025-07-11 14:33:36 --> Session: Class initialized using 'files' driver.
+INFO - 2025-07-11 14:33:36 --> Helper loaded: form_helper
+INFO - 2025-07-11 14:33:36 --> Form Validation Class Initialized
+INFO - 2025-07-11 14:33:36 --> Model "M_user" initialized
+INFO - 2025-07-11 14:33:36 --> Model "M_customer" initialized
+INFO - 2025-07-11 14:33:36 --> Model "M_tarif" initialized
+INFO - 2025-07-11 14:33:36 --> Model "M_usage" initialized
+INFO - 2025-07-11 14:33:36 --> Model "M_bill" initialized
+INFO - 2025-07-11 14:33:36 --> Model "M_payment" initialized
+INFO - 2025-07-11 14:33:36 --> Model "M_dashboard" initialized
+INFO - 2025-07-11 14:33:36 --> Controller Class Initialized
+INFO - 2025-07-11 14:33:36 --> File loaded: C:\xampp\htdocs\powerpay\application\views\404.php
+INFO - 2025-07-11 14:33:36 --> Final output sent to browser
+DEBUG - 2025-07-11 14:33:36 --> Total execution time: 0.1066
+INFO - 2025-07-11 14:33:43 --> Config Class Initialized
+INFO - 2025-07-11 14:33:43 --> Hooks Class Initialized
+DEBUG - 2025-07-11 14:33:43 --> UTF-8 Support Enabled
+INFO - 2025-07-11 14:33:43 --> Utf8 Class Initialized
+INFO - 2025-07-11 14:33:43 --> URI Class Initialized
+INFO - 2025-07-11 14:33:43 --> Router Class Initialized
+INFO - 2025-07-11 14:33:43 --> Output Class Initialized
+INFO - 2025-07-11 14:33:43 --> Security Class Initialized
+DEBUG - 2025-07-11 14:33:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-07-11 14:33:43 --> Input Class Initialized
+INFO - 2025-07-11 14:33:43 --> Language Class Initialized
+INFO - 2025-07-11 14:33:43 --> Loader Class Initialized
+INFO - 2025-07-11 14:33:43 --> Helper loaded: url_helper
+INFO - 2025-07-11 14:33:43 --> Helper loaded: file_helper
+INFO - 2025-07-11 14:33:43 --> Helper loaded: csmr_auth_helper
+INFO - 2025-07-11 14:33:43 --> Helper loaded: auto_number_helper
+INFO - 2025-07-11 14:33:43 --> Helper loaded: user_auth_helper
+INFO - 2025-07-11 14:33:43 --> Helper loaded: xdate_helper
+INFO - 2025-07-11 14:33:43 --> Helper loaded: public_helper
+INFO - 2025-07-11 14:33:43 --> Database Driver Class Initialized
+INFO - 2025-07-11 14:33:43 --> Email Class Initialized
+INFO - 2025-07-11 14:33:43 --> Session: Class initialized using 'files' driver.
+INFO - 2025-07-11 14:33:43 --> Helper loaded: form_helper
+INFO - 2025-07-11 14:33:43 --> Form Validation Class Initialized
+INFO - 2025-07-11 14:33:43 --> Model "M_user" initialized
+INFO - 2025-07-11 14:33:43 --> Model "M_customer" initialized
+INFO - 2025-07-11 14:33:43 --> Model "M_tarif" initialized
+INFO - 2025-07-11 14:33:43 --> Model "M_usage" initialized
+INFO - 2025-07-11 14:33:43 --> Model "M_bill" initialized
+INFO - 2025-07-11 14:33:43 --> Model "M_payment" initialized
+INFO - 2025-07-11 14:33:43 --> Model "M_dashboard" initialized
+INFO - 2025-07-11 14:33:43 --> Controller Class Initialized
+DEBUG - 2025-07-11 14:33:43 --> DB cache path error: C:\xampp\htdocs\powerpay\application\cache/db/
+INFO - 2025-07-11 14:33:44 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/head.php
+INFO - 2025-07-11 14:33:44 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/sidebar_admin.php
+INFO - 2025-07-11 14:33:44 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/header_admin.php
+INFO - 2025-07-11 14:33:44 --> File loaded: C:\xampp\htdocs\powerpay\application\views\admin/v_dashboard.php
+INFO - 2025-07-11 14:33:44 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/footer.php
+INFO - 2025-07-11 14:33:44 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/end.php
+INFO - 2025-07-11 14:33:44 --> Final output sent to browser
+DEBUG - 2025-07-11 14:33:44 --> Total execution time: 0.1131
+INFO - 2025-07-11 14:33:46 --> Config Class Initialized
+INFO - 2025-07-11 14:33:46 --> Hooks Class Initialized
+DEBUG - 2025-07-11 14:33:46 --> UTF-8 Support Enabled
+INFO - 2025-07-11 14:33:46 --> Utf8 Class Initialized
+INFO - 2025-07-11 14:33:46 --> URI Class Initialized
+INFO - 2025-07-11 14:33:46 --> Router Class Initialized
+INFO - 2025-07-11 14:33:46 --> Output Class Initialized
+INFO - 2025-07-11 14:33:46 --> Security Class Initialized
+DEBUG - 2025-07-11 14:33:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-07-11 14:33:46 --> Input Class Initialized
+INFO - 2025-07-11 14:33:46 --> Language Class Initialized
+INFO - 2025-07-11 14:33:46 --> Loader Class Initialized
+INFO - 2025-07-11 14:33:46 --> Helper loaded: url_helper
+INFO - 2025-07-11 14:33:46 --> Helper loaded: file_helper
+INFO - 2025-07-11 14:33:46 --> Helper loaded: csmr_auth_helper
+INFO - 2025-07-11 14:33:46 --> Helper loaded: auto_number_helper
+INFO - 2025-07-11 14:33:46 --> Helper loaded: user_auth_helper
+INFO - 2025-07-11 14:33:46 --> Helper loaded: xdate_helper
+INFO - 2025-07-11 14:33:46 --> Helper loaded: public_helper
+INFO - 2025-07-11 14:33:46 --> Database Driver Class Initialized
+INFO - 2025-07-11 14:33:46 --> Email Class Initialized
+INFO - 2025-07-11 14:33:46 --> Session: Class initialized using 'files' driver.
+INFO - 2025-07-11 14:33:46 --> Helper loaded: form_helper
+INFO - 2025-07-11 14:33:46 --> Form Validation Class Initialized
+INFO - 2025-07-11 14:33:46 --> Model "M_user" initialized
+INFO - 2025-07-11 14:33:46 --> Model "M_customer" initialized
+INFO - 2025-07-11 14:33:46 --> Model "M_tarif" initialized
+INFO - 2025-07-11 14:33:46 --> Model "M_usage" initialized
+INFO - 2025-07-11 14:33:46 --> Model "M_bill" initialized
+INFO - 2025-07-11 14:33:46 --> Model "M_payment" initialized
+INFO - 2025-07-11 14:33:46 --> Model "M_dashboard" initialized
+INFO - 2025-07-11 14:33:46 --> Controller Class Initialized
+INFO - 2025-07-11 14:33:46 --> File loaded: C:\xampp\htdocs\powerpay\application\views\404.php
+INFO - 2025-07-11 14:33:46 --> Final output sent to browser
+DEBUG - 2025-07-11 14:33:46 --> Total execution time: 0.1029
+INFO - 2025-07-11 14:33:49 --> Config Class Initialized
+INFO - 2025-07-11 14:33:49 --> Hooks Class Initialized
+DEBUG - 2025-07-11 14:33:49 --> UTF-8 Support Enabled
+INFO - 2025-07-11 14:33:49 --> Utf8 Class Initialized
+INFO - 2025-07-11 14:33:49 --> URI Class Initialized
+INFO - 2025-07-11 14:33:49 --> Router Class Initialized
+INFO - 2025-07-11 14:33:49 --> Output Class Initialized
+INFO - 2025-07-11 14:33:49 --> Security Class Initialized
+DEBUG - 2025-07-11 14:33:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-07-11 14:33:49 --> Input Class Initialized
+INFO - 2025-07-11 14:33:49 --> Language Class Initialized
+INFO - 2025-07-11 14:33:49 --> Loader Class Initialized
+INFO - 2025-07-11 14:33:49 --> Helper loaded: url_helper
+INFO - 2025-07-11 14:33:49 --> Helper loaded: file_helper
+INFO - 2025-07-11 14:33:49 --> Helper loaded: csmr_auth_helper
+INFO - 2025-07-11 14:33:49 --> Helper loaded: auto_number_helper
+INFO - 2025-07-11 14:33:49 --> Helper loaded: user_auth_helper
+INFO - 2025-07-11 14:33:49 --> Helper loaded: xdate_helper
+INFO - 2025-07-11 14:33:49 --> Helper loaded: public_helper
+INFO - 2025-07-11 14:33:49 --> Database Driver Class Initialized
+INFO - 2025-07-11 14:33:49 --> Email Class Initialized
+INFO - 2025-07-11 14:33:49 --> Session: Class initialized using 'files' driver.
+INFO - 2025-07-11 14:33:49 --> Helper loaded: form_helper
+INFO - 2025-07-11 14:33:49 --> Form Validation Class Initialized
+INFO - 2025-07-11 14:33:49 --> Model "M_user" initialized
+INFO - 2025-07-11 14:33:49 --> Model "M_customer" initialized
+INFO - 2025-07-11 14:33:49 --> Model "M_tarif" initialized
+INFO - 2025-07-11 14:33:49 --> Model "M_usage" initialized
+INFO - 2025-07-11 14:33:49 --> Model "M_bill" initialized
+INFO - 2025-07-11 14:33:49 --> Model "M_payment" initialized
+INFO - 2025-07-11 14:33:49 --> Model "M_dashboard" initialized
+INFO - 2025-07-11 14:33:49 --> Controller Class Initialized
+DEBUG - 2025-07-11 14:33:49 --> DB cache path error: C:\xampp\htdocs\powerpay\application\cache/db/
+INFO - 2025-07-11 14:33:49 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/head.php
+INFO - 2025-07-11 14:33:49 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/sidebar_admin.php
+INFO - 2025-07-11 14:33:49 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/header_admin.php
+INFO - 2025-07-11 14:33:49 --> File loaded: C:\xampp\htdocs\powerpay\application\views\admin/v_dashboard.php
+INFO - 2025-07-11 14:33:49 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/footer.php
+INFO - 2025-07-11 14:33:49 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/end.php
+INFO - 2025-07-11 14:33:49 --> Final output sent to browser
+DEBUG - 2025-07-11 14:33:49 --> Total execution time: 0.1015
+INFO - 2025-07-11 14:35:24 --> Config Class Initialized
+INFO - 2025-07-11 14:35:24 --> Hooks Class Initialized
+DEBUG - 2025-07-11 14:35:24 --> UTF-8 Support Enabled
+INFO - 2025-07-11 14:35:24 --> Utf8 Class Initialized
+INFO - 2025-07-11 14:35:24 --> URI Class Initialized
+INFO - 2025-07-11 14:35:24 --> Router Class Initialized
+INFO - 2025-07-11 14:35:24 --> Output Class Initialized
+INFO - 2025-07-11 14:35:24 --> Security Class Initialized
+DEBUG - 2025-07-11 14:35:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-07-11 14:35:24 --> Input Class Initialized
+INFO - 2025-07-11 14:35:24 --> Language Class Initialized
+INFO - 2025-07-11 14:35:24 --> Loader Class Initialized
+INFO - 2025-07-11 14:35:24 --> Helper loaded: url_helper
+INFO - 2025-07-11 14:35:24 --> Helper loaded: file_helper
+INFO - 2025-07-11 14:35:24 --> Helper loaded: csmr_auth_helper
+INFO - 2025-07-11 14:35:24 --> Helper loaded: auto_number_helper
+INFO - 2025-07-11 14:35:24 --> Helper loaded: user_auth_helper
+INFO - 2025-07-11 14:35:24 --> Helper loaded: xdate_helper
+INFO - 2025-07-11 14:35:24 --> Helper loaded: public_helper
+INFO - 2025-07-11 14:35:24 --> Database Driver Class Initialized
+INFO - 2025-07-11 14:35:24 --> Email Class Initialized
+INFO - 2025-07-11 14:35:24 --> Session: Class initialized using 'files' driver.
+INFO - 2025-07-11 14:35:24 --> Helper loaded: form_helper
+INFO - 2025-07-11 14:35:24 --> Form Validation Class Initialized
+INFO - 2025-07-11 14:35:24 --> Model "M_user" initialized
+INFO - 2025-07-11 14:35:24 --> Model "M_customer" initialized
+INFO - 2025-07-11 14:35:24 --> Model "M_tarif" initialized
+INFO - 2025-07-11 14:35:24 --> Model "M_usage" initialized
+INFO - 2025-07-11 14:35:24 --> Model "M_bill" initialized
+INFO - 2025-07-11 14:35:24 --> Model "M_payment" initialized
+INFO - 2025-07-11 14:35:24 --> Model "M_dashboard" initialized
+INFO - 2025-07-11 14:35:24 --> Controller Class Initialized
+DEBUG - 2025-07-11 14:35:24 --> DB cache path error: C:\xampp\htdocs\powerpay\application\cache/db/
+INFO - 2025-07-11 14:35:24 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/head.php
+INFO - 2025-07-11 14:35:24 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/sidebar_admin.php
+INFO - 2025-07-11 14:35:24 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/header_admin.php
+INFO - 2025-07-11 14:35:24 --> File loaded: C:\xampp\htdocs\powerpay\application\views\admin/v_dashboard.php
+INFO - 2025-07-11 14:35:24 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/footer.php
+INFO - 2025-07-11 14:35:24 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/end.php
+INFO - 2025-07-11 14:35:24 --> Final output sent to browser
+DEBUG - 2025-07-11 14:35:24 --> Total execution time: 0.1070
+INFO - 2025-07-11 14:35:32 --> Config Class Initialized
+INFO - 2025-07-11 14:35:32 --> Hooks Class Initialized
+DEBUG - 2025-07-11 14:35:32 --> UTF-8 Support Enabled
+INFO - 2025-07-11 14:35:32 --> Utf8 Class Initialized
+INFO - 2025-07-11 14:35:32 --> URI Class Initialized
+INFO - 2025-07-11 14:35:32 --> Router Class Initialized
+INFO - 2025-07-11 14:35:32 --> Output Class Initialized
+INFO - 2025-07-11 14:35:32 --> Security Class Initialized
+DEBUG - 2025-07-11 14:35:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-07-11 14:35:32 --> Input Class Initialized
+INFO - 2025-07-11 14:35:32 --> Language Class Initialized
+INFO - 2025-07-11 14:35:32 --> Loader Class Initialized
+INFO - 2025-07-11 14:35:32 --> Helper loaded: url_helper
+INFO - 2025-07-11 14:35:32 --> Helper loaded: file_helper
+INFO - 2025-07-11 14:35:32 --> Helper loaded: csmr_auth_helper
+INFO - 2025-07-11 14:35:32 --> Helper loaded: auto_number_helper
+INFO - 2025-07-11 14:35:32 --> Helper loaded: user_auth_helper
+INFO - 2025-07-11 14:35:32 --> Helper loaded: xdate_helper
+INFO - 2025-07-11 14:35:32 --> Helper loaded: public_helper
+INFO - 2025-07-11 14:35:32 --> Database Driver Class Initialized
+INFO - 2025-07-11 14:35:32 --> Email Class Initialized
+INFO - 2025-07-11 14:35:32 --> Session: Class initialized using 'files' driver.
+INFO - 2025-07-11 14:35:32 --> Helper loaded: form_helper
+INFO - 2025-07-11 14:35:32 --> Form Validation Class Initialized
+INFO - 2025-07-11 14:35:32 --> Model "M_user" initialized
+INFO - 2025-07-11 14:35:32 --> Model "M_customer" initialized
+INFO - 2025-07-11 14:35:32 --> Model "M_tarif" initialized
+INFO - 2025-07-11 14:35:32 --> Model "M_usage" initialized
+INFO - 2025-07-11 14:35:32 --> Model "M_bill" initialized
+INFO - 2025-07-11 14:35:32 --> Model "M_payment" initialized
+INFO - 2025-07-11 14:35:32 --> Model "M_dashboard" initialized
+INFO - 2025-07-11 14:35:32 --> Controller Class Initialized
+INFO - 2025-07-11 14:35:32 --> File loaded: C:\xampp\htdocs\powerpay\application\views\404.php
+INFO - 2025-07-11 14:35:32 --> Final output sent to browser
+DEBUG - 2025-07-11 14:35:32 --> Total execution time: 0.0815
+INFO - 2025-07-11 14:35:35 --> Config Class Initialized
+INFO - 2025-07-11 14:35:35 --> Hooks Class Initialized
+DEBUG - 2025-07-11 14:35:35 --> UTF-8 Support Enabled
+INFO - 2025-07-11 14:35:35 --> Utf8 Class Initialized
+INFO - 2025-07-11 14:35:35 --> URI Class Initialized
+INFO - 2025-07-11 14:35:35 --> Router Class Initialized
+INFO - 2025-07-11 14:35:35 --> Output Class Initialized
+INFO - 2025-07-11 14:35:35 --> Security Class Initialized
+DEBUG - 2025-07-11 14:35:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-07-11 14:35:35 --> Input Class Initialized
+INFO - 2025-07-11 14:35:35 --> Language Class Initialized
+INFO - 2025-07-11 14:35:35 --> Loader Class Initialized
+INFO - 2025-07-11 14:35:35 --> Helper loaded: url_helper
+INFO - 2025-07-11 14:35:35 --> Helper loaded: file_helper
+INFO - 2025-07-11 14:35:35 --> Helper loaded: csmr_auth_helper
+INFO - 2025-07-11 14:35:35 --> Helper loaded: auto_number_helper
+INFO - 2025-07-11 14:35:35 --> Helper loaded: user_auth_helper
+INFO - 2025-07-11 14:35:35 --> Helper loaded: xdate_helper
+INFO - 2025-07-11 14:35:35 --> Helper loaded: public_helper
+INFO - 2025-07-11 14:35:35 --> Database Driver Class Initialized
+INFO - 2025-07-11 14:35:35 --> Email Class Initialized
+INFO - 2025-07-11 14:35:35 --> Session: Class initialized using 'files' driver.
+INFO - 2025-07-11 14:35:35 --> Helper loaded: form_helper
+INFO - 2025-07-11 14:35:35 --> Form Validation Class Initialized
+INFO - 2025-07-11 14:35:35 --> Model "M_user" initialized
+INFO - 2025-07-11 14:35:35 --> Model "M_customer" initialized
+INFO - 2025-07-11 14:35:35 --> Model "M_tarif" initialized
+INFO - 2025-07-11 14:35:35 --> Model "M_usage" initialized
+INFO - 2025-07-11 14:35:35 --> Model "M_bill" initialized
+INFO - 2025-07-11 14:35:35 --> Model "M_payment" initialized
+INFO - 2025-07-11 14:35:35 --> Model "M_dashboard" initialized
+INFO - 2025-07-11 14:35:35 --> Controller Class Initialized
+DEBUG - 2025-07-11 14:35:35 --> DB cache path error: C:\xampp\htdocs\powerpay\application\cache/db/
+INFO - 2025-07-11 14:35:35 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/head.php
+INFO - 2025-07-11 14:35:35 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/sidebar_admin.php
+INFO - 2025-07-11 14:35:35 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/header_admin.php
+INFO - 2025-07-11 14:35:35 --> File loaded: C:\xampp\htdocs\powerpay\application\views\admin/v_dashboard.php
+INFO - 2025-07-11 14:35:35 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/footer.php
+INFO - 2025-07-11 14:35:35 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/end.php
+INFO - 2025-07-11 14:35:35 --> Final output sent to browser
+DEBUG - 2025-07-11 14:35:35 --> Total execution time: 0.1463
+INFO - 2025-07-11 14:35:37 --> Config Class Initialized
+INFO - 2025-07-11 14:35:37 --> Hooks Class Initialized
+DEBUG - 2025-07-11 14:35:37 --> UTF-8 Support Enabled
+INFO - 2025-07-11 14:35:37 --> Utf8 Class Initialized
+INFO - 2025-07-11 14:35:37 --> URI Class Initialized
+INFO - 2025-07-11 14:35:37 --> Router Class Initialized
+INFO - 2025-07-11 14:35:37 --> Output Class Initialized
+INFO - 2025-07-11 14:35:37 --> Security Class Initialized
+DEBUG - 2025-07-11 14:35:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-07-11 14:35:38 --> Input Class Initialized
+INFO - 2025-07-11 14:35:38 --> Language Class Initialized
+INFO - 2025-07-11 14:35:38 --> Loader Class Initialized
+INFO - 2025-07-11 14:35:38 --> Helper loaded: url_helper
+INFO - 2025-07-11 14:35:38 --> Helper loaded: file_helper
+INFO - 2025-07-11 14:35:38 --> Helper loaded: csmr_auth_helper
+INFO - 2025-07-11 14:35:38 --> Helper loaded: auto_number_helper
+INFO - 2025-07-11 14:35:38 --> Helper loaded: user_auth_helper
+INFO - 2025-07-11 14:35:38 --> Helper loaded: xdate_helper
+INFO - 2025-07-11 14:35:38 --> Helper loaded: public_helper
+INFO - 2025-07-11 14:35:38 --> Database Driver Class Initialized
+INFO - 2025-07-11 14:35:38 --> Email Class Initialized
+INFO - 2025-07-11 14:35:38 --> Session: Class initialized using 'files' driver.
+INFO - 2025-07-11 14:35:38 --> Helper loaded: form_helper
+INFO - 2025-07-11 14:35:38 --> Form Validation Class Initialized
+INFO - 2025-07-11 14:35:38 --> Model "M_user" initialized
+INFO - 2025-07-11 14:35:38 --> Model "M_customer" initialized
+INFO - 2025-07-11 14:35:38 --> Model "M_tarif" initialized
+INFO - 2025-07-11 14:35:38 --> Model "M_usage" initialized
+INFO - 2025-07-11 14:35:38 --> Model "M_bill" initialized
+INFO - 2025-07-11 14:35:38 --> Model "M_payment" initialized
+INFO - 2025-07-11 14:35:38 --> Model "M_dashboard" initialized
+INFO - 2025-07-11 14:35:38 --> Controller Class Initialized
+INFO - 2025-07-11 14:35:38 --> File loaded: C:\xampp\htdocs\powerpay\application\views\404.php
+INFO - 2025-07-11 14:35:38 --> Final output sent to browser
+DEBUG - 2025-07-11 14:35:38 --> Total execution time: 0.0805
+INFO - 2025-07-11 14:35:43 --> Config Class Initialized
+INFO - 2025-07-11 14:35:43 --> Hooks Class Initialized
+DEBUG - 2025-07-11 14:35:43 --> UTF-8 Support Enabled
+INFO - 2025-07-11 14:35:43 --> Utf8 Class Initialized
+INFO - 2025-07-11 14:35:43 --> URI Class Initialized
+INFO - 2025-07-11 14:35:43 --> Router Class Initialized
+INFO - 2025-07-11 14:35:43 --> Output Class Initialized
+INFO - 2025-07-11 14:35:43 --> Security Class Initialized
+DEBUG - 2025-07-11 14:35:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-07-11 14:35:43 --> Input Class Initialized
+INFO - 2025-07-11 14:35:43 --> Language Class Initialized
+INFO - 2025-07-11 14:35:43 --> Loader Class Initialized
+INFO - 2025-07-11 14:35:43 --> Helper loaded: url_helper
+INFO - 2025-07-11 14:35:43 --> Helper loaded: file_helper
+INFO - 2025-07-11 14:35:43 --> Helper loaded: csmr_auth_helper
+INFO - 2025-07-11 14:35:43 --> Helper loaded: auto_number_helper
+INFO - 2025-07-11 14:35:43 --> Helper loaded: user_auth_helper
+INFO - 2025-07-11 14:35:43 --> Helper loaded: xdate_helper
+INFO - 2025-07-11 14:35:43 --> Helper loaded: public_helper
+INFO - 2025-07-11 14:35:43 --> Database Driver Class Initialized
+INFO - 2025-07-11 14:35:43 --> Email Class Initialized
+INFO - 2025-07-11 14:35:43 --> Session: Class initialized using 'files' driver.
+INFO - 2025-07-11 14:35:43 --> Helper loaded: form_helper
+INFO - 2025-07-11 14:35:43 --> Form Validation Class Initialized
+INFO - 2025-07-11 14:35:43 --> Model "M_user" initialized
+INFO - 2025-07-11 14:35:43 --> Model "M_customer" initialized
+INFO - 2025-07-11 14:35:43 --> Model "M_tarif" initialized
+INFO - 2025-07-11 14:35:43 --> Model "M_usage" initialized
+INFO - 2025-07-11 14:35:43 --> Model "M_bill" initialized
+INFO - 2025-07-11 14:35:43 --> Model "M_payment" initialized
+INFO - 2025-07-11 14:35:43 --> Model "M_dashboard" initialized
+INFO - 2025-07-11 14:35:43 --> Controller Class Initialized
+DEBUG - 2025-07-11 14:35:43 --> DB cache path error: C:\xampp\htdocs\powerpay\application\cache/db/
+INFO - 2025-07-11 14:35:43 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/head.php
+INFO - 2025-07-11 14:35:43 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/sidebar_admin.php
+INFO - 2025-07-11 14:35:43 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/header_admin.php
+INFO - 2025-07-11 14:35:43 --> File loaded: C:\xampp\htdocs\powerpay\application\views\admin/v_dashboard.php
+INFO - 2025-07-11 14:35:43 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/footer.php
+INFO - 2025-07-11 14:35:43 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/end.php
+INFO - 2025-07-11 14:35:43 --> Final output sent to browser
+DEBUG - 2025-07-11 14:35:43 --> Total execution time: 0.0843
+INFO - 2025-07-11 14:36:22 --> Config Class Initialized
+INFO - 2025-07-11 14:36:22 --> Hooks Class Initialized
+DEBUG - 2025-07-11 14:36:22 --> UTF-8 Support Enabled
+INFO - 2025-07-11 14:36:22 --> Utf8 Class Initialized
+INFO - 2025-07-11 14:36:22 --> URI Class Initialized
+INFO - 2025-07-11 14:36:22 --> Router Class Initialized
+INFO - 2025-07-11 14:36:22 --> Output Class Initialized
+INFO - 2025-07-11 14:36:22 --> Security Class Initialized
+DEBUG - 2025-07-11 14:36:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-07-11 14:36:22 --> Input Class Initialized
+INFO - 2025-07-11 14:36:22 --> Language Class Initialized
+INFO - 2025-07-11 14:36:22 --> Loader Class Initialized
+INFO - 2025-07-11 14:36:22 --> Helper loaded: url_helper
+INFO - 2025-07-11 14:36:22 --> Helper loaded: file_helper
+INFO - 2025-07-11 14:36:22 --> Helper loaded: csmr_auth_helper
+INFO - 2025-07-11 14:36:22 --> Helper loaded: auto_number_helper
+INFO - 2025-07-11 14:36:22 --> Helper loaded: user_auth_helper
+INFO - 2025-07-11 14:36:22 --> Helper loaded: xdate_helper
+INFO - 2025-07-11 14:36:22 --> Helper loaded: public_helper
+INFO - 2025-07-11 14:36:22 --> Database Driver Class Initialized
+INFO - 2025-07-11 14:36:22 --> Email Class Initialized
+INFO - 2025-07-11 14:36:22 --> Session: Class initialized using 'files' driver.
+INFO - 2025-07-11 14:36:22 --> Helper loaded: form_helper
+INFO - 2025-07-11 14:36:22 --> Form Validation Class Initialized
+INFO - 2025-07-11 14:36:22 --> Model "M_user" initialized
+INFO - 2025-07-11 14:36:22 --> Model "M_customer" initialized
+INFO - 2025-07-11 14:36:22 --> Model "M_tarif" initialized
+INFO - 2025-07-11 14:36:22 --> Model "M_usage" initialized
+INFO - 2025-07-11 14:36:22 --> Model "M_bill" initialized
+INFO - 2025-07-11 14:36:22 --> Model "M_payment" initialized
+INFO - 2025-07-11 14:36:22 --> Model "M_dashboard" initialized
+INFO - 2025-07-11 14:36:22 --> Controller Class Initialized
+DEBUG - 2025-07-11 14:36:22 --> DB cache path error: C:\xampp\htdocs\powerpay\application\cache/db/
+INFO - 2025-07-11 14:36:22 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/head.php
+INFO - 2025-07-11 14:36:22 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/sidebar_admin.php
+INFO - 2025-07-11 14:36:22 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/header_admin.php
+INFO - 2025-07-11 14:36:22 --> File loaded: C:\xampp\htdocs\powerpay\application\views\admin/v_dashboard.php
+INFO - 2025-07-11 14:36:22 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/footer.php
+INFO - 2025-07-11 14:36:22 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/end.php
+INFO - 2025-07-11 14:36:22 --> Final output sent to browser
+DEBUG - 2025-07-11 14:36:22 --> Total execution time: 0.1176
+INFO - 2025-07-11 14:36:23 --> Config Class Initialized
+INFO - 2025-07-11 14:36:23 --> Hooks Class Initialized
+DEBUG - 2025-07-11 14:36:23 --> UTF-8 Support Enabled
+INFO - 2025-07-11 14:36:23 --> Utf8 Class Initialized
+INFO - 2025-07-11 14:36:23 --> URI Class Initialized
+INFO - 2025-07-11 14:36:23 --> Router Class Initialized
+INFO - 2025-07-11 14:36:23 --> Output Class Initialized
+INFO - 2025-07-11 14:36:23 --> Security Class Initialized
+DEBUG - 2025-07-11 14:36:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-07-11 14:36:23 --> Input Class Initialized
+INFO - 2025-07-11 14:36:23 --> Language Class Initialized
+INFO - 2025-07-11 14:36:23 --> Loader Class Initialized
+INFO - 2025-07-11 14:36:23 --> Helper loaded: url_helper
+INFO - 2025-07-11 14:36:23 --> Helper loaded: file_helper
+INFO - 2025-07-11 14:36:23 --> Helper loaded: csmr_auth_helper
+INFO - 2025-07-11 14:36:23 --> Helper loaded: auto_number_helper
+INFO - 2025-07-11 14:36:23 --> Helper loaded: user_auth_helper
+INFO - 2025-07-11 14:36:23 --> Helper loaded: xdate_helper
+INFO - 2025-07-11 14:36:23 --> Helper loaded: public_helper
+INFO - 2025-07-11 14:36:23 --> Database Driver Class Initialized
+INFO - 2025-07-11 14:36:23 --> Email Class Initialized
+INFO - 2025-07-11 14:36:23 --> Session: Class initialized using 'files' driver.
+INFO - 2025-07-11 14:36:23 --> Helper loaded: form_helper
+INFO - 2025-07-11 14:36:23 --> Form Validation Class Initialized
+INFO - 2025-07-11 14:36:23 --> Model "M_user" initialized
+INFO - 2025-07-11 14:36:23 --> Model "M_customer" initialized
+INFO - 2025-07-11 14:36:23 --> Model "M_tarif" initialized
+INFO - 2025-07-11 14:36:23 --> Model "M_usage" initialized
+INFO - 2025-07-11 14:36:23 --> Model "M_bill" initialized
+INFO - 2025-07-11 14:36:23 --> Model "M_payment" initialized
+INFO - 2025-07-11 14:36:23 --> Model "M_dashboard" initialized
+INFO - 2025-07-11 14:36:23 --> Controller Class Initialized
+DEBUG - 2025-07-11 14:36:23 --> DB cache path error: C:\xampp\htdocs\powerpay\application\cache/db/
+INFO - 2025-07-11 14:36:23 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/head.php
+INFO - 2025-07-11 14:36:23 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/sidebar_admin.php
+INFO - 2025-07-11 14:36:23 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/header_admin.php
+INFO - 2025-07-11 14:36:23 --> File loaded: C:\xampp\htdocs\powerpay\application\views\admin/v_dashboard.php
+INFO - 2025-07-11 14:36:23 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/footer.php
+INFO - 2025-07-11 14:36:23 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/end.php
+INFO - 2025-07-11 14:36:23 --> Final output sent to browser
+DEBUG - 2025-07-11 14:36:23 --> Total execution time: 0.1203
+INFO - 2025-07-11 14:36:24 --> Config Class Initialized
+INFO - 2025-07-11 14:36:24 --> Hooks Class Initialized
+DEBUG - 2025-07-11 14:36:24 --> UTF-8 Support Enabled
+INFO - 2025-07-11 14:36:24 --> Utf8 Class Initialized
+INFO - 2025-07-11 14:36:24 --> URI Class Initialized
+INFO - 2025-07-11 14:36:24 --> Router Class Initialized
+INFO - 2025-07-11 14:36:24 --> Output Class Initialized
+INFO - 2025-07-11 14:36:24 --> Security Class Initialized
+DEBUG - 2025-07-11 14:36:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-07-11 14:36:24 --> Input Class Initialized
+INFO - 2025-07-11 14:36:24 --> Language Class Initialized
+INFO - 2025-07-11 14:36:24 --> Loader Class Initialized
+INFO - 2025-07-11 14:36:24 --> Helper loaded: url_helper
+INFO - 2025-07-11 14:36:24 --> Helper loaded: file_helper
+INFO - 2025-07-11 14:36:24 --> Helper loaded: csmr_auth_helper
+INFO - 2025-07-11 14:36:24 --> Helper loaded: auto_number_helper
+INFO - 2025-07-11 14:36:24 --> Helper loaded: user_auth_helper
+INFO - 2025-07-11 14:36:24 --> Helper loaded: xdate_helper
+INFO - 2025-07-11 14:36:24 --> Helper loaded: public_helper
+INFO - 2025-07-11 14:36:24 --> Database Driver Class Initialized
+INFO - 2025-07-11 14:36:24 --> Email Class Initialized
+INFO - 2025-07-11 14:36:24 --> Session: Class initialized using 'files' driver.
+INFO - 2025-07-11 14:36:24 --> Helper loaded: form_helper
+INFO - 2025-07-11 14:36:24 --> Form Validation Class Initialized
+INFO - 2025-07-11 14:36:24 --> Model "M_user" initialized
+INFO - 2025-07-11 14:36:24 --> Model "M_customer" initialized
+INFO - 2025-07-11 14:36:24 --> Model "M_tarif" initialized
+INFO - 2025-07-11 14:36:24 --> Model "M_usage" initialized
+INFO - 2025-07-11 14:36:24 --> Model "M_bill" initialized
+INFO - 2025-07-11 14:36:24 --> Model "M_payment" initialized
+INFO - 2025-07-11 14:36:24 --> Model "M_dashboard" initialized
+INFO - 2025-07-11 14:36:24 --> Controller Class Initialized
+DEBUG - 2025-07-11 14:36:24 --> DB cache path error: C:\xampp\htdocs\powerpay\application\cache/db/
+INFO - 2025-07-11 14:36:24 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/head.php
+INFO - 2025-07-11 14:36:24 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/sidebar_admin.php
+INFO - 2025-07-11 14:36:24 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/header_admin.php
+INFO - 2025-07-11 14:36:24 --> File loaded: C:\xampp\htdocs\powerpay\application\views\admin/v_dashboard.php
+INFO - 2025-07-11 14:36:24 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/footer.php
+INFO - 2025-07-11 14:36:24 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/end.php
+INFO - 2025-07-11 14:36:24 --> Final output sent to browser
+DEBUG - 2025-07-11 14:36:24 --> Total execution time: 0.2026
+INFO - 2025-07-11 14:37:10 --> Config Class Initialized
+INFO - 2025-07-11 14:37:10 --> Hooks Class Initialized
+DEBUG - 2025-07-11 14:37:10 --> UTF-8 Support Enabled
+INFO - 2025-07-11 14:37:10 --> Utf8 Class Initialized
+INFO - 2025-07-11 14:37:10 --> URI Class Initialized
+INFO - 2025-07-11 14:37:10 --> Router Class Initialized
+INFO - 2025-07-11 14:37:10 --> Output Class Initialized
+INFO - 2025-07-11 14:37:10 --> Security Class Initialized
+DEBUG - 2025-07-11 14:37:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-07-11 14:37:10 --> Input Class Initialized
+INFO - 2025-07-11 14:37:10 --> Language Class Initialized
+INFO - 2025-07-11 14:37:10 --> Loader Class Initialized
+INFO - 2025-07-11 14:37:10 --> Helper loaded: url_helper
+INFO - 2025-07-11 14:37:10 --> Helper loaded: file_helper
+INFO - 2025-07-11 14:37:10 --> Helper loaded: csmr_auth_helper
+INFO - 2025-07-11 14:37:10 --> Helper loaded: auto_number_helper
+INFO - 2025-07-11 14:37:10 --> Helper loaded: user_auth_helper
+INFO - 2025-07-11 14:37:10 --> Helper loaded: xdate_helper
+INFO - 2025-07-11 14:37:10 --> Helper loaded: public_helper
+INFO - 2025-07-11 14:37:10 --> Database Driver Class Initialized
+INFO - 2025-07-11 14:37:10 --> Email Class Initialized
+INFO - 2025-07-11 14:37:10 --> Session: Class initialized using 'files' driver.
+INFO - 2025-07-11 14:37:10 --> Helper loaded: form_helper
+INFO - 2025-07-11 14:37:10 --> Form Validation Class Initialized
+INFO - 2025-07-11 14:37:10 --> Model "M_user" initialized
+INFO - 2025-07-11 14:37:10 --> Model "M_customer" initialized
+INFO - 2025-07-11 14:37:10 --> Model "M_tarif" initialized
+INFO - 2025-07-11 14:37:10 --> Model "M_usage" initialized
+INFO - 2025-07-11 14:37:10 --> Model "M_bill" initialized
+INFO - 2025-07-11 14:37:10 --> Model "M_payment" initialized
+INFO - 2025-07-11 14:37:10 --> Model "M_dashboard" initialized
+INFO - 2025-07-11 14:37:10 --> Controller Class Initialized
+DEBUG - 2025-07-11 14:37:10 --> DB cache path error: C:\xampp\htdocs\powerpay\application\cache/db/
+INFO - 2025-07-11 14:37:10 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/head.php
+INFO - 2025-07-11 14:37:10 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/sidebar_admin.php
+INFO - 2025-07-11 14:37:10 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/header_admin.php
+INFO - 2025-07-11 14:37:10 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/flashdata.php
+INFO - 2025-07-11 14:37:10 --> File loaded: C:\xampp\htdocs\powerpay\application\views\admin/usage/v_usage.php
+INFO - 2025-07-11 14:37:10 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/footer.php
+INFO - 2025-07-11 14:37:10 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/end.php
+INFO - 2025-07-11 14:37:10 --> Final output sent to browser
+DEBUG - 2025-07-11 14:37:10 --> Total execution time: 0.0997
+INFO - 2025-07-11 14:40:16 --> Config Class Initialized
+INFO - 2025-07-11 14:40:16 --> Hooks Class Initialized
+DEBUG - 2025-07-11 14:40:16 --> UTF-8 Support Enabled
+INFO - 2025-07-11 14:40:16 --> Utf8 Class Initialized
+INFO - 2025-07-11 14:40:16 --> URI Class Initialized
+INFO - 2025-07-11 14:40:16 --> Router Class Initialized
+INFO - 2025-07-11 14:40:16 --> Output Class Initialized
+INFO - 2025-07-11 14:40:16 --> Security Class Initialized
+DEBUG - 2025-07-11 14:40:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-07-11 14:40:16 --> Input Class Initialized
+INFO - 2025-07-11 14:40:16 --> Language Class Initialized
+ERROR - 2025-07-11 14:40:16 --> Severity: Warning --> require_once(path/to/dompdf/autoload.inc.php): Failed to open stream: No such file or directory C:\xampp\htdocs\powerpay\application\controllers\admin\Usage.php 3
+ERROR - 2025-07-11 14:40:16 --> Severity: error --> Exception: Failed opening required 'path/to/dompdf/autoload.inc.php' (include_path='C:\xampp\php\PEAR') C:\xampp\htdocs\powerpay\application\controllers\admin\Usage.php 3
+INFO - 2025-07-11 14:47:22 --> Config Class Initialized
+INFO - 2025-07-11 14:47:22 --> Hooks Class Initialized
+DEBUG - 2025-07-11 14:47:22 --> UTF-8 Support Enabled
+INFO - 2025-07-11 14:47:22 --> Utf8 Class Initialized
+INFO - 2025-07-11 14:47:22 --> URI Class Initialized
+INFO - 2025-07-11 14:47:22 --> Router Class Initialized
+INFO - 2025-07-11 14:47:22 --> Output Class Initialized
+INFO - 2025-07-11 14:47:22 --> Security Class Initialized
+DEBUG - 2025-07-11 14:47:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-07-11 14:47:22 --> Input Class Initialized
+INFO - 2025-07-11 14:47:22 --> Language Class Initialized
+INFO - 2025-07-11 14:47:22 --> Loader Class Initialized
+INFO - 2025-07-11 14:47:22 --> Helper loaded: url_helper
+INFO - 2025-07-11 14:47:22 --> Helper loaded: file_helper
+INFO - 2025-07-11 14:47:22 --> Helper loaded: csmr_auth_helper
+INFO - 2025-07-11 14:47:22 --> Helper loaded: auto_number_helper
+INFO - 2025-07-11 14:47:22 --> Helper loaded: user_auth_helper
+INFO - 2025-07-11 14:47:22 --> Helper loaded: xdate_helper
+INFO - 2025-07-11 14:47:22 --> Helper loaded: public_helper
+INFO - 2025-07-11 14:47:22 --> Database Driver Class Initialized
+INFO - 2025-07-11 14:47:22 --> Email Class Initialized
+INFO - 2025-07-11 14:47:22 --> Session: Class initialized using 'files' driver.
+INFO - 2025-07-11 14:47:22 --> Helper loaded: form_helper
+INFO - 2025-07-11 14:47:22 --> Form Validation Class Initialized
+INFO - 2025-07-11 14:47:22 --> Model "M_user" initialized
+INFO - 2025-07-11 14:47:22 --> Model "M_customer" initialized
+INFO - 2025-07-11 14:47:22 --> Model "M_tarif" initialized
+INFO - 2025-07-11 14:47:22 --> Model "M_usage" initialized
+INFO - 2025-07-11 14:47:22 --> Model "M_bill" initialized
+INFO - 2025-07-11 14:47:22 --> Model "M_payment" initialized
+INFO - 2025-07-11 14:47:22 --> Model "M_dashboard" initialized
+INFO - 2025-07-11 14:47:22 --> Controller Class Initialized
+DEBUG - 2025-07-11 14:47:22 --> DB cache path error: C:\xampp\htdocs\powerpay\application\cache/db/
+INFO - 2025-07-11 14:47:22 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/head.php
+INFO - 2025-07-11 14:47:22 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/sidebar_admin.php
+INFO - 2025-07-11 14:47:22 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/header_admin.php
+INFO - 2025-07-11 14:47:22 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/flashdata.php
+INFO - 2025-07-11 14:47:22 --> File loaded: C:\xampp\htdocs\powerpay\application\views\admin/usage/v_usage.php
+INFO - 2025-07-11 14:47:22 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/footer.php
+ERROR - 2025-07-11 14:47:22 --> Severity: error --> Exception: Undefined constant "data" C:\xampp\htdocs\powerpay\application\controllers\admin\Usage.php 32
+INFO - 2025-07-11 14:47:24 --> Config Class Initialized
+INFO - 2025-07-11 14:47:24 --> Hooks Class Initialized
+DEBUG - 2025-07-11 14:47:24 --> UTF-8 Support Enabled
+INFO - 2025-07-11 14:47:24 --> Utf8 Class Initialized
+INFO - 2025-07-11 14:47:24 --> URI Class Initialized
+INFO - 2025-07-11 14:47:24 --> Router Class Initialized
+INFO - 2025-07-11 14:47:24 --> Output Class Initialized
+INFO - 2025-07-11 14:47:24 --> Security Class Initialized
+DEBUG - 2025-07-11 14:47:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-07-11 14:47:24 --> Input Class Initialized
+INFO - 2025-07-11 14:47:24 --> Language Class Initialized
+INFO - 2025-07-11 14:47:24 --> Loader Class Initialized
+INFO - 2025-07-11 14:47:24 --> Helper loaded: url_helper
+INFO - 2025-07-11 14:47:24 --> Helper loaded: file_helper
+INFO - 2025-07-11 14:47:24 --> Helper loaded: csmr_auth_helper
+INFO - 2025-07-11 14:47:24 --> Helper loaded: auto_number_helper
+INFO - 2025-07-11 14:47:24 --> Helper loaded: user_auth_helper
+INFO - 2025-07-11 14:47:24 --> Helper loaded: xdate_helper
+INFO - 2025-07-11 14:47:24 --> Helper loaded: public_helper
+INFO - 2025-07-11 14:47:24 --> Database Driver Class Initialized
+INFO - 2025-07-11 14:47:24 --> Email Class Initialized
+INFO - 2025-07-11 14:47:24 --> Session: Class initialized using 'files' driver.
+INFO - 2025-07-11 14:47:24 --> Helper loaded: form_helper
+INFO - 2025-07-11 14:47:24 --> Form Validation Class Initialized
+INFO - 2025-07-11 14:47:24 --> Model "M_user" initialized
+INFO - 2025-07-11 14:47:24 --> Model "M_customer" initialized
+INFO - 2025-07-11 14:47:24 --> Model "M_tarif" initialized
+INFO - 2025-07-11 14:47:24 --> Model "M_usage" initialized
+INFO - 2025-07-11 14:47:24 --> Model "M_bill" initialized
+INFO - 2025-07-11 14:47:24 --> Model "M_payment" initialized
+INFO - 2025-07-11 14:47:24 --> Model "M_dashboard" initialized
+INFO - 2025-07-11 14:47:24 --> Controller Class Initialized
+DEBUG - 2025-07-11 14:47:24 --> DB cache path error: C:\xampp\htdocs\powerpay\application\cache/db/
+INFO - 2025-07-11 14:47:24 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/head.php
+INFO - 2025-07-11 14:47:24 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/sidebar_admin.php
+INFO - 2025-07-11 14:47:24 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/header_admin.php
+INFO - 2025-07-11 14:47:24 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/flashdata.php
+INFO - 2025-07-11 14:47:24 --> File loaded: C:\xampp\htdocs\powerpay\application\views\admin/usage/v_usage.php
+INFO - 2025-07-11 14:47:24 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/footer.php
+ERROR - 2025-07-11 14:47:24 --> Severity: error --> Exception: Undefined constant "data" C:\xampp\htdocs\powerpay\application\controllers\admin\Usage.php 32
+INFO - 2025-07-11 14:47:45 --> Config Class Initialized
+INFO - 2025-07-11 14:47:45 --> Hooks Class Initialized
+DEBUG - 2025-07-11 14:47:45 --> UTF-8 Support Enabled
+INFO - 2025-07-11 14:47:45 --> Utf8 Class Initialized
+INFO - 2025-07-11 14:47:45 --> URI Class Initialized
+INFO - 2025-07-11 14:47:45 --> Router Class Initialized
+INFO - 2025-07-11 14:47:45 --> Output Class Initialized
+INFO - 2025-07-11 14:47:45 --> Security Class Initialized
+DEBUG - 2025-07-11 14:47:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-07-11 14:47:45 --> Input Class Initialized
+INFO - 2025-07-11 14:47:45 --> Language Class Initialized
+INFO - 2025-07-11 14:47:45 --> Loader Class Initialized
+INFO - 2025-07-11 14:47:45 --> Helper loaded: url_helper
+INFO - 2025-07-11 14:47:45 --> Helper loaded: file_helper
+INFO - 2025-07-11 14:47:45 --> Helper loaded: csmr_auth_helper
+INFO - 2025-07-11 14:47:45 --> Helper loaded: auto_number_helper
+INFO - 2025-07-11 14:47:45 --> Helper loaded: user_auth_helper
+INFO - 2025-07-11 14:47:45 --> Helper loaded: xdate_helper
+INFO - 2025-07-11 14:47:45 --> Helper loaded: public_helper
+INFO - 2025-07-11 14:47:45 --> Database Driver Class Initialized
+INFO - 2025-07-11 14:47:45 --> Email Class Initialized
+INFO - 2025-07-11 14:47:45 --> Session: Class initialized using 'files' driver.
+INFO - 2025-07-11 14:47:45 --> Helper loaded: form_helper
+INFO - 2025-07-11 14:47:45 --> Form Validation Class Initialized
+INFO - 2025-07-11 14:47:45 --> Model "M_user" initialized
+INFO - 2025-07-11 14:47:45 --> Model "M_customer" initialized
+INFO - 2025-07-11 14:47:45 --> Model "M_tarif" initialized
+INFO - 2025-07-11 14:47:45 --> Model "M_usage" initialized
+INFO - 2025-07-11 14:47:45 --> Model "M_bill" initialized
+INFO - 2025-07-11 14:47:45 --> Model "M_payment" initialized
+INFO - 2025-07-11 14:47:45 --> Model "M_dashboard" initialized
+INFO - 2025-07-11 14:47:45 --> Controller Class Initialized
+DEBUG - 2025-07-11 14:47:45 --> DB cache path error: C:\xampp\htdocs\powerpay\application\cache/db/
+INFO - 2025-07-11 14:47:45 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/head.php
+INFO - 2025-07-11 14:47:45 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/sidebar_admin.php
+INFO - 2025-07-11 14:47:45 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/header_admin.php
+INFO - 2025-07-11 14:47:45 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/flashdata.php
+INFO - 2025-07-11 14:47:45 --> File loaded: C:\xampp\htdocs\powerpay\application\views\admin/usage/v_usage.php
+INFO - 2025-07-11 14:47:45 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/footer.php
+INFO - 2025-07-11 14:47:45 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/end.php
+INFO - 2025-07-11 14:47:45 --> Final output sent to browser
+DEBUG - 2025-07-11 14:47:45 --> Total execution time: 0.1211
+INFO - 2025-07-11 14:47:46 --> Config Class Initialized
+INFO - 2025-07-11 14:47:46 --> Hooks Class Initialized
+DEBUG - 2025-07-11 14:47:46 --> UTF-8 Support Enabled
+INFO - 2025-07-11 14:47:46 --> Utf8 Class Initialized
+INFO - 2025-07-11 14:47:46 --> URI Class Initialized
+INFO - 2025-07-11 14:47:46 --> Router Class Initialized
+INFO - 2025-07-11 14:47:46 --> Output Class Initialized
+INFO - 2025-07-11 14:47:46 --> Security Class Initialized
+DEBUG - 2025-07-11 14:47:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-07-11 14:47:46 --> Input Class Initialized
+INFO - 2025-07-11 14:47:46 --> Language Class Initialized
+INFO - 2025-07-11 14:47:46 --> Loader Class Initialized
+INFO - 2025-07-11 14:47:46 --> Helper loaded: url_helper
+INFO - 2025-07-11 14:47:46 --> Helper loaded: file_helper
+INFO - 2025-07-11 14:47:46 --> Helper loaded: csmr_auth_helper
+INFO - 2025-07-11 14:47:46 --> Helper loaded: auto_number_helper
+INFO - 2025-07-11 14:47:46 --> Helper loaded: user_auth_helper
+INFO - 2025-07-11 14:47:46 --> Helper loaded: xdate_helper
+INFO - 2025-07-11 14:47:46 --> Helper loaded: public_helper
+INFO - 2025-07-11 14:47:47 --> Database Driver Class Initialized
+INFO - 2025-07-11 14:47:47 --> Email Class Initialized
+INFO - 2025-07-11 14:47:47 --> Session: Class initialized using 'files' driver.
+INFO - 2025-07-11 14:47:47 --> Helper loaded: form_helper
+INFO - 2025-07-11 14:47:47 --> Form Validation Class Initialized
+INFO - 2025-07-11 14:47:47 --> Model "M_user" initialized
+INFO - 2025-07-11 14:47:47 --> Model "M_customer" initialized
+INFO - 2025-07-11 14:47:47 --> Model "M_tarif" initialized
+INFO - 2025-07-11 14:47:47 --> Model "M_usage" initialized
+INFO - 2025-07-11 14:47:47 --> Model "M_bill" initialized
+INFO - 2025-07-11 14:47:47 --> Model "M_payment" initialized
+INFO - 2025-07-11 14:47:47 --> Model "M_dashboard" initialized
+INFO - 2025-07-11 14:47:47 --> Controller Class Initialized
+DEBUG - 2025-07-11 14:47:47 --> DB cache path error: C:\xampp\htdocs\powerpay\application\cache/db/
+INFO - 2025-07-11 14:49:02 --> Config Class Initialized
+INFO - 2025-07-11 14:49:02 --> Hooks Class Initialized
+DEBUG - 2025-07-11 14:49:02 --> UTF-8 Support Enabled
+INFO - 2025-07-11 14:49:02 --> Utf8 Class Initialized
+INFO - 2025-07-11 14:49:02 --> URI Class Initialized
+INFO - 2025-07-11 14:49:02 --> Router Class Initialized
+INFO - 2025-07-11 14:49:02 --> Output Class Initialized
+INFO - 2025-07-11 14:49:02 --> Security Class Initialized
+DEBUG - 2025-07-11 14:49:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-07-11 14:49:02 --> Input Class Initialized
+INFO - 2025-07-11 14:49:02 --> Language Class Initialized
+INFO - 2025-07-11 14:49:02 --> Loader Class Initialized
+INFO - 2025-07-11 14:49:02 --> Helper loaded: url_helper
+INFO - 2025-07-11 14:49:02 --> Helper loaded: file_helper
+INFO - 2025-07-11 14:49:02 --> Helper loaded: csmr_auth_helper
+INFO - 2025-07-11 14:49:02 --> Helper loaded: auto_number_helper
+INFO - 2025-07-11 14:49:02 --> Helper loaded: user_auth_helper
+INFO - 2025-07-11 14:49:02 --> Helper loaded: xdate_helper
+INFO - 2025-07-11 14:49:02 --> Helper loaded: public_helper
+INFO - 2025-07-11 14:49:02 --> Database Driver Class Initialized
+INFO - 2025-07-11 14:49:02 --> Email Class Initialized
+INFO - 2025-07-11 14:49:02 --> Session: Class initialized using 'files' driver.
+INFO - 2025-07-11 14:49:02 --> Helper loaded: form_helper
+INFO - 2025-07-11 14:49:02 --> Form Validation Class Initialized
+INFO - 2025-07-11 14:49:02 --> Model "M_user" initialized
+INFO - 2025-07-11 14:49:02 --> Model "M_customer" initialized
+INFO - 2025-07-11 14:49:02 --> Model "M_tarif" initialized
+INFO - 2025-07-11 14:49:02 --> Model "M_usage" initialized
+INFO - 2025-07-11 14:49:02 --> Model "M_bill" initialized
+INFO - 2025-07-11 14:49:02 --> Model "M_payment" initialized
+INFO - 2025-07-11 14:49:02 --> Model "M_dashboard" initialized
+INFO - 2025-07-11 14:49:02 --> Controller Class Initialized
+DEBUG - 2025-07-11 14:49:02 --> DB cache path error: C:\xampp\htdocs\powerpay\application\cache/db/
+INFO - 2025-07-11 14:49:02 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/head.php
+INFO - 2025-07-11 14:49:02 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/sidebar_admin.php
+INFO - 2025-07-11 14:49:02 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/header_admin.php
+INFO - 2025-07-11 14:49:02 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/flashdata.php
+INFO - 2025-07-11 14:49:02 --> File loaded: C:\xampp\htdocs\powerpay\application\views\admin/usage/v_usage.php
+INFO - 2025-07-11 14:49:02 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/footer.php
+INFO - 2025-07-11 14:49:02 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/end.php
+INFO - 2025-07-11 14:49:02 --> Final output sent to browser
+DEBUG - 2025-07-11 14:49:02 --> Total execution time: 0.1193
+INFO - 2025-07-11 14:49:23 --> Config Class Initialized
+INFO - 2025-07-11 14:49:23 --> Hooks Class Initialized
+DEBUG - 2025-07-11 14:49:23 --> UTF-8 Support Enabled
+INFO - 2025-07-11 14:49:23 --> Utf8 Class Initialized
+INFO - 2025-07-11 14:49:23 --> URI Class Initialized
+INFO - 2025-07-11 14:49:23 --> Router Class Initialized
+INFO - 2025-07-11 14:49:23 --> Output Class Initialized
+INFO - 2025-07-11 14:49:23 --> Security Class Initialized
+DEBUG - 2025-07-11 14:49:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-07-11 14:49:23 --> Input Class Initialized
+INFO - 2025-07-11 14:49:23 --> Language Class Initialized
+INFO - 2025-07-11 14:49:23 --> Loader Class Initialized
+INFO - 2025-07-11 14:49:23 --> Helper loaded: url_helper
+INFO - 2025-07-11 14:49:23 --> Helper loaded: file_helper
+INFO - 2025-07-11 14:49:23 --> Helper loaded: csmr_auth_helper
+INFO - 2025-07-11 14:49:23 --> Helper loaded: auto_number_helper
+INFO - 2025-07-11 14:49:23 --> Helper loaded: user_auth_helper
+INFO - 2025-07-11 14:49:23 --> Helper loaded: xdate_helper
+INFO - 2025-07-11 14:49:23 --> Helper loaded: public_helper
+INFO - 2025-07-11 14:49:23 --> Database Driver Class Initialized
+INFO - 2025-07-11 14:49:23 --> Email Class Initialized
+INFO - 2025-07-11 14:49:23 --> Session: Class initialized using 'files' driver.
+INFO - 2025-07-11 14:49:23 --> Helper loaded: form_helper
+INFO - 2025-07-11 14:49:23 --> Form Validation Class Initialized
+INFO - 2025-07-11 14:49:23 --> Model "M_user" initialized
+INFO - 2025-07-11 14:49:23 --> Model "M_customer" initialized
+INFO - 2025-07-11 14:49:23 --> Model "M_tarif" initialized
+INFO - 2025-07-11 14:49:23 --> Model "M_usage" initialized
+INFO - 2025-07-11 14:49:23 --> Model "M_bill" initialized
+INFO - 2025-07-11 14:49:23 --> Model "M_payment" initialized
+INFO - 2025-07-11 14:49:23 --> Model "M_dashboard" initialized
+INFO - 2025-07-11 14:49:23 --> Controller Class Initialized
+DEBUG - 2025-07-11 14:49:23 --> DB cache path error: C:\xampp\htdocs\powerpay\application\cache/db/
+INFO - 2025-07-11 14:49:23 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/head.php
+INFO - 2025-07-11 14:49:23 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/sidebar_admin.php
+INFO - 2025-07-11 14:49:23 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/header_admin.php
+INFO - 2025-07-11 14:49:23 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/flashdata.php
+INFO - 2025-07-11 14:49:23 --> File loaded: C:\xampp\htdocs\powerpay\application\views\admin/usage/v_usage.php
+INFO - 2025-07-11 14:49:23 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/footer.php
+INFO - 2025-07-11 14:49:23 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/end.php
+INFO - 2025-07-11 14:49:23 --> Final output sent to browser
+DEBUG - 2025-07-11 14:49:23 --> Total execution time: 0.1194
+INFO - 2025-07-11 14:49:37 --> Config Class Initialized
+INFO - 2025-07-11 14:49:37 --> Hooks Class Initialized
+DEBUG - 2025-07-11 14:49:37 --> UTF-8 Support Enabled
+INFO - 2025-07-11 14:49:37 --> Utf8 Class Initialized
+INFO - 2025-07-11 14:49:37 --> URI Class Initialized
+INFO - 2025-07-11 14:49:37 --> Router Class Initialized
+INFO - 2025-07-11 14:49:37 --> Output Class Initialized
+INFO - 2025-07-11 14:49:37 --> Security Class Initialized
+DEBUG - 2025-07-11 14:49:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-07-11 14:49:37 --> Input Class Initialized
+INFO - 2025-07-11 14:49:37 --> Language Class Initialized
+INFO - 2025-07-11 14:49:37 --> Loader Class Initialized
+INFO - 2025-07-11 14:49:37 --> Helper loaded: url_helper
+INFO - 2025-07-11 14:49:37 --> Helper loaded: file_helper
+INFO - 2025-07-11 14:49:37 --> Helper loaded: csmr_auth_helper
+INFO - 2025-07-11 14:49:37 --> Helper loaded: auto_number_helper
+INFO - 2025-07-11 14:49:37 --> Helper loaded: user_auth_helper
+INFO - 2025-07-11 14:49:37 --> Helper loaded: xdate_helper
+INFO - 2025-07-11 14:49:37 --> Helper loaded: public_helper
+INFO - 2025-07-11 14:49:37 --> Database Driver Class Initialized
+INFO - 2025-07-11 14:49:37 --> Email Class Initialized
+INFO - 2025-07-11 14:49:37 --> Session: Class initialized using 'files' driver.
+INFO - 2025-07-11 14:49:37 --> Helper loaded: form_helper
+INFO - 2025-07-11 14:49:37 --> Form Validation Class Initialized
+INFO - 2025-07-11 14:49:37 --> Model "M_user" initialized
+INFO - 2025-07-11 14:49:37 --> Model "M_customer" initialized
+INFO - 2025-07-11 14:49:37 --> Model "M_tarif" initialized
+INFO - 2025-07-11 14:49:37 --> Model "M_usage" initialized
+INFO - 2025-07-11 14:49:37 --> Model "M_bill" initialized
+INFO - 2025-07-11 14:49:37 --> Model "M_payment" initialized
+INFO - 2025-07-11 14:49:37 --> Model "M_dashboard" initialized
+INFO - 2025-07-11 14:49:37 --> Controller Class Initialized
+DEBUG - 2025-07-11 14:49:37 --> DB cache path error: C:\xampp\htdocs\powerpay\application\cache/db/
+INFO - 2025-07-11 14:49:37 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/head.php
+INFO - 2025-07-11 14:49:37 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/sidebar_admin.php
+INFO - 2025-07-11 14:49:37 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/header_admin.php
+INFO - 2025-07-11 14:49:37 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/flashdata.php
+INFO - 2025-07-11 14:49:37 --> File loaded: C:\xampp\htdocs\powerpay\application\views\admin/usage/v_usage.php
+INFO - 2025-07-11 14:49:37 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/footer.php
+INFO - 2025-07-11 14:49:37 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/end.php
+INFO - 2025-07-11 14:49:37 --> Final output sent to browser
+DEBUG - 2025-07-11 14:49:37 --> Total execution time: 0.1489
+INFO - 2025-07-11 14:49:49 --> Config Class Initialized
+INFO - 2025-07-11 14:49:49 --> Hooks Class Initialized
+DEBUG - 2025-07-11 14:49:49 --> UTF-8 Support Enabled
+INFO - 2025-07-11 14:49:49 --> Utf8 Class Initialized
+INFO - 2025-07-11 14:49:49 --> URI Class Initialized
+INFO - 2025-07-11 14:49:49 --> Router Class Initialized
+INFO - 2025-07-11 14:49:49 --> Output Class Initialized
+INFO - 2025-07-11 14:49:49 --> Security Class Initialized
+DEBUG - 2025-07-11 14:49:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-07-11 14:49:49 --> Input Class Initialized
+INFO - 2025-07-11 14:49:49 --> Language Class Initialized
+INFO - 2025-07-11 14:49:49 --> Loader Class Initialized
+INFO - 2025-07-11 14:49:49 --> Helper loaded: url_helper
+INFO - 2025-07-11 14:49:49 --> Helper loaded: file_helper
+INFO - 2025-07-11 14:49:49 --> Helper loaded: csmr_auth_helper
+INFO - 2025-07-11 14:49:49 --> Helper loaded: auto_number_helper
+INFO - 2025-07-11 14:49:49 --> Helper loaded: user_auth_helper
+INFO - 2025-07-11 14:49:49 --> Helper loaded: xdate_helper
+INFO - 2025-07-11 14:49:49 --> Helper loaded: public_helper
+INFO - 2025-07-11 14:49:49 --> Database Driver Class Initialized
+INFO - 2025-07-11 14:49:49 --> Email Class Initialized
+INFO - 2025-07-11 14:49:49 --> Session: Class initialized using 'files' driver.
+INFO - 2025-07-11 14:49:49 --> Helper loaded: form_helper
+INFO - 2025-07-11 14:49:49 --> Form Validation Class Initialized
+INFO - 2025-07-11 14:49:49 --> Model "M_user" initialized
+INFO - 2025-07-11 14:49:49 --> Model "M_customer" initialized
+INFO - 2025-07-11 14:49:49 --> Model "M_tarif" initialized
+INFO - 2025-07-11 14:49:49 --> Model "M_usage" initialized
+INFO - 2025-07-11 14:49:49 --> Model "M_bill" initialized
+INFO - 2025-07-11 14:49:49 --> Model "M_payment" initialized
+INFO - 2025-07-11 14:49:49 --> Model "M_dashboard" initialized
+INFO - 2025-07-11 14:49:49 --> Controller Class Initialized
+DEBUG - 2025-07-11 14:49:49 --> DB cache path error: C:\xampp\htdocs\powerpay\application\cache/db/
+INFO - 2025-07-11 14:50:54 --> Config Class Initialized
+INFO - 2025-07-11 14:50:54 --> Hooks Class Initialized
+DEBUG - 2025-07-11 14:50:54 --> UTF-8 Support Enabled
+INFO - 2025-07-11 14:50:54 --> Utf8 Class Initialized
+INFO - 2025-07-11 14:50:54 --> URI Class Initialized
+INFO - 2025-07-11 14:50:54 --> Router Class Initialized
+INFO - 2025-07-11 14:50:54 --> Output Class Initialized
+INFO - 2025-07-11 14:50:54 --> Security Class Initialized
+DEBUG - 2025-07-11 14:50:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-07-11 14:50:54 --> Input Class Initialized
+INFO - 2025-07-11 14:50:54 --> Language Class Initialized
+INFO - 2025-07-11 14:50:54 --> Loader Class Initialized
+INFO - 2025-07-11 14:50:54 --> Helper loaded: url_helper
+INFO - 2025-07-11 14:50:54 --> Helper loaded: file_helper
+INFO - 2025-07-11 14:50:54 --> Helper loaded: csmr_auth_helper
+INFO - 2025-07-11 14:50:54 --> Helper loaded: auto_number_helper
+INFO - 2025-07-11 14:50:54 --> Helper loaded: user_auth_helper
+INFO - 2025-07-11 14:50:54 --> Helper loaded: xdate_helper
+INFO - 2025-07-11 14:50:54 --> Helper loaded: public_helper
+INFO - 2025-07-11 14:50:54 --> Database Driver Class Initialized
+INFO - 2025-07-11 14:50:54 --> Email Class Initialized
+INFO - 2025-07-11 14:50:54 --> Session: Class initialized using 'files' driver.
+INFO - 2025-07-11 14:50:54 --> Helper loaded: form_helper
+INFO - 2025-07-11 14:50:54 --> Form Validation Class Initialized
+INFO - 2025-07-11 14:50:54 --> Model "M_user" initialized
+INFO - 2025-07-11 14:50:54 --> Model "M_customer" initialized
+INFO - 2025-07-11 14:50:54 --> Model "M_tarif" initialized
+INFO - 2025-07-11 14:50:54 --> Model "M_usage" initialized
+INFO - 2025-07-11 14:50:54 --> Model "M_bill" initialized
+INFO - 2025-07-11 14:50:54 --> Model "M_payment" initialized
+INFO - 2025-07-11 14:50:54 --> Model "M_dashboard" initialized
+INFO - 2025-07-11 14:50:54 --> Controller Class Initialized
+DEBUG - 2025-07-11 14:50:54 --> DB cache path error: C:\xampp\htdocs\powerpay\application\cache/db/
+INFO - 2025-07-11 14:50:54 --> File loaded: C:\xampp\htdocs\powerpay\application\views\admin/usage/v_usage_cetak.php
+INFO - 2025-07-11 14:50:54 --> Final output sent to browser
+DEBUG - 2025-07-11 14:50:54 --> Total execution time: 0.1073
+INFO - 2025-07-11 14:51:25 --> Config Class Initialized
+INFO - 2025-07-11 14:51:25 --> Hooks Class Initialized
+DEBUG - 2025-07-11 14:51:25 --> UTF-8 Support Enabled
+INFO - 2025-07-11 14:51:25 --> Utf8 Class Initialized
+INFO - 2025-07-11 14:51:25 --> URI Class Initialized
+INFO - 2025-07-11 14:51:25 --> Router Class Initialized
+INFO - 2025-07-11 14:51:25 --> Output Class Initialized
+INFO - 2025-07-11 14:51:25 --> Security Class Initialized
+DEBUG - 2025-07-11 14:51:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-07-11 14:51:25 --> Input Class Initialized
+INFO - 2025-07-11 14:51:25 --> Language Class Initialized
+INFO - 2025-07-11 14:51:25 --> Loader Class Initialized
+INFO - 2025-07-11 14:51:25 --> Helper loaded: url_helper
+INFO - 2025-07-11 14:51:25 --> Helper loaded: file_helper
+INFO - 2025-07-11 14:51:25 --> Helper loaded: csmr_auth_helper
+INFO - 2025-07-11 14:51:25 --> Helper loaded: auto_number_helper
+INFO - 2025-07-11 14:51:25 --> Helper loaded: user_auth_helper
+INFO - 2025-07-11 14:51:25 --> Helper loaded: xdate_helper
+INFO - 2025-07-11 14:51:25 --> Helper loaded: public_helper
+INFO - 2025-07-11 14:51:25 --> Database Driver Class Initialized
+INFO - 2025-07-11 14:51:25 --> Email Class Initialized
+INFO - 2025-07-11 14:51:25 --> Session: Class initialized using 'files' driver.
+INFO - 2025-07-11 14:51:25 --> Helper loaded: form_helper
+INFO - 2025-07-11 14:51:25 --> Form Validation Class Initialized
+INFO - 2025-07-11 14:51:25 --> Model "M_user" initialized
+INFO - 2025-07-11 14:51:25 --> Model "M_customer" initialized
+INFO - 2025-07-11 14:51:25 --> Model "M_tarif" initialized
+INFO - 2025-07-11 14:51:25 --> Model "M_usage" initialized
+INFO - 2025-07-11 14:51:25 --> Model "M_bill" initialized
+INFO - 2025-07-11 14:51:25 --> Model "M_payment" initialized
+INFO - 2025-07-11 14:51:25 --> Model "M_dashboard" initialized
+INFO - 2025-07-11 14:51:25 --> Controller Class Initialized
+DEBUG - 2025-07-11 14:51:26 --> DB cache path error: C:\xampp\htdocs\powerpay\application\cache/db/
+INFO - 2025-07-11 14:51:26 --> File loaded: C:\xampp\htdocs\powerpay\application\views\admin/usage/v_usage_cetak.php
+INFO - 2025-07-11 14:51:26 --> Final output sent to browser
+DEBUG - 2025-07-11 14:51:26 --> Total execution time: 0.1305
+INFO - 2025-07-11 14:51:35 --> Config Class Initialized
+INFO - 2025-07-11 14:51:35 --> Hooks Class Initialized
+DEBUG - 2025-07-11 14:51:35 --> UTF-8 Support Enabled
+INFO - 2025-07-11 14:51:35 --> Utf8 Class Initialized
+INFO - 2025-07-11 14:51:35 --> URI Class Initialized
+INFO - 2025-07-11 14:51:35 --> Router Class Initialized
+INFO - 2025-07-11 14:51:35 --> Output Class Initialized
+INFO - 2025-07-11 14:51:35 --> Security Class Initialized
+DEBUG - 2025-07-11 14:51:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-07-11 14:51:35 --> Input Class Initialized
+INFO - 2025-07-11 14:51:35 --> Language Class Initialized
+INFO - 2025-07-11 14:51:35 --> Loader Class Initialized
+INFO - 2025-07-11 14:51:35 --> Helper loaded: url_helper
+INFO - 2025-07-11 14:51:35 --> Helper loaded: file_helper
+INFO - 2025-07-11 14:51:35 --> Helper loaded: csmr_auth_helper
+INFO - 2025-07-11 14:51:35 --> Helper loaded: auto_number_helper
+INFO - 2025-07-11 14:51:35 --> Helper loaded: user_auth_helper
+INFO - 2025-07-11 14:51:35 --> Helper loaded: xdate_helper
+INFO - 2025-07-11 14:51:35 --> Helper loaded: public_helper
+INFO - 2025-07-11 14:51:35 --> Database Driver Class Initialized
+INFO - 2025-07-11 14:51:35 --> Email Class Initialized
+INFO - 2025-07-11 14:51:35 --> Session: Class initialized using 'files' driver.
+INFO - 2025-07-11 14:51:36 --> Helper loaded: form_helper
+INFO - 2025-07-11 14:51:36 --> Form Validation Class Initialized
+INFO - 2025-07-11 14:51:36 --> Model "M_user" initialized
+INFO - 2025-07-11 14:51:36 --> Model "M_customer" initialized
+INFO - 2025-07-11 14:51:36 --> Model "M_tarif" initialized
+INFO - 2025-07-11 14:51:36 --> Model "M_usage" initialized
+INFO - 2025-07-11 14:51:36 --> Model "M_bill" initialized
+INFO - 2025-07-11 14:51:36 --> Model "M_payment" initialized
+INFO - 2025-07-11 14:51:36 --> Model "M_dashboard" initialized
+INFO - 2025-07-11 14:51:36 --> Controller Class Initialized
+DEBUG - 2025-07-11 14:51:36 --> DB cache path error: C:\xampp\htdocs\powerpay\application\cache/db/
+INFO - 2025-07-11 14:51:36 --> File loaded: C:\xampp\htdocs\powerpay\application\views\admin/usage/v_usage_cetak.php
+INFO - 2025-07-11 14:51:36 --> Final output sent to browser
+DEBUG - 2025-07-11 14:51:36 --> Total execution time: 0.1070
+INFO - 2025-07-11 14:51:46 --> Config Class Initialized
+INFO - 2025-07-11 14:51:46 --> Hooks Class Initialized
+DEBUG - 2025-07-11 14:51:46 --> UTF-8 Support Enabled
+INFO - 2025-07-11 14:51:46 --> Utf8 Class Initialized
+INFO - 2025-07-11 14:51:46 --> URI Class Initialized
+INFO - 2025-07-11 14:51:46 --> Router Class Initialized
+INFO - 2025-07-11 14:51:46 --> Output Class Initialized
+INFO - 2025-07-11 14:51:46 --> Security Class Initialized
+DEBUG - 2025-07-11 14:51:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-07-11 14:51:46 --> Input Class Initialized
+INFO - 2025-07-11 14:51:46 --> Language Class Initialized
+INFO - 2025-07-11 14:51:46 --> Loader Class Initialized
+INFO - 2025-07-11 14:51:46 --> Helper loaded: url_helper
+INFO - 2025-07-11 14:51:46 --> Helper loaded: file_helper
+INFO - 2025-07-11 14:51:46 --> Helper loaded: csmr_auth_helper
+INFO - 2025-07-11 14:51:46 --> Helper loaded: auto_number_helper
+INFO - 2025-07-11 14:51:46 --> Helper loaded: user_auth_helper
+INFO - 2025-07-11 14:51:46 --> Helper loaded: xdate_helper
+INFO - 2025-07-11 14:51:46 --> Helper loaded: public_helper
+INFO - 2025-07-11 14:51:46 --> Database Driver Class Initialized
+INFO - 2025-07-11 14:51:46 --> Email Class Initialized
+INFO - 2025-07-11 14:51:46 --> Session: Class initialized using 'files' driver.
+INFO - 2025-07-11 14:51:46 --> Helper loaded: form_helper
+INFO - 2025-07-11 14:51:46 --> Form Validation Class Initialized
+INFO - 2025-07-11 14:51:46 --> Model "M_user" initialized
+INFO - 2025-07-11 14:51:46 --> Model "M_customer" initialized
+INFO - 2025-07-11 14:51:46 --> Model "M_tarif" initialized
+INFO - 2025-07-11 14:51:46 --> Model "M_usage" initialized
+INFO - 2025-07-11 14:51:46 --> Model "M_bill" initialized
+INFO - 2025-07-11 14:51:46 --> Model "M_payment" initialized
+INFO - 2025-07-11 14:51:46 --> Model "M_dashboard" initialized
+INFO - 2025-07-11 14:51:46 --> Controller Class Initialized
+DEBUG - 2025-07-11 14:51:46 --> DB cache path error: C:\xampp\htdocs\powerpay\application\cache/db/
+INFO - 2025-07-11 14:51:46 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/head.php
+INFO - 2025-07-11 14:51:46 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/sidebar_admin.php
+INFO - 2025-07-11 14:51:46 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/header_admin.php
+INFO - 2025-07-11 14:51:46 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/flashdata.php
+INFO - 2025-07-11 14:51:46 --> File loaded: C:\xampp\htdocs\powerpay\application\views\admin/tarif/v_tarif.php
+INFO - 2025-07-11 14:51:46 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/footer.php
+INFO - 2025-07-11 14:51:46 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/end.php
+INFO - 2025-07-11 14:51:46 --> Final output sent to browser
+DEBUG - 2025-07-11 14:51:46 --> Total execution time: 0.0873
+INFO - 2025-07-11 14:51:47 --> Config Class Initialized
+INFO - 2025-07-11 14:51:47 --> Hooks Class Initialized
+DEBUG - 2025-07-11 14:51:47 --> UTF-8 Support Enabled
+INFO - 2025-07-11 14:51:47 --> Utf8 Class Initialized
+INFO - 2025-07-11 14:51:47 --> URI Class Initialized
+INFO - 2025-07-11 14:51:47 --> Router Class Initialized
+INFO - 2025-07-11 14:51:47 --> Output Class Initialized
+INFO - 2025-07-11 14:51:47 --> Security Class Initialized
+DEBUG - 2025-07-11 14:51:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-07-11 14:51:47 --> Input Class Initialized
+INFO - 2025-07-11 14:51:47 --> Language Class Initialized
+INFO - 2025-07-11 14:51:47 --> Loader Class Initialized
+INFO - 2025-07-11 14:51:47 --> Helper loaded: url_helper
+INFO - 2025-07-11 14:51:47 --> Helper loaded: file_helper
+INFO - 2025-07-11 14:51:47 --> Helper loaded: csmr_auth_helper
+INFO - 2025-07-11 14:51:47 --> Helper loaded: auto_number_helper
+INFO - 2025-07-11 14:51:47 --> Helper loaded: user_auth_helper
+INFO - 2025-07-11 14:51:47 --> Helper loaded: xdate_helper
+INFO - 2025-07-11 14:51:47 --> Helper loaded: public_helper
+INFO - 2025-07-11 14:51:47 --> Database Driver Class Initialized
+INFO - 2025-07-11 14:51:47 --> Email Class Initialized
+INFO - 2025-07-11 14:51:47 --> Session: Class initialized using 'files' driver.
+INFO - 2025-07-11 14:51:47 --> Helper loaded: form_helper
+INFO - 2025-07-11 14:51:47 --> Form Validation Class Initialized
+INFO - 2025-07-11 14:51:47 --> Model "M_user" initialized
+INFO - 2025-07-11 14:51:47 --> Model "M_customer" initialized
+INFO - 2025-07-11 14:51:47 --> Model "M_tarif" initialized
+INFO - 2025-07-11 14:51:47 --> Model "M_usage" initialized
+INFO - 2025-07-11 14:51:47 --> Model "M_bill" initialized
+INFO - 2025-07-11 14:51:47 --> Model "M_payment" initialized
+INFO - 2025-07-11 14:51:47 --> Model "M_dashboard" initialized
+INFO - 2025-07-11 14:51:47 --> Controller Class Initialized
+DEBUG - 2025-07-11 14:51:47 --> DB cache path error: C:\xampp\htdocs\powerpay\application\cache/db/
+INFO - 2025-07-11 14:51:47 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/head.php
+INFO - 2025-07-11 14:51:47 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/sidebar_admin.php
+INFO - 2025-07-11 14:51:47 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/header_admin.php
+INFO - 2025-07-11 14:51:47 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/flashdata.php
+INFO - 2025-07-11 14:51:47 --> File loaded: C:\xampp\htdocs\powerpay\application\views\admin/bill/v_bill.php
+INFO - 2025-07-11 14:51:47 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/footer.php
+INFO - 2025-07-11 14:51:47 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/end.php
+INFO - 2025-07-11 14:51:47 --> Final output sent to browser
+DEBUG - 2025-07-11 14:51:47 --> Total execution time: 0.0949
+INFO - 2025-07-11 14:51:51 --> Config Class Initialized
+INFO - 2025-07-11 14:51:51 --> Hooks Class Initialized
+DEBUG - 2025-07-11 14:51:51 --> UTF-8 Support Enabled
+INFO - 2025-07-11 14:51:51 --> Utf8 Class Initialized
+INFO - 2025-07-11 14:51:51 --> URI Class Initialized
+INFO - 2025-07-11 14:51:51 --> Router Class Initialized
+INFO - 2025-07-11 14:51:51 --> Output Class Initialized
+INFO - 2025-07-11 14:51:51 --> Security Class Initialized
+DEBUG - 2025-07-11 14:51:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2025-07-11 14:51:51 --> Input Class Initialized
+INFO - 2025-07-11 14:51:51 --> Language Class Initialized
+INFO - 2025-07-11 14:51:51 --> Loader Class Initialized
+INFO - 2025-07-11 14:51:51 --> Helper loaded: url_helper
+INFO - 2025-07-11 14:51:51 --> Helper loaded: file_helper
+INFO - 2025-07-11 14:51:51 --> Helper loaded: csmr_auth_helper
+INFO - 2025-07-11 14:51:51 --> Helper loaded: auto_number_helper
+INFO - 2025-07-11 14:51:51 --> Helper loaded: user_auth_helper
+INFO - 2025-07-11 14:51:51 --> Helper loaded: xdate_helper
+INFO - 2025-07-11 14:51:51 --> Helper loaded: public_helper
+INFO - 2025-07-11 14:51:51 --> Database Driver Class Initialized
+INFO - 2025-07-11 14:51:51 --> Email Class Initialized
+INFO - 2025-07-11 14:51:51 --> Session: Class initialized using 'files' driver.
+INFO - 2025-07-11 14:51:51 --> Helper loaded: form_helper
+INFO - 2025-07-11 14:51:51 --> Form Validation Class Initialized
+INFO - 2025-07-11 14:51:51 --> Model "M_user" initialized
+INFO - 2025-07-11 14:51:51 --> Model "M_customer" initialized
+INFO - 2025-07-11 14:51:51 --> Model "M_tarif" initialized
+INFO - 2025-07-11 14:51:51 --> Model "M_usage" initialized
+INFO - 2025-07-11 14:51:51 --> Model "M_bill" initialized
+INFO - 2025-07-11 14:51:51 --> Model "M_payment" initialized
+INFO - 2025-07-11 14:51:51 --> Model "M_dashboard" initialized
+INFO - 2025-07-11 14:51:51 --> Controller Class Initialized
+DEBUG - 2025-07-11 14:51:51 --> DB cache path error: C:\xampp\htdocs\powerpay\application\cache/db/
+INFO - 2025-07-11 14:51:51 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/head.php
+INFO - 2025-07-11 14:51:51 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/sidebar_admin.php
+INFO - 2025-07-11 14:51:51 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/header_admin.php
+INFO - 2025-07-11 14:51:51 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/flashdata.php
+INFO - 2025-07-11 14:51:51 --> File loaded: C:\xampp\htdocs\powerpay\application\views\admin/bill/v_bill_info.php
+INFO - 2025-07-11 14:51:51 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/footer.php
+INFO - 2025-07-11 14:51:51 --> File loaded: C:\xampp\htdocs\powerpay\application\views\layouts/end.php
+INFO - 2025-07-11 14:51:51 --> Final output sent to browser
+DEBUG - 2025-07-11 14:51:51 --> Total execution time: 0.1226

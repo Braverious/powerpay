@@ -101,6 +101,7 @@ $route['administrator/tarif/post-update/(:any)'] = 'admin/Tarif/update/$1';
 
 $route['administrator/penggunaan'] = 'admin/Usage/index';
 $route['administrator/penggunaan/hapus/(:any)'] = 'admin/Usage/delete/$1';
+$route['administrator/penggunaan/cetak_pdf'] = 'admin/Usage/cetak_pdf'; 
 
 $route['administrator/tagihan'] = 'admin/Bill/index';
 $route['administrator/tagihan/(:any)'] = 'admin/Bill/detail/$1';
