@@ -62,10 +62,9 @@ if ($this->session->flashdata('form_values')) {
         <?php $this->load->view('layouts/flashdata'); ?>
         <?php $this->load->view('layouts/flashdata_tailwind'); ?>
         <form id="login-form" action="<?php echo base_url('administrator/post-masuk'); ?>" method="POST">
-          <!-- Customer Username Input -->
           <div class="mb-4">
-            <label for="customer-id" class="block text-sm font-medium text-gray-700 mb-1">Username</label>
-            <input type="text" type="text" id="id_user" name="id_user" placeholder="Masukan username Anda" class="w-full p-3 rounded-lg border border-gray-300 focus:ring-2 focus:ring-yellow-500 focus:border-yellow-500 focus:outline-none" required>
+            <label for="customer-id" class="block text-sm font-medium text-gray-700 mb-1">ID Admin</label>
+            <input type="text" type="text" id="id_user" name="id_user" placeholder="Masukan ID Admin Anda" class="w-full p-3 rounded-lg border border-gray-300 focus:ring-2 focus:ring-yellow-500 focus:border-yellow-500 focus:outline-none" required>
           </div>
           <?= form_error('username', '<small class="text-danger">', '</small>'); ?>
 
