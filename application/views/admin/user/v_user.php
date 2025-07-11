@@ -7,8 +7,7 @@
       </div>
 
       <div class="col-auto ms-auto text-end mt-n1">
-        <!-- <a href="#" class="btn btn-light bg-white me-2">Invite a Friend</a> -->
-        <a href="<?= base_url("administrator/petugas/tambah") ?>" class="btn btn-primary">Tambah Petugas</a>
+        <a href="<?= base_url("administrator/petugas/tambah") ?>" class="btn btn-kuning">Tambah Petugas</a>
       </div>
     </div>
 
@@ -18,7 +17,7 @@
     <div class="col-md-12">
       <?php $this->load->view('layouts/flashdata'); ?>
     </div>
-    <div class="col-md-10">
+    <div class="col-md-12">
       <div class="card">
         <div class="card-body">
           <table class="table table-bordered">
@@ -52,8 +51,8 @@
                     <td>
                       <?php if ($user->id_user !== "ADM0000") : ?>
                         <div class=" d-flex gap-2 justify-content-center ">
-                          <a class="btn btn-primary btn-sm rounded-0 " href="<?php echo site_url('administrator/petugas/ubah/' . $user->id_user); ?>">Edit</a>
-                          <a class="btn btn-danger  btn-sm rounded-0" href="<?php echo site_url('administrator/petugas/delete/' . $user->id_user); ?>">Delete</a>
+                          <a class="btn btn-primary btn-sm rounded-0 " href="<?php echo site_url('administrator/petugas/ubah/' . $user->id_user); ?>"><i data-feather="edit" class="my-auto mb-1"></i></a>
+                          <a class="btn btn-danger  btn-sm rounded-0" href="<?php echo site_url('administrator/petugas/delete/' . $user->id_user); ?>"><i data-feather="trash-2" class="my-auto mb-1"></i></a>
                         </div>
                       <?php endif; ?>
 

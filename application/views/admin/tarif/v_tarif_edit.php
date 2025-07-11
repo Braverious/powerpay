@@ -14,15 +14,15 @@
           <?php $this->load->view('layouts/flashdata'); ?>
         </div>
         <div class="card card-body shadow-none border ">
-          <form class=" g-3" action="<?= base_url("administrator/tarif/post-update/" . $tariff->id_tarif) ?>" method="post">
+          <form class=" g-3" action="<?= base_url("administrator/tarif/post-update/" . $tarif->id_tarif) ?>" method="post">
             <div class="form-group mb-3">
               <label for="daya" class="form-label">Daya</label>
-              <input type="text" class="form-control form-control-lg" id="daya" name="daya" placeholder="Daya" value="<?= $tariff->daya ?>">
+              <input type="text" class="form-control form-control-lg" id="daya" name="daya" placeholder="Daya" value="<?= $tarif->daya ?>">
               <?= form_error('daya', '<small class="text-danger">', '</small>'); ?>
             </div>
             <div class="form-group mb-3">
               <label for="tarif_perkwh" class="form-label">Tarif per-KWH</label>
-              <input type="text" class="form-control form-control-lg" id="tarif_perkwh" name="tarif_perkwh" placeholder="Tarif perkwh" value="<?= $tariff->tarif_perkwh ?>">
+              <input type="text" class="form-control form-control-lg" id="tarif_perkwh" name="tarif_perkwh" placeholder="Tarif perkwh" value="<?= $tarif->tarif_perkwh ?>">
               <?= form_error('tarif_perkwh', '<small class="text-danger">', '</small>'); ?>
             </div>
             <div class="form-group d-flex gap-2">

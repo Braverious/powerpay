@@ -1,3 +1,19 @@
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2.0.0"></script>
+
+<style>
+	.btn-kuning {
+		color: #000;
+		background-color: #ffd700;
+		border-color: #ffd700;
+	}
+
+	.btn-kuning:hover {
+		color: #000;
+		background-color: #e6c300;
+		border-color: #d9b800;
+	}
+</style>
 <nav class="navbar navbar-expand navbar-light navbar-bg">
 	<a class="sidebar-toggle js-sidebar-toggle">
 		<i class="hamburger align-self-center"></i>

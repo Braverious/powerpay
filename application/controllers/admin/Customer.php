@@ -68,7 +68,7 @@ class Customer extends CI_Controller
     if ($this->form_validation->run() === FALSE) {
       $data['user_auth'] = get_logged_in_user();
       $data["title"] = "Input Data Pelanggan";
-      $data['tariffs'] = $this->M_tariff->get_tariffs();
+      $data['tariffs'] = $this->M_tarif->get_tarifs();
       $validation_err = $data_post;
       $this->session->set_flashdata('validation_err', $validation_err);
 
@@ -123,7 +123,7 @@ class Customer extends CI_Controller
     if ($this->form_validation->run() === FALSE) {
       $data["title"] = "Ubah Data Pelanggan";
 
-      $data['tariffs'] = $this->M_tariff->get_tariffs();
+      $data['tariffs'] = $this->M_tarif->get_tarifs();
       $validation_err = $data_post;
       $this->session->set_flashdata('validation_err', $validation_err);
 

@@ -1,29 +1,25 @@
 <nav id="sidebar" class="sidebar js-sidebar">
   <div class="sidebar-content js-simplebar">
-    <a class="sidebar-brand" href="<?= base_url("administrator") ?>">
-      <span class="align-middle">Listrikk</span> <br>
-      <span class="text-white-50" style="font-size: 18px;">Admin</span>
+    <a class="sidebar-brand" href="#">
+      <span>PowerPay</span>
+      <br>
+      <span class="sidebar-brand-subtitle">Dasbor Petugas</span>
     </a>
 
     <ul class="sidebar-nav">
       <li class="sidebar-header">
         Dashboard
       </li>
-
       <li class="sidebar-item ">
         <a class="sidebar-link" href="<?= base_url("administrator") ?>">
           <i class="align-middle" data-feather="sliders"></i> <span class="align-middle">Dashboard</span>
         </a>
       </li>
-
       <li class="sidebar-item">
         <a class="sidebar-link" href="<?= base_url("administrator/profile") ?>">
           <i class="align-middle" data-feather="user"></i> <span class="align-middle">Profile</span>
         </a>
       </li>
-
-
-
       <li class="sidebar-header">
         User
       </li>

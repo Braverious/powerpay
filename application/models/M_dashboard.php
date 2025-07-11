@@ -165,4 +165,28 @@ class M_dashboard extends CI_Model
       return $hasil;
     }
   }
+
+  public function get_revenue_grafik_by_year($year)
+  {
+    // 1. Inisialisasi array untuk 12 bulan dengan nilai 0
+    $monthly_revenue = array_fill(1, 12, 0);
+
+    // 2. Query untuk mengambil total bayar, dikelompokkan per bulan
+    $this->db->select('SUM(total_bayar) as total, MONTH(tgl_bayar) as bulan');
+    $this->db->from('pembayaran');
+    $this->db->where('YEAR(tgl_bayar)', $year);
+    $this->db->group_by('bulan');
+    $this->db->order_by('bulan', 'ASC');
+    $query = $this->db->get();
+
+    $result = $query->result();
+
+    // 3. Isi array yang sudah diinisialisasi dengan data dari database
+    foreach ($result as $row) {
+      $monthly_revenue[(int)$row->bulan] = (int)$row->total;
+    }
+
+    // 4. Kembalikan nilai array (bukan key-nya) agar menjadi array numerik
+    return array_values($monthly_revenue);
+  }
 }

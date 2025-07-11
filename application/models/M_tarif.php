@@ -1,22 +1,22 @@
 <?php
 defined('BASEPATH') or exit('No direct script access allowed');
 /**
- * Class TariffModel
+ * Class tarifModel
  *
  * @description Model untuk manajemen data tarif
  *
  * @package     Models
- * @subpackage  TariffModel
+ * @subpackage  tarifModel
  * @category    Model
  */
-class M_tariff extends CI_Model
+class M_tarif extends CI_Model
 {
-  public function create_tariff($data)
+  public function create_tarif($data)
   {
     return $this->db->insert('tarif', $data);
   }
 
-  public function get_tariff_by_id($id)
+  public function get_tarif_by_id($id)
   {
     $this->db->select('*');
     $this->db->from('tarif');
@@ -25,19 +25,19 @@ class M_tariff extends CI_Model
     return $query->row();
   }
 
-  public function get_tariffs()
+  public function get_tarifs()
   {
     $query = $this->db->get('tarif');
     return $query->result_array();
   }
 
-  public function update_tariff($id, $data)
+  public function update_tarif($id, $data)
   {
     $this->db->where('id_tarif', $id);
     $this->db->update('tarif', $data);
   }
 
-  public function delete_tariff($id)
+  public function delete_tarif($id)
   {
     $this->db->where('id_tarif', $id);
     $this->db->delete('tarif');

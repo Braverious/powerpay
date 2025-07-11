@@ -93,11 +93,11 @@ $route['administrator/pelanggan/tambah'] = 'admin/Customer/create';
 $route['administrator/pelanggan/ubah/(:any)'] = 'admin/Customer/update/$1';
 $route['administrator/pelanggan/hapus/(:any)'] = 'admin/Customer/delete/$1';
 
-$route['administrator/tarif'] = 'admin/Tariff/index';
-$route['administrator/tarif/create'] = 'admin/Tariff/create';
-$route['administrator/tarif/delete/(:any)'] = 'admin/Tariff/delete/$1';
-$route['administrator/tarif/update/(:any)'] = 'admin/Tariff/getUpdate/$1';
-$route['administrator/tarif/post-update/(:any)'] = 'admin/Tariff/update/$1';
+$route['administrator/tarif'] = 'admin/Tarif/index';
+$route['administrator/tarif/create'] = 'admin/Tarif/create';
+$route['administrator/tarif/delete/(:any)'] = 'admin/Tarif/delete/$1';
+$route['administrator/tarif/update/(:any)'] = 'admin/Tarif/getUpdate/$1';
+$route['administrator/tarif/post-update/(:any)'] = 'admin/Tarif/update/$1';
 
 $route['administrator/penggunaan'] = 'admin/Usage/index';
 $route['administrator/penggunaan/hapus/(:any)'] = 'admin/Usage/delete/$1';

@@ -1,15 +1,15 @@
 <?php
 defined('BASEPATH') or exit('No direct script access allowed');
 /**
- * Class Tariff
+ * Class tarif
  *
  * @description Controller untuk halaman dan mengatur fitur profile pelanggan
  *
  * @package     Admin Controller
- * @subpackage  Tariff
+ * @subpackage  tarif
  * @category    Controller
  */
-class Tariff extends CI_Controller
+class Tarif extends CI_Controller
 {
 
   public function __construct()
@@ -22,11 +22,11 @@ class Tariff extends CI_Controller
   {
     $data['user_auth'] = get_logged_in_user();
     $data["title"] = "Tarif";
-    $data['tariffs'] = $this->M_tariff->get_tariffs();
+    $data['tarifs'] = $this->M_tarif->get_tarifs();
     $this->load->view('layouts/head', $data);
     $this->load->view('layouts/sidebar_admin', $data);
     $this->load->view('layouts/header_admin', $data);
-    $this->load->view('admin/tariff/v_tariff', $data);
+    $this->load->view('admin/tarif/v_tarif', $data);
     $this->load->view('layouts/footer', $data);
     $this->load->view('layouts/end', $data);
   }
@@ -47,7 +47,7 @@ class Tariff extends CI_Controller
         'daya' => $this->input->post('daya'),
         'tarif_perkwh' => $this->input->post('tarif_perkwh')
       );
-      $this->M_tariff->create_tariff($data);
+      $this->M_tarif->create_tarif($data);
       $this->session->set_flashdata('message_success', 'Berhasil menambah tarif');
       redirect('administrator/tarif');
     }
@@ -55,15 +55,15 @@ class Tariff extends CI_Controller
 
   public function getUpdate($id)
   {
-    $tariff = $this->M_tariff->get_tariff_by_id($id);
-    $data['tariff'] = $tariff;
+    $tarif = $this->M_tarif->get_tarif_by_id($id);
+    $data['tarif'] = $tarif;
     $data['user_auth'] = get_logged_in_user();
-    $data["title"] = "Edit Tarif : " . $tariff->id_tarif;
+    $data["title"] = "Edit Tarif : " . $tarif->id_tarif;
 
     $this->load->view('layouts/head', $data);
     $this->load->view('layouts/sidebar_admin', $data);
     $this->load->view('layouts/header_admin', $data);
-    $this->load->view('admin/tariff/v_tariff_edit', $data);
+    $this->load->view('admin/tarif/v_tarif_edit', $data);
     $this->load->view('layouts/footer', $data);
     $this->load->view('layouts/end', $data);
   }
@@ -74,7 +74,7 @@ class Tariff extends CI_Controller
     $this->form_validation->set_rules('tarif_perkwh', 'Tarif per KWH', 'required');
 
     if ($this->form_validation->run() === FALSE) {
-      // $data['tarif'] = $this->M_tariff->get_tariff($id);
+      // $data['tarif'] = $this->M_tarif->get_tarif($id);
       $this->getUpdate($id);
     } else {
       $data = array(
@@ -82,7 +82,7 @@ class Tariff extends CI_Controller
         'tarif_perkwh' => $this->input->post('tarif_perkwh')
       );
 
-      $this->M_tariff->update_tariff($id, $data);
+      $this->M_tarif->update_tarif($id, $data);
       $this->session->set_flashdata('message_success', 'Berhasil mengupdate tarif');
       redirect('administrator/tarif');
     }
@@ -92,7 +92,7 @@ class Tariff extends CI_Controller
   public function delete($id)
   {
 
-    $this->M_tariff->delete_tariff($id);
+    $this->M_tarif->delete_tarif($id);
     $this->session->set_flashdata('message_success', 'Berhasil menghapus tarif');
     redirect('administrator/tarif');
   }
