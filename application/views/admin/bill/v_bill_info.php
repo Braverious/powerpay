@@ -6,18 +6,12 @@ $status_color = "danger"
 ?>
 
 <main class="content">
-
   <div class="container-fluid p-0">
     <div class="row mb-2 mb-xl-3">
       <div class="col-auto d-none d-sm-block">
         <h3><strong><?= $title ?></strong></h3>
       </div>
-      <div class="col-auto ms-auto text-end mt-n1 gap-4 ">
-        <!-- <a href="#" class="btn btn-light bg-white me-2">Invite a Friend</a> -->
-
-      </div>
     </div>
-
     <div class="row">
       <?php if ($error) { ?>
         <div class="col-12">
@@ -112,18 +106,17 @@ $status_color = "danger"
                         <h4 class=" fw-bold text-dark"><?= $total_pay ?></h4>
                       </td>
                     </tr>
-
-
                   </tfoot>
                 </table>
               </div>
-
+              <div class="card-footer pt-0 ">
+                <a href="<?= site_url('administrator/tagihan/' . $bill->id_tagihan . '/cetak') ?>" target="_blank" class="btn btn-success w-100 px-4 py-2 me-auto ">Cetak Struk</a>
+              </div>
               <?php if ($bill->status === "UNPAID") : ?>
                 <div class="card-footer pt-0 pb-4 d-grid gap-3 ">
                   <a href="<?= base_url('administrator/tagihan/' . $bill->id_tagihan . '/pembayaran') ?>" class="btn btn-primary px-4 py-2 ">Buat Pembayaran
                   </a>
                   <a href="<?= base_url("administrator/tagihan") ?>" class="btn btn-link text-primary ">Kembali</a>
-
                 </div>
               <?php elseif ($bill->status === "PROCESSED") : ?>
                 <div class="card-footer pt-0 pb-4 d-flex gap-3 justify-content-end ">

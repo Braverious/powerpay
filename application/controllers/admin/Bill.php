@@ -67,4 +67,25 @@ class Bill extends CI_Controller
     $this->load->view('layouts/footer', $data);
     $this->load->view('layouts/end', $data);
   }
+
+  public function cetak($id)
+  {
+    $bill = $this->M_bill->get_tagihan_by_id($id);
+
+    if ($bill) {
+      $data["title"] = "Struk Tagihan " . $bill->id_tagihan;
+      $admin_fee = AdminFee();
+      $total_bill = $bill->tarif_perkwh * $bill->jumlah_meter;
+      $total_pay = $total_bill + $admin_fee;
+      
+      $data["total_bill"] = Rupiah($total_bill);
+      $data["admin_fee"] = Rupiah($admin_fee);
+      $data["total_pay"] = Rupiah($total_pay);
+      $data["bill"] = $bill;
+      
+      $this->load->view('admin/bill/v_bill_cetak', $data);
+    } else {
+      show_404();
+    }
+  }
 }
