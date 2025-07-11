@@ -137,4 +137,10 @@ class M_customer extends CI_Model
 
     return $is_data_filled;
   }
+
+     public function update_block_status($id, $status)
+    {
+        $this->db->where('id_pelanggan', $id);
+        return $this->db->update('pelanggan', ['blokir' => $status]);
+    }
 }

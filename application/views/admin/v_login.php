@@ -60,6 +60,7 @@ if ($this->session->flashdata('form_values')) {
 
       <div class="login-card p-8 rounded-lg shadow-lg">
         <?php $this->load->view('layouts/flashdata'); ?>
+        <?php $this->load->view('layouts/flashdata_tailwind'); ?>
         <form id="login-form" action="<?php echo base_url('administrator/post-masuk'); ?>" method="POST">
           <!-- Customer Username Input -->
           <div class="mb-4">

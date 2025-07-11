@@ -112,6 +112,10 @@ $route['administrator/pembayaran/konfirmasi'] = 'admin/Payment/confirm';
 $route['administrator/pembayaran/tolak'] = 'admin/Payment/reject';
 $route['administrator/pembayaran'] = 'admin/Payment';
 
+$route['administrator/pemblokiran'] = 'admin/Block';
+$route['administrator/pemblokiran/block/(:any)'] = 'admin/Block/block_customer/$1';
+$route['administrator/pemblokiran/unblock/(:any)'] = 'admin/Block/unblock_customer/$1';;
+
 // $route['test/tariff'] = 'test/TariffTest/test_get_tarif';
 // $route['test/pelanggan/tariff'] = 'test/CustomerTest/getCustomerTariff';
 // $route['test/pelanggan'] = 'test/CustomerTest/test_get_customer';
